@@ -1,0 +1,17 @@
+{"sessions":
+	[
+		{
+			"id": 1108,
+			"title": "Igualdade de gênero na computação",
+			"authors": ["Cecilia Fernandes", "Mariana Bravo"],
+			"tags": ["Aprendizagem", "Cultura", "Evolução", "Melhoria contínua", "Times"],
+			"session_type": "Duelo"
+		}, {
+			"id": 1110,
+			"title": "Introdução ao Lean Software Development",
+			"authors": ["Samuel Crescêncio"],
+			"tags": ["Automação", "Coaching", "Cultura", "Estratégias", "Melhoria contínua", "Métricas", "Processos", "Relacionamento com clientes", "Técnicas", "Times"],
+			"session_type": "Palestra"
+		}
+	]
+}
