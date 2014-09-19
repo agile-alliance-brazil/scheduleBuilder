@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+	<button id="loadFromFile">Load sessions from file</button>
+	<ul id="sessions"></ul>
+	<button id="generateJson">Generate JSON</button>
+	<div id="json"></div>
+
+	<script src="jquery-2.1.1.min.js"></script>
+	<script src="Session.js"></script>
+	<script src="ScheduledSession.js"></script>
+
+	<script type="text/javascript">
+		var scheduledSessions = [];
+
+		function retrieveSessions() {
+			var address = "sessions.json";
+			$.getJSON(address)
+			.done(function(accepted_sessions) {
+				$.each(accepted_sessions.sessions, function(i) {
+					var scheduled = new ScheduledSession({session:this});
+					sessionItem(scheduled).appendTo("#sessions");
+					scheduledSessions[this.id] = scheduled;
+				});
+			})
+			.fail(function() {
+				console.log("error retrieving accepted_sessions");
+			});
+		}
+
+		function updateSession(sessionId){
+			var li = $("#" + sessionId);
+			var session = scheduledSessions[sessionId];
+			session.room = li.find(".room").val();
+			session.day = li.find(".day").val();
+			session.hour = li.find(".hour").val();
+			session.minutes = li.find(".minutes").val();
+		}
+
+		function sessionItem (scheduled) {
+			var li = $("<li id='" + scheduled.session.id + "'>");
+			$("<h4>").text(scheduled.session.title).appendTo(li);
+			$("<input>").addClass("room").attr("placeholder", "Room").val(scheduled.room).appendTo(li);
+			$("<input>").addClass("day").attr("placeholder", "Day").val(scheduled.day).appendTo(li);
+			$("<input>").addClass("hour").attr("placeholder", "Hour").val(scheduled.hour).appendTo(li);
+			$("<input>").addClass("minutes").val(scheduled.minutes).appendTo(li);
+			return li;
+		}
+
+		function loadFromLocalStorage () {
+			var storedSessions = localStorage.getItem("abSchedule");
+			if (storedSessions != null) {
+				var parsedSessions = JSON.parse(storedSessions);
+				$.each(parsedSessions, function(i, item) {
+					if (item != null) {
+						var current = new ScheduledSession(item);
+						scheduledSessions[current.session.id] = current;
+						sessionItem(current).appendTo("#sessions");
+					}
+				});
+			}
+		}
+
+		//MAIN
+		loadFromLocalStorage();
+		$("#loadFromFile").click(retrieveSessions);
+
+		$("#sessions").on("blur", ".minutes", function () {
+			updateSession($(this).closest("li").attr("id"));
+			localStorage.setItem("abSchedule", JSON.stringify(scheduledSessions));
+		});
+
+		$("#generateJson").click(function () {
+			var notNullSessions = scheduledSessions.filter(function (item) {
+				return item != null;
+			});
+			$("#json").text(JSON.stringify(notNullSessions));
+		})
+
+	</script>
+
+</body>
+</html>

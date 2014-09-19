@@ -1,0 +1,24 @@
+ul {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+li {
+	border: 1px solid #ccc;
+	padding: 1em;
+	width: 30%;
+	margin: 0.1em;
+	list-style: none;
+}
+
+h4 {
+	margin: 0.2em auto;
+}
+
+input {
+	width: 3em;
+}
+
+#json {
+	width: 100%;
+}
