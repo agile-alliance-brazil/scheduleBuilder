@@ -15,10 +15,10 @@
 	<script src="ScheduledSession.js"></script>
 
 	<script type="text/javascript">
-		var scheduledSessions = [];
+		var scheduledSessions = {};
 
 		function retrieveSessions() {
-			var address = "sessions.json";
+			var address = "test_sessions.json";
 			$.getJSON(address)
 			.done(function(accepted_sessions) {
 				$.each(accepted_sessions.sessions, function(i) {
@@ -42,7 +42,7 @@
 		}
 
 		function sessionItem (scheduled) {
-			var li = $("<li id='" + scheduled.session.id + "'>");
+			var li = $("<li>").attr("id", scheduled.session.id);
 			$("<h4>").text(scheduled.session.title).appendTo(li);
 			$("<input>").addClass("room").attr("placeholder", "Room").val(scheduled.room).appendTo(li);
 			$("<input>").addClass("day").attr("placeholder", "Day").val(scheduled.day).appendTo(li);
@@ -55,13 +55,11 @@
 			var storedSessions = localStorage.getItem("abSchedule");
 			if (storedSessions != null) {
 				var parsedSessions = JSON.parse(storedSessions);
-				$.each(parsedSessions, function(i, item) {
-					if (item != null) {
-						var current = new ScheduledSession(item);
-						scheduledSessions[current.session.id] = current;
-						sessionItem(current).appendTo("#sessions");
-					}
-				});
+				for (var id in parsedSessions) {
+					var current = new ScheduledSession(parsedSessions[id]);
+					scheduledSessions[id] = current;
+					sessionItem(current).appendTo("#sessions");
+				}
 			}
 		}
 
@@ -75,11 +73,12 @@
 		});
 
 		$("#generateJson").click(function () {
-			var notNullSessions = scheduledSessions.filter(function (item) {
-				return item != null;
-			});
-			$("#json").text(JSON.stringify(notNullSessions));
-		})
+			var sessionsArray = [];
+			for (var id in scheduledSessions) {
+				sessionsArray.push(scheduledSessions[id]);
+			}
+			$("#json").text(JSON.stringify(sessionsArray));
+		});
 
 	</script>
 
