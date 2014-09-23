@@ -16,4 +16,8 @@ function ScheduledSession (parsedObject) {
 		return 2;
 	}
 
+	function positionYourself () {
+		$()
+	}
+
 }

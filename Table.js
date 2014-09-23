@@ -24,13 +24,13 @@ var Table = (function () {
 		$("<th>").text(hour + ":" + minute).appendTo(tr);
 
 		for (var room = 1; room <= Config.numberOfRooms; room++) {
-			$("<td>").addClass("room" + room).appendTo(tr);
+			$("<td>").attr("data-room", room).appendTo(tr);
 		}
 		return tr;
 	}
 
 	var newTable = function(day) {
-		var table = $("<table>").addClass("day" + day)
+		var table = $("<table>").attr("data-day", day);
 		tableHead(day).appendTo(table);
 
 		for (var hour = 9; hour < 19; hour++) {
