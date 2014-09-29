@@ -16,31 +16,46 @@ var Table = (function () {
 		}
 		roomTr.appendTo(thead);
 		return thead;
-	}
+	};
 
-	var regularLine = function (hour, minute) {
-		var tr = $("<tr>").attr("data-hour", hour)
-			 			  .attr("data-minutes", minute);
-		$("<th>").text(hour + ":" + minute).appendTo(tr);
+	var regularLine = function (time) {
+		var tr = $("<tr>").attr("data-time", time);
+		$("<th>").text(time).appendTo(tr);
 
 		for (var room = 1; room <= Config.numberOfRooms; room++) {
 			$("<td>").attr("data-room", room).appendTo(tr);
 		}
 		return tr;
-	}
+	};
+
+	var allHands = function (time, content) {
+		var tr = $("<tr>").attr("data-time", time);
+		$("<th>").text(time).appendTo(tr);
+		$("<td>").attr("data-room", 1)
+				 .attr("colspan", Config.numberOfRooms)
+				 .text(content)
+				 .appendTo(tr);
+		return tr;
+	};
+
+	var addLine = function (day, time) {
+		if (Config.foodStops[day][time]) {
+			return allHands(time, Config.foodStops[day][time]);
+		} else {
+			return regularLine(time);
+		}
+	};
 
 	var newTable = function(day) {
 		var table = $("<table>").attr("data-day", day);
 		tableHead(day).appendTo(table);
 
-		for (var hour = 9; hour < 19; hour++) {
-			regularLine(hour, "00").appendTo(table);
-			regularLine(hour, "30").appendTo(table);
-		}
-		regularLine(19, "00").appendTo(table);
+		Config.slots[day].forEach(function (time) {
+			addLine(day, time).appendTo(table);
+		});
 
 		return table;
-	}
+	};
 
 	return {
 		create: newTable
