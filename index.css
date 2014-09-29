@@ -27,6 +27,9 @@ th {
 	font-variant: small-caps;
 	font-weight: normal;
 }
+thead tr th {
+    width: 15%;
+}
 
 .time {
 	width: 10%;
@@ -34,4 +37,9 @@ th {
 
 .break {
 	background-color: #79bb83;
+}
+
+.authors {
+	display: block;
+	font-size: 75%;
 }

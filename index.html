@@ -14,15 +14,16 @@
 	<script src="Table.js"></script>
 
 	<script type="text/javascript">
-		var scheduledSessions = {};
+		var scheduledSessions = [];
 
 		function retrieveSessions() {
-			var address = "real_sessions.json";
+			var address = "scheduled_sessions.json";
 			$.getJSON(address)
-			.done(function(accepted_sessions) {
-				$.each(accepted_sessions.sessions, function(i) {
-					var scheduled = new ScheduledSession({session:this});
-					scheduledSessions[this.id] = scheduled;
+			.done(function(scheduled_sessions) {
+				$.each(scheduled_sessions, function(i) {
+					var scheduled = new ScheduledSession(this);
+					scheduled.positionYourself();
+					scheduledSessions.push(scheduled);
 				});
 			})
 			.fail(function() {

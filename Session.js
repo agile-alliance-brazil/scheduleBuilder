@@ -11,6 +11,12 @@ function Session(session) {
 
 	this.type = function () {
 		return this.session_type;
-	}
+	};
 	
+	this.informationFor = function (cell) {
+		cell.text(this.title);
+		$("<span>").addClass("authors")
+				   .text(this.authorsDisplayName())
+				   .appendTo(cell);
+	};
 }
