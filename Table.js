@@ -33,6 +33,7 @@ var Table = (function () {
 		$("<th>").text(time).appendTo(tr);
 		$("<td>").attr("data-room", 1)
 				 .attr("colspan", Config.numberOfRooms)
+				 .addClass("allHands")
 				 .text(content)
 				 .appendTo(tr);
 		return tr;
