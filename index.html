@@ -16,8 +16,7 @@
 	<script type="text/javascript">
 		var scheduledSessions = [];
 
-		function retrieveSessions() {
-			var address = "scheduled_sessions.json";
+		function retrieveSessions(address) {
 			$.getJSON(address)
 			.done(function(scheduled_sessions) {
 				$.each(scheduled_sessions, function(i) {
@@ -25,6 +24,7 @@
 					scheduled.positionYourself();
 					scheduledSessions.push(scheduled);
 				});
+				console.log("Successfully loaded " + address);
 			})
 			.fail(function() {
 				console.log("error retrieving accepted_sessions");
@@ -39,7 +39,8 @@
 		buildBaseTable(1);
 		buildBaseTable(2);
 		buildBaseTable(3);
-		retrieveSessions();
+		retrieveSessions("scheduled_sessions.json");
+		retrieveSessions("scheduled_extra_sessions.json");
 	</script>
 </body>
 </html>

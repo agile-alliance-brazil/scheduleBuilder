@@ -1,10 +1,10 @@
 function ScheduledSession (parsedObject) {
-	this.room = parsedObject.room;
+	this.room = isNaN(parsedObject.room) ? "" : parseInt(parsedObject.room);
 	this.day = parsedObject.day;
 	this.hour = parsedObject.hour;
 	this.minutes = parsedObject.minutes || "00";
 	this.roomspan = parsedObject.roomspan || 1;
-	this.timespan = howManyHalfHourSlots(parsedObject.session.session_type);
+	this.timespan = parsedObject.timespan || howManyHalfHourSlots(parsedObject.session.session_type);
 	this.session = new Session(parsedObject.session);
 
 	function howManyHalfHourSlots (sessionType) {
@@ -23,10 +23,15 @@ function ScheduledSession (parsedObject) {
 		cell.attr("rowspan", this.timespan).attr("colspan", this.roomspan);
 		this.session.informationFor(cell);
 
-		for (var i = 1; i < this.timespan; i++) {
+		for (var room = 1; room < this.roomspan; room++) {
+			line.find("[data-room='" + (this.room + room) + "']").remove();	
+		}
+
+		for (var time = 1; time < this.timespan; time++) {
 			line = line.next();
-			var toBeRemoved = line.find("[data-room='" + this.room + "']");
-			toBeRemoved.remove();
+			for (var room = 0; room < this.roomspan; room++) {
+				line.find("[data-room='" + (this.room + room) + "']").remove();	
+			}
 		}
 	};
 
