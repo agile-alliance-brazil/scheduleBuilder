@@ -67,12 +67,18 @@
 			"details": "sponsor"
 		}, {
 			"id": 12,
+			"title": "Members' Meeting",
+			"authors": ["Agile Alliance"],
+			"session_type": "Palestra",
+			"details": "sponsor"
+		}, {
+			"id": 13,
 			"title": "Reservado para WBMA",
 			"authors": [""],
 			"session_type": "Palestra",
 			"details": "wbma"
 		}, {
-			"id": 13,
+			"id": 14,
 			"title": "Reservado para WBMA",
 			"authors": [""],
 			"session_type": "Palestra",
