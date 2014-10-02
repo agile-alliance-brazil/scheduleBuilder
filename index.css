@@ -39,6 +39,18 @@ thead tr th {
 	background-color: #79bb83;
 }
 
+.invited {
+	background-color: #FFFF77;
+}
+
+.interactive {
+	background-color: #78c5ee;
+}
+
+.wbma {
+	background-color: #e5e5e5;
+}
+
 .authors {
 	display: block;
 	font-size: 75%;

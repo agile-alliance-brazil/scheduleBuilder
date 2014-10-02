@@ -5,13 +5,13 @@
 			"title": "Energizer",
 			"authors": [""],
 			"session_type": "Relatos de Experiência",
-			"details": "local"
+			"details": "interactive"
 		}, {
 			"id": 2,
 			"title": "Leading a 'Big Bang' Agile Transformation",
 			"authors": ["Kirsten Wolberg"],
 			"session_type": "Keynote",
-			"details": "local"
+			"details": "invited"
 		}, {
 			"id": 3,
 			"title": "The Lean Enterprise",
@@ -22,61 +22,61 @@
 			"title": "Métodos ágeis também falham",
 			"authors": ["Alexandre Freire"],
 			"session_type": "Keynote",
-			"details": "local"
+			"details": "invited"
 		}, {
 			"id": 5,
 			"title": "Keynote fora-da-caixa",
 			"authors": [""],
 			"session_type": "Keynote",
-			"details": "local"
+			"details": "invited"
 		}, {
 			"id": 6,
 			"title": "Open Spaces",
 			"authors": [""],
 			"session_type": "Palestra",
-			"details": "local"
+			"details": "interactive"
 		}, {
 			"id": 7,
 			"title": "Taming Big Balls of Mud with Diligence, Agile Practices, and Hard Work",
 			"authors": ["Joe Yoder"],
 			"session_type": "Palestra",
-			"details": "local"
+			"details": "invited"
 		}, {
 			"id": 8,
 			"title": "TBD",
 			"authors": ["Linda Cook"],
 			"session_type": "Mão na Massa",
-			"details": "local"
+			"details": "invited"
 		}, {
 			"id": 9,
 			"title": "Creating intimacy for Near-shore Agile teams",
 			"authors": ["Derek Johnson"],
 			"session_type": "Palestra",
-			"details": "local"
+			"details": "invited"
 		}, {
 			"id": 10,
 			"title": "A CONFIRMAR",
 			"authors": [""],
 			"session_type": "Palestra",
-			"details": "local"
+			"details": "sponsor"
 		}, {
 			"id": 11,
 			"title": "TBD",
 			"authors": ["Alexandre Magno"],
 			"session_type": "Palestra",
-			"details": "local"
+			"details": "sponsor"
 		}, {
 			"id": 12,
 			"title": "Reservado para WBMA",
 			"authors": [""],
 			"session_type": "Palestra",
-			"details": "local"
+			"details": "wbma"
 		}, {
 			"id": 13,
 			"title": "Reservado para WBMA",
 			"authors": [""],
 			"session_type": "Palestra",
-			"details": "local"
+			"details": "wbma"
 		}
 	]
 }
