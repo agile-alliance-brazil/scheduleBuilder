@@ -1,0 +1,20 @@
+{
+	"id":1108,
+	"title":"Igualdade de gênero na computação",
+	"authors":[
+		{
+			"name":"Cecilia Fernandes",
+			"gravatar_url":"http://gravatar.com/avatar/83caf77361748326fe960eeca984e1b3.png?s=48&d=mm"
+		},
+		{
+			"name":"Mariana Bravo",
+			"gravatar_url":"http://gravatar.com/avatar/b08766d7d4b0005850649481e44e3c42.png?s=48&d=mm"
+		}
+	],
+	"prerequisites":"Ter uma opinião sobre o tema",
+	"tags":["Melhoria contínua", "Cultura", "Evolução", "Aprendizagem", "Times"],
+	"session_type":"Duelo",
+	"audience_level":"Iniciante",
+	"track":"Interesse Geral",
+	"summary":"Um assunto muito discutido já há uns bons anos é o da notável razão homens vs. mulheres nos cargos de TI. As medidas que se pode tomar a respeito disso são várias e diversas empresas têm abordagens bem diferentes para tratar tal assunto.\r\n\r\nSerá que estamos tratando esse assunto tão relevante de forma adequada? Venha discutir as abordagens para reduzir a diferença entre sexos na comunidade ágil com duas mulheres na computação."
+}

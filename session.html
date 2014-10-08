@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<link rel="stylesheet" type="text/css" href="index.css">
+</head>
+<body>
+	<div id="session">
+		<h1 class="title"></h1>
+		<ul class="authors"></ul>
+		<section>
+			<h3>Pré-requisitos</h3>
+			<p class="prerequisites"></p>
+
+			<h3>Resumo</h3>
+			<p class="summary"></p>
+		</section>
+		<aside>
+			<ul class="categories">
+				<li class="type"></li>
+				<li class="track"></li>
+				<li class="audience"></li>
+			</ul>
+		</aside>
+
+		<ul class="tags"></ul>
+	</div>
+
+	<script src="jquery-2.1.1.min.js"></script>
+	<script src="SessionDetails.js"></script>
+	<script src="Author.js"></script>
+	<script type="text/javascript">
+		var session = {};
+		var container = $("#session");
+
+		var sessionId = window.location.hash.replace("#", "");
+		$.getJSON("test_session_details.json")
+		.done(function(sessionDetails) {
+			session = new SessionDetails(sessionDetails);
+			session.showYourself(container);
+		})
+		.fail(function() {
+			console.log("error retrieving session " + sessionId + " details");
+		});
+	</script>
+
+</body>
+</html>
