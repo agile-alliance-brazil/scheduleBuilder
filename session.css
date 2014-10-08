@@ -1,0 +1,67 @@
+body {
+	color: #333;
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+	padding: 0 3%;
+}
+
+h1 {
+	font-size: 1.8em;
+	margin: 0.5em 0;
+	color: #468850;
+}
+
+h3 {
+	margin: 0.8em 0 0.4em;
+	font-size: 1.4em;
+	border-bottom: 1px solid #79bb83;
+	padding-bottom: 0.2em;
+}
+
+p {
+	line-height: 1.4em;
+}
+
+.authors {
+	list-style: none;
+	padding: 0;
+}
+
+.authors li {
+	display: inline-block;
+	margin-left: 1em;
+	margin-bottom: 1em;
+}
+
+.authors li:last-child {
+	margin-bottom: 0;
+}
+
+.authors img {
+	vertical-align: middle;
+	margin-right: 1em;
+}
+
+.authors h2 {
+	font-size: 1.2em;
+	display: inline-block;
+}
+
+.categories li {
+	border: 1px solid #CCC;
+	padding: 0.2em;
+	text-align: center;
+	margin-top: 0.1em;
+}
+
+.tags {
+	text-align: center;
+}
+
+.tags li{
+	background-color: #468850;
+	color: #DDD;
+	display: inline-block;
+	padding: 0.5em;
+	margin: 0.2em 0.2em 0 0;
+	border-radius: 0.5em;
+}
