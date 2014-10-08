@@ -22,5 +22,6 @@ function Session(session) {
 		var author = $("<span>").addClass("authors")
 								.text(this.authorsDisplayName())
 								.appendTo(cell);
+		cell.addClass(this.details);
 	};
 }
