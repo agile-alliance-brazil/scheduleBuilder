@@ -1,3 +1,7 @@
+* {
+	box-sizing: border-box;
+}
+
 body {
 	color: #333;
 	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
@@ -19,6 +23,10 @@ h3 {
 
 p {
 	line-height: 1.4em;
+}
+
+ul {
+	margin-top: 1em;
 }
 
 .authors {
@@ -55,6 +63,8 @@ p {
 
 .tags {
 	text-align: center;
+	margin-bottom: 1em;
+	font-size: 0.9em;
 }
 
 .tags li{
@@ -64,4 +74,29 @@ p {
 	padding: 0.5em;
 	margin: 0.2em 0.2em 0 0;
 	border-radius: 0.5em;
+}
+
+@media (min-width: 768px) {
+	body {
+		padding: 0;
+	}
+
+	.session {
+		border: 1px solid #ccc;
+		box-shadow: 0.5em 0.5em #ddd;
+		margin: 1em auto;
+		padding: 1em;
+		width: 750px;
+		overflow: auto;
+	}
+
+	section {
+		width: 75%;
+		float: left;
+	}
+
+	aside {
+		width: 20%;
+		float: right;
+	}
 }
