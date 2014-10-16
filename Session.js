@@ -3,7 +3,7 @@ function Session(session) {
 	this.title = session.title;
 	this.authors = session.authors;
 	this.session_type = session.session_type;
-	this.tags = session.tags;
+	this.tags = session.tags || [];
 	this.details = session.details || "regular";
 
 	this.authorsDisplayName = function(){
@@ -22,6 +22,11 @@ function Session(session) {
 		var author = $("<span>").addClass("authors")
 								.text(this.authorsDisplayName())
 								.appendTo(cell);
-		cell.addClass(this.details);
+		var classes = this.details + " ";
+		for (var i = this.tags.length - 1; i >= 0; i--) {
+			var tag = this.tags[i].replace(/ /g, "-");
+			classes += tag + " ";
+		}
+		cell.addClass(classes);
 	};
 }

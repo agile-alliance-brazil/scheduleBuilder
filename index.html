@@ -5,6 +5,7 @@
 	<link rel="stylesheet" type="text/css" href="index.css">
 </head>
 <body>
+	<ul id="tagList"></ul>
 	<div id="schedule"></div>
 
 	<script src="jquery-2.1.1.min.js"></script>
@@ -15,6 +16,7 @@
 
 	<script type="text/javascript">
 		var scheduledSessions = [];
+		var tags = new Set();
 
 		function retrieveSessions(address) {
 			$.getJSON(address)
@@ -36,9 +38,34 @@
 			table.appendTo("#schedule")
 		}
 
+		function lightSessions () {
+			var item = $(this).parent();
+			item.css("background-color", "#1f5");
+			var selected = $(this).attr("id");
+			$("." + selected).css("box-shadow", "inset 0 0 1em #1f5");
+		}
+
+		function buildTagList () {
+			var tags = $("#tagList");
+			for (var i = Config.numberOfTags() - 1; i >= 0; i--) {
+				var item = $("<li>");
+				$("<a>").attr("id", Config.tagClass(i))
+						.text(Config.tag(i))
+						.click(lightSessions)
+						.appendTo(item);
+				item.appendTo(tags);
+			}
+
+			$("<button>").text("Desmarcar todos").click(function () {
+				location.reload();
+			}).appendTo(tags);
+		}
+
+		buildTagList();
 		buildBaseTable(1);
 		buildBaseTable(2);
 		buildBaseTable(3);
+
 		retrieveSessions("scheduled_sessions.json");
 		retrieveSessions("scheduled_extra_sessions.json");
 	</script>

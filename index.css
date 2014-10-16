@@ -3,6 +3,19 @@ body {
 	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
+ul {
+	text-align: center;
+}
+
+li {
+	display: inline-block;
+	border-radius: 0.5em;
+	background-color: #ddd;
+	margin: 0.1em;
+	padding: 0.3em 0.5em;
+	font-size: 0.8em;
+}
+
 table {
 	width: 100%;
 	text-align: center;

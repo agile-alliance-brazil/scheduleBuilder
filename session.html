@@ -32,13 +32,13 @@
 	<script src="Author.js"></script>
 	<script type="text/javascript">
 		var session = {};
-		var container = $("#session");
 
 		var sessionId = window.location.hash.replace("#", "");
-		$.getJSON("test_session_details.json")
+		console.log(sessionId);
+		$.getJSON("https://submissoes.agilebrazil.com/api/sessions/" + sessionId)
 		.done(function(sessionDetails) {
 			session = new SessionDetails(sessionDetails);
-			session.showYourself(container);
+			session.showYourself($("#session"));
 		})
 		.fail(function() {
 			console.log("error retrieving session " + sessionId + " details");
