@@ -5,7 +5,11 @@
 	<link rel="stylesheet" type="text/css" href="index.css">
 </head>
 <body>
-	<ul id="tagList"></ul>
+	<h2>Destaque, abaixo, os assuntos te interessam mais!</h2>
+	<div id="tagList">
+		<button>Reset tags</button>
+		<ul></ul>
+	</div>
 	<div id="schedule"></div>
 
 	<script src="jquery-2.1.1.min.js"></script>
@@ -40,13 +44,18 @@
 
 		function lightSessions () {
 			var item = $(this).parent();
-			item.css("background-color", "#1f5");
+			item.css("background-color", "#aeb");
 			var selected = $(this).attr("id");
-			$("." + selected).css("box-shadow", "inset 0 0 1em #1f5");
+			$("." + selected).css("box-shadow", "inset 0 0 1em #44aa55");
 		}
 
 		function buildTagList () {
-			var tags = $("#tagList");
+			var tagDiv = $("#tagList");
+			tagDiv.find("button").click(function () {
+				location.reload();
+			});
+
+			var tags = tagDiv.find("ul");
 			for (var i = Config.numberOfTags() - 1; i >= 0; i--) {
 				var item = $("<li>");
 				$("<a>").attr("id", Config.tagClass(i))
@@ -55,10 +64,6 @@
 						.appendTo(item);
 				item.appendTo(tags);
 			}
-
-			$("<button>").text("Desmarcar todos").click(function () {
-				location.reload();
-			}).appendTo(tags);
 		}
 
 		buildTagList();

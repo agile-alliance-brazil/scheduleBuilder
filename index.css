@@ -3,17 +3,38 @@ body {
 	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
+h2 {
+	font-size: 1.2em;
+	color: #666;
+	margin: 0.2em 0;
+}
+
+#tagList {
+	display: block;
+	font-size: 0.8em;
+}
+
+button {
+	float: left;
+	height: 6em;
+	background-color: #78c5ee;
+	color: #336;
+	line-height: 1.3em;
+	width: 5em;
+}
+
 ul {
 	text-align: center;
+	padding-top: 0.3em;
+	margin-top: 0;
 }
 
 li {
 	display: inline-block;
 	border-radius: 0.5em;
-	background-color: #ddd;
+	background-color: #eef;
 	margin: 0.1em;
 	padding: 0.3em 0.5em;
-	font-size: 0.8em;
 }
 
 table {
