@@ -15,10 +15,7 @@ function Session(session) {
 	};
 	
 	this.informationFor = function (cell) {
-		var title = $("<a>").attr("href", "session.html#" + this.id)
-							.attr("data-id", this.id)
-							.text(this.title)
-							.appendTo(cell);
+		cell.text(this.title);
 		var author = $("<span>").addClass("authors")
 								.text(this.authorsDisplayName())
 								.appendTo(cell);
