@@ -22,7 +22,7 @@
 	<script type="text/javascript">
 		var scheduledSessions = [];
 		var highlights = {};
-		var numberOfHighlightedTags = 0;
+		var tagIndex = 0;
 
 		function retrieveSessions(address) {
 			$.getJSON(address)
@@ -45,13 +45,22 @@
 		}
 
 		function lightSessions () {
-			var highlightClass = "highlighted" + numberOfHighlightedTags;
-			var item = $(this).parent();
-			item.addClass(highlightClass);
-			var selected = $(this).attr("id");
-			$("." + selected).addClass(highlightClass);
-			highlights[selected] = numberOfHighlightedTags;
-			numberOfHighlightedTags = (numberOfHighlightedTags + 1) % 22;
+			var selectedTag = $(this).attr("id");
+			console.log("lightSession tag: " + selectedTag);
+			if (highlights[selectedTag] == undefined) {
+				var highlightClass = "highlighted" + tagIndex;
+				$(this).parent().addClass(highlightClass);
+				$("." + selectedTag).addClass(highlightClass);
+				highlights[selectedTag] = tagIndex;
+				tagIndex = (tagIndex + 1) % 22;
+			} else {
+				var index = highlights[selectedTag];
+				var highlightClass = "highlighted" + index;
+				$("." + selectedTag).addClass(highlightClass);
+				$(this).parent().removeClass(highlightClass);
+				$("." + selectedTag).removeClass(highlightClass);
+				highlights[selectedTag] = undefined;
+			}
 		}
 
 		function buildTagList () {
