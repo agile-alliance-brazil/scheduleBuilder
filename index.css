@@ -9,23 +9,10 @@ h2 {
 	margin: 0.2em 0;
 }
 
-#tagList {
-	display: block;
-	font-size: 0.8em;
-}
-
-button {
-	float: left;
-	height: 6em;
-	background-color: #78c5ee;
-	color: #336;
-	line-height: 1.3em;
-	width: 5em;
-}
-
 ul {
+	font-size: 0.8em;
 	text-align: center;
-	padding-top: 0.3em;
+	padding: 0.3em 0;
 	margin-top: 0;
 }
 
