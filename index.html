@@ -6,7 +6,7 @@
 	<link rel="stylesheet" type="text/css" href="highlights.css">
 </head>
 <body>
-	<h2>Destaque, abaixo, os assuntos te interessam mais!</h2>
+	<h2></h2>
 	<ul id="tagList"></ul>
 	<div id="schedule"></div>
 
@@ -61,6 +61,8 @@
 		}
 
 		function buildTagList () {
+			$("h2").text("Destaque, abaixo, os assuntos te interessam mais!");
+
 			var tags = $("#tagList");
 			for (var i = Config.numberOfTags() - 1; i >= 0; i--) {
 				var item = $("<li>");
