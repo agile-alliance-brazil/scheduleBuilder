@@ -1,1 +1,240 @@
-[ { "room": "1", "day": "1", "hour": "9", "minutes": "30", "roomspan": 5, "timespan": 1, "session": { "id": 1, "title": "Energizer", "authors": [ "" ], "session_type": "Relatos de Experiência", "details": "interactive" } }, { "room": "1", "day": "1", "hour": "10", "minutes": "00", "roomspan": 5, "timespan": 2, "session": { "id": 2, "title": "Leading a 'Big Bang' Agile Transformation", "authors": [ "Kirsten Wolberg" ], "session_type": "Keynote", "details": "invited" } }, { "room": "1", "day": "2", "hour": "9", "minutes": "00", "roomspan": 5, "timespan": 2, "session": { "id": 3, "title": "The Lean Enterprise", "authors": [ "Barry O'Reilly" ], "session_type": "Keynote", "details": "invited" } }, { "room": "1", "day": "3", "hour": "9", "minutes": "00", "roomspan": 5, "timespan": 2, "session": { "id": 4, "title": "Samba, Futebol, Política e Gambiarra – o que o Brasil me ensinou sobre fazer software", "authors": [ "Alexandre Freire" ], "session_type": "Keynote", "details": "invited" } }, { "room": "1", "day": "2", "hour": "18", "minutes": "00", "roomspan": 5, "timespan": 2, "session": { "id": 5, "title": "Keynote fora-da-caixa", "authors": [ "" ], "session_type": "Keynote", "details": "invited" } }, { "room": "1", "day": "1", "hour": "16", "minutes": "30", "roomspan": 4, "timespan": 2, "session": { "id": 6, "title": "Open Spaces", "authors": [ "" ], "session_type": "Palestra", "details": "interactive" } }, { "room": "2", "day": "1", "hour": "12", "minutes": "00", "roomspan": 1, "timespan": 2, "session": { "id": 7, "title": "Taming Big Balls of Mud with Diligence, Agile Practices, and Hard Work", "authors": [ "Joe Yoder" ], "session_type": "Palestra", "details": "invited" } }, { "room": "5", "day": "2", "hour": "11", "minutes": "30", "roomspan": 1, "timespan": 3, "session": { "id": 8, "title": "TBD", "authors": [ "Linda Cook" ], "session_type": "Mão na Massa", "details": "invited" } }, { "room": "2", "day": "2", "hour": "15", "minutes": "30", "roomspan": 1, "timespan": 2, "session": { "id": 9, "title": "Creating intimacy for Near-shore Agile teams", "authors": [ "Derek Johnson" ], "session_type": "Palestra", "details": "invited" } }, { "room": "1", "day": "3", "hour": "10", "minutes": "30", "roomspan": 1, "timespan": 2, "session": { "id": 10, "title": "TBD", "authors": [ "Marcos Mazoni" ], "session_type": "Palestra", "details": "sponsor" } }, { "room": "1", "day": "3", "hour": "11", "minutes": "30", "roomspan": 1, "timespan": 2, "session": { "id": 11, "title": "Scrum Anthology 1: coletânea com práticas e atitudes decisivas na minha história com métodos ágeis", "authors": [ "Alexandre Magno" ], "session_type": "Palestra", "details": "sponsor" } }, { "room": "5", "day": "1", "hour": "18", "minutes": "00", "roomspan": 1, "timespan": 2, "session": { "id": 12, "title": "Members' Meeting", "authors": [ "Agile Alliance" ], "session_type": "Palestra", "details": "sponsor" } }, { "room": "4", "day": "2", "hour": "10", "minutes": "30", "roomspan": 1, "timespan": 5, "session": { "id": 13, "title": "Reservado para WBMA", "authors": [ "" ], "session_type": "Palestra", "details": "wbma" } }, { "room": "4", "day": "2", "hour": "14", "minutes": "30", "roomspan": 1, "timespan": 6, "session": { "id": 14, "title": "Reservado para WBMA", "authors": [ "" ], "session_type": "Palestra", "details": "wbma" } } ]
+[
+    {
+        "room": "1",
+        "day": "1",
+        "hour": "9",
+        "minutes": "30",
+        "roomspan": 5,
+        "timespan": 1,
+        "session": {
+            "id": 1,
+            "title": "Energizer",
+            "authors": [
+                ""
+            ],
+            "session_type": "Relatos de Experiência",
+            "details": "interactive"
+        }
+    },
+    {
+        "room": "1",
+        "day": "1",
+        "hour": "10",
+        "minutes": "00",
+        "roomspan": 5,
+        "timespan": 2,
+        "session": {
+            "id": 2,
+            "title": "Leading a 'Big Bang' Agile Transformation",
+            "authors": [
+                "Kirsten Wolberg"
+            ],
+            "session_type": "Keynote",
+            "details": "invited"
+        }
+    },
+    {
+        "room": "1",
+        "day": "2",
+        "hour": "9",
+        "minutes": "00",
+        "roomspan": 5,
+        "timespan": 2,
+        "session": {
+            "id": 3,
+            "title": "The Lean Enterprise",
+            "authors": [
+                "Barry O'Reilly"
+            ],
+            "session_type": "Keynote",
+            "details": "invited"
+        }
+    },
+    {
+        "room": "1",
+        "day": "3",
+        "hour": "9",
+        "minutes": "00",
+        "roomspan": 5,
+        "timespan": 2,
+        "session": {
+            "id": 4,
+            "title": "Samba, Futebol, Política e Gambiarra – o que o Brasil me ensinou sobre fazer software",
+            "authors": [
+                "Alexandre Freire"
+            ],
+            "session_type": "Keynote",
+            "details": "invited"
+        }
+    },
+    {
+        "room": "1",
+        "day": "2",
+        "hour": "18",
+        "minutes": "00",
+        "roomspan": 5,
+        "timespan": 2,
+        "session": {
+            "id": 5,
+            "title": "Keynote fora-da-caixa",
+            "authors": [
+                ""
+            ],
+            "session_type": "Keynote",
+            "details": "invited"
+        }
+    },
+    {
+        "room": "1",
+        "day": "1",
+        "hour": "16",
+        "minutes": "30",
+        "roomspan": 4,
+        "timespan": 2,
+        "session": {
+            "id": 6,
+            "title": "Open Spaces",
+            "authors": [
+                ""
+            ],
+            "session_type": "Palestra",
+            "details": "interactive"
+        }
+    },
+    {
+        "room": "2",
+        "day": "1",
+        "hour": "12",
+        "minutes": "00",
+        "roomspan": 1,
+        "timespan": 2,
+        "session": {
+            "id": 7,
+            "title": "Taming Big Balls of Mud with Diligence, Agile Practices, and Hard Work",
+            "authors": [
+                "Joe Yoder"
+            ],
+            "session_type": "Palestra",
+            "details": "invited"
+        }
+    },
+    {
+        "room": "5",
+        "day": "2",
+        "hour": "11",
+        "minutes": "30",
+        "roomspan": 1,
+        "timespan": 3,
+        "session": {
+            "id": 8,
+            "title": "TBD",
+            "authors": [
+                "Linda Cook"
+            ],
+            "session_type": "Mão na Massa",
+            "details": "invited"
+        }
+    },
+    {
+        "room": "2",
+        "day": "2",
+        "hour": "15",
+        "minutes": "30",
+        "roomspan": 1,
+        "timespan": 2,
+        "session": {
+            "id": 9,
+            "title": "Creating intimacy for Near-shore Agile teams",
+            "authors": [
+                "Derek Johnson"
+            ],
+            "session_type": "Palestra",
+            "details": "invited"
+        }
+    },
+    {
+        "room": "1",
+        "day": "3",
+        "hour": "10",
+        "minutes": "30",
+        "roomspan": 1,
+        "timespan": 2,
+        "session": {
+            "id": 10,
+            "title": "TBD",
+            "authors": [
+                "Marcos Mazoni"
+            ],
+            "session_type": "Palestra",
+            "details": "sponsor"
+        }
+    },
+    {
+        "room": "1",
+        "day": "3",
+        "hour": "11",
+        "minutes": "30",
+        "roomspan": 1,
+        "timespan": 2,
+        "session": {
+            "id": 11,
+            "title": "Scrum Anthology 1: coletânea com práticas e atitudes decisivas na minha história com métodos ágeis",
+            "authors": [
+                "Alexandre Magno"
+            ],
+            "session_type": "Palestra",
+            "details": "sponsor"
+        }
+    },
+    {
+        "room": "5",
+        "day": "1",
+        "hour": "18",
+        "minutes": "00",
+        "roomspan": 1,
+        "timespan": 2,
+        "session": {
+            "id": 12,
+            "title": "Members' Meeting",
+            "authors": [
+                "Agile Alliance"
+            ],
+            "session_type": "Palestra",
+            "details": "sponsor"
+        }
+    },
+    {
+        "room": "4",
+        "day": "2",
+        "hour": "10",
+        "minutes": "30",
+        "roomspan": 1,
+        "timespan": 5,
+        "session": {
+            "id": 13,
+            "title": "Reservado para WBMA",
+            "authors": [
+                ""
+            ],
+            "session_type": "Palestra",
+            "details": "wbma"
+        }
+    },
+    {
+        "room": "4",
+        "day": "2",
+        "hour": "14",
+        "minutes": "30",
+        "roomspan": 1,
+        "timespan": 6,
+        "session": {
+            "id": 14,
+            "title": "Reservado para WBMA",
+            "authors": [
+                ""
+            ],
+            "session_type": "Palestra",
+            "details": "wbma"
+        }
+    }
+]
