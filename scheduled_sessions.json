@@ -1235,10 +1235,10 @@
         }
     },
     {
-        "room": "1",
-        "day": "2",
-        "hour": "14",
-        "minutes": "30",
+        "room": "2",
+        "day": "3",
+        "hour": "16",
+        "minutes": "00",
         "roomspan": 1,
         "timespan": 2,
         "session": {
@@ -1502,10 +1502,10 @@
         }
     },
     {
-        "room": "2",
-        "day": "3",
-        "hour": "16",
-        "minutes": "00",
+        "room": "1",
+        "day": "2",
+        "hour": "14",
+        "minutes": "30",
         "roomspan": 1,
         "timespan": 2,
         "session": {
