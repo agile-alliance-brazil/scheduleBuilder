@@ -1,0 +1,20 @@
+{
+	"id": 12,
+	"title": "Members' Meeting",
+	"authors": [
+		{
+			"name": "Agile Alliance",
+			"gravatar_url": "extraSessions/agile-alliance-brazil.png"
+		}
+	],
+	"session_type": "Palestra",
+	"prerequisites": "Ser um participante da Agile Brazil",
+	"tags": [
+		"Agile Alliance",
+		"Brazil", 
+		"Patrocinador"
+	],
+	"audience_level": "Todos",
+	"track": "Interesse Geral",
+	"summary": "No primeiro ano da organização Agile Alliance Brazil, parceira da internacional Agile Alliance, também teremos o tradicional Member's Meeting, onde integrantes do Board da associação explicarão o funcionamento, as ações e as vantagens disponíveis para todos os participantes da Agile Brazil 2014 – já que, a partir desse ano, todos os inscritos na conferência também tornam-se membros da Agile Alliance."
+}

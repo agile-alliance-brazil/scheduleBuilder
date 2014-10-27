@@ -1,0 +1,20 @@
+{
+	"id": 6,
+	"title": "Open Spaces",
+	"authors": [
+		{
+			"name": "Você !",
+			"gravatar_url": "extraSessions/interactive.png"
+		}
+	],
+	"session_type": "Interação",
+	"prerequisites": "Ter ideias e estar disposto a expor elas, defendê-las e aprender com outros",
+	"tags": [
+		"Open Space",
+		"Ideias",
+		"Lei dos 2 pés"
+	],
+	"audience_level": "Todos",
+	"track": "Faça você mesmo",
+	"summary": "As ideias que você trouxer serão o tema dessa hora, em que todos colaborarão no estilo Open Space. Aprenda sobre o formato em: http://en.wikipedia.org/wiki/Open_Space_Technology"
+}

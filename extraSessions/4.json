@@ -1,0 +1,21 @@
+{
+	"id": 4,
+	"title": "Samba, Futebol, Política e Gambiarra – o que o Brasil me ensinou sobre fazer software",
+	"authors": [
+		{
+			"name": "Alexandre Freire",
+			"gravatar_url": "extraSessions/ale-freire.png"
+		}
+	],
+	"session_type": "Keynote",
+	"prerequisites": "Não há",
+	"tags": [
+		"Prática",
+		"Melhoria Contínua",
+		"Aprendizado"
+	],
+	"audience_level": "Todos",
+	"track": "Convidados",
+	"summary": "Tenho buscado maneiras melhores de desenvolver software, entregando sistemas funcionais para meus clientes e ajudando outros a fazerem o mesmo. Ao longo da minha carreira aprendi práticas e metodologias que me ajudaram a entregar software de maior qualidade com menos custo. Muitas das melhores lições são parte das metodologias ágeis e enxutas como programação eXtrema, kanban, lean start up e anzeneering. Outras não são parte oficial de nenhuma metodologia, mas aprendí-las convivendo com a nossa comunidade e ajudaram a mim e minhas equipes tremendamente, como por exemplo criar mapas de histórias e usar checklists. Mesmo assim, ainda fico decepcionado com o estado da nossa indústria e o fato que a maioria dos projetos de software ainda falham. Nesta palestra, vou compartilhar lições que aprendi fora dos livros de agilidade ou da própria comunidade. Coisas que acredito são fruto de ser brasileiro e trabalhar nesse país do qual tenho muito orgulho, e um pouco de vergonha. O que é que samba, futebol, política, gambiarra e até nossas lindas praias, podem nos ensinar sobre maneiras melhores desenvolver software? Compartilhando algumas histórias brasileiras, de construir uma casa na praia à trabalhar com política em Brasília, vou ensinar coisas que você não vai aprender em outros lugares, e que podem expandir um pouco mais os seus horizontes e quem sabe nos ajudar a mudar a cara da indústria de desenvolvimento de software."
+}
+ 

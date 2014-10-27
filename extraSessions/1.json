@@ -1,0 +1,20 @@
+{
+	"id": 1,
+	"title": "Energizer",
+	"authors": [
+		{
+			"name": "Facilitadora:Linda Cook",
+			"gravatar_url": "extraSessions/interactive.png"
+		}
+	],
+	"session_type": "Energizer",
+	"prerequisites": "Estar presente e disposto a interagir!",
+	"tags": [
+		"Aquecimento",
+		"Participação",
+		"Networking"
+	],
+	"audience_level": "Todos",
+	"track": "Convidados",
+	"summary": "Para começar a Agile Brazil 2014 no clima de networking e colaboração que sempre buscamos, teremos uma breve dinâmica facilitada por Linda Cook. Chegue cedo, participe!"
+}

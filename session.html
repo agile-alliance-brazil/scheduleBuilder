@@ -34,15 +34,30 @@
 		var session = {};
 
 		var sessionId = window.location.hash.replace("#", "");
-		console.log(sessionId);
-		$.getJSON("https://submissoes.agilebrazil.com/api/sessions/" + sessionId)
-		.done(function(sessionDetails) {
-			session = new SessionDetails(sessionDetails);
-			session.showYourself($("#session"));
-		})
-		.fail(function() {
-			console.log("error retrieving session " + sessionId + " details");
-		});
+		if (sessionId > 100) {
+			$.ajax({
+				url: "https://submissoes.agilebrazil.com/api/sessions/" + sessionId + ".js",
+				jsonp: "callback",
+				dataType: "jsonp",
+				success: function(sessionDetails) {
+					session = new SessionDetails(sessionDetails);
+					session.showYourself($("#session"));
+				},
+				error: function( xhr, status, errorThrown ) {
+					console.log("error retrieving session " + sessionId + " details");
+				}
+			});
+		} else {
+			$.getJSON("extraSessions/" + sessionId + ".json")
+			.done(function(sessionDetails) {
+				session = new SessionDetails(sessionDetails);
+				session.showYourself($("#session"));
+			})
+			.fail(function() {
+				console.log("error retrieving extra session details");
+			});
+
+		}
 	</script>
 
 </body>

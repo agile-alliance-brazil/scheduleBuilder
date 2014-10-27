@@ -1,0 +1,20 @@
+{
+	"id": 2,
+	"title": "Leading a 'Big Bang' Agile Transformation",
+	"authors": [
+		{
+			"name": "Kirsten Wohlberg",
+			"gravatar_url": "extraSessions/kirsten-wohlberg.png"
+		}
+	],
+	"session_type": "Keynote",
+	"prerequisites": "Não há",
+	"tags": [
+		"Transformação",
+		"Times", 
+		"Casos de sucesso"
+	],
+	"audience_level": "Todos",
+	"track": "Convidados",
+	"summary": "Como liderar times em uma dramática reforma técnica? Prepare-se para se sujar um pouco. Kirsten Wohlberg, Vice Presidente de Tecnologia no PayPal, nos levará através dos detalhes de como, em menos de 6 meses, uma das maiores transformações ágeis já feitas em nível empresarial foi implementada. Kirsten guiou o uso da agilidade pelas mais de 3500 pessoas que formam o produto global e organização tecnológica do PayPal, reestruturando times e o ambiente de trabalho para transformar completamente a forma como times trabalham. E esses esforços levaram a empresa a lançar 58 novos produtos no ano passado, mais do que a soma dos últimos 5 anos. Neste keynote, Kirsten vai discutir: 1. por que a transformação ágil foi crucial para revigorar a inovação e preocupação com o usuário; 2. Como seu time foi capaz de alcançar mais de 75% de maturidade ágil em apenas 6 meses; 3. Lições aprendidas e fatores cruciais para o sucesso que outras empresas deveriam considerar."
+}

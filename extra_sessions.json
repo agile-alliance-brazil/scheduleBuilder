@@ -56,12 +56,12 @@
 		}, {
 			"id": 10,
 			"title": "A CONFIRMAR",
-			"authors": [""],
+			"authors": ["Marcos Mazoni"],
 			"session_type": "Palestra",
 			"details": "sponsor"
 		}, {
 			"id": 11,
-			"title": "TBD",
+			"title": "Scrum Anthology 1: coletânea com práticas e atitudes decisivas na minha história com métodos ágeis",
 			"authors": ["Alexandre Magno"],
 			"session_type": "Palestra",
 			"details": "sponsor"

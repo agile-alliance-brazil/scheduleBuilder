@@ -1,0 +1,20 @@
+{
+	"id": 9,
+	"title": "Creating intimacy for Near-shore Agile teams",
+	"authors": [
+		{
+			"name": "Derek Johnson",
+			"gravatar_url": "extraSessions/derek-johnson.png"
+		}
+	],
+	"session_type": "Palestra",
+	"prerequisites": "Inglês, participar de um time, vontade de aprender",
+	"tags": [
+		"Distribuido",
+		"Times",
+		"Cultura"
+	],
+	"audience_level": "Praticante",
+	"track": "Interesse Geral",
+	"summary": "Having aligned time zones and the best Agile disciplines are just not enough to create sustainable long term cohesion when teams are distributed across countries and cultural boundaries. Whether you are the provider of software services or you are the one who hires resources from other countries, we will discuss some key concepts that can transform an ordinary project into a thriving relationship for you and your partners. Our conversation will focus on the distinct challenges of near-shore distribution as opposed to off-shore engagements, the financial framework necessary to support the technology and relational requirements of a successful engagement, and the considerations for building teams that can not only meet the short term needs of the project, but also provide sustainability for support and ongoing development."
+}

@@ -1,0 +1,20 @@
+{
+	"id": 11,
+	"title": "Scrum Anthology 1: coletânea com práticas e atitudes decisivas na minha história com métodos ágeis",
+	"authors": [
+		{
+			"name": "Alexandre Magno",
+			"gravatar_url": "extraSessions/alexandre-magno.png"
+		}
+	],
+	"session_type": "Palestra",
+	"prerequisites": "Alguma experiência com métodos ágeis",
+	"tags": [
+		"Aprendizado",
+		"Experiência", 
+		"Patrocinador"
+	],
+	"audience_level": "Praticante",
+	"track": "Interesse Geral",
+	"summary": "Essa sessão trará uma coletânea com práticas e atitudes decisivas na minha história de mais de 10 anos com métodos ágeis."
+}

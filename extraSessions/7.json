@@ -1,0 +1,26 @@
+{
+	"id": 7,
+	"title": "Taming Big Balls of Mud with Diligence, Agile Practices, and Hard Work",
+	"authors": [
+		{
+			"name": "Joseph Yoder",
+			"gravatar_url": "http://gravatar.com/avatar/ca080bf5bba71ae8a2deb1291dad3307.png?s=48&d=mm"
+		}
+	],
+	"session_type": "Palestra",
+	"prerequisites": "Understanding of Software Development, Quality Code, and Basic Agile Practices. Understanding of Refactoring is useful but not required.",
+	"tags": [
+		"Código legado",
+		"Design emergente",
+		"Evolução",
+		"Melhoria contínua",
+		"Padrões",
+		"Refatoração",
+		"Revisão de código",
+		"Técnicas",
+		"Test Driven Design"
+	],
+	"audience_level": "Praticante",
+	"track": "Interesse Geral",
+	"summary": "    This talk will examine the paradoxes that underlie Big Balls of Mud, what causes them, and why they are so prominent. I’ll explore what agile practices can help us avoid or cope with mud. I’ll also explain why continuous delivery and TDD with refactoring is not enough to help ensure clean architecture and why it is important to understand what is core to the architecture and the problem at hand. Understanding what changes in the system and at what rates can help you prevent becoming mired in mud. By first understanding where a system’s complexities are and where it keeps getting worse, we can then work hard (and more intelligently) at sustaining the architecture. Additionally, I’ll talk about some practices and patterns that help keep the architecture/code clean or from getting muddier."
+}

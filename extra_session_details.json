@@ -1,0 +1,24 @@
+{"sessions":
+	[
+		{
+			"id": 1,
+			"title": "Energizer",
+			"authors": [
+				{
+					"name": "Facilitadora: Linda Cook",
+					"gravatar_url": "images/linda-cook.png"
+				}
+			],
+			"session_type": "Relatos de Experiência",
+
+			"prerequisites": "Ter uma opinião sobre o tema",
+			"tags": [
+				"Energizer",
+				"Todos participam"
+			],
+			"audience_level": "Todos",
+			"track": "Convidados",
+			"summary": ""
+		}
+	]
+}

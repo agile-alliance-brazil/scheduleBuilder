@@ -1,0 +1,19 @@
+{
+	"id": 5,
+	"title": "Keynote fora-da-caixa",
+	"authors": [
+		{
+			"name": "TBD",
+			"gravatar_url": "extraSessions/fora-da-caixa.png"
+		}
+	],
+	"session_type": "Keynote",
+	"prerequisites": "Um pouco de curiosidade sobre o mundo fora de software",
+	"tags": [
+		"Fora da caixa",
+		"Arte"
+	],
+	"audience_level": "Todos",
+	"track": "Convidados",
+	"summary": "A definir"
+}

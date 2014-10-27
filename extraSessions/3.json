@@ -1,0 +1,20 @@
+{
+	"id": 3,
+	"title": "The Lean Enterprise",
+	"authors": [
+		{
+			"name": "Barry O'Reilly",
+			"gravatar_url": "extraSessions/barry-oreilly.png"
+		}
+	],
+	"session_type": "Keynote",
+	"prerequisites": "Não há",
+	"tags": [
+		"Lean",
+		"Oportunidades",
+		"Negócios"
+	],
+	"audience_level": "Todos",
+	"track": "Convidados",
+	"summary": "Nosso mundo e futuras oportunidades de negócios estão continuamente emergindo através de avanços em design e tecnologia e através de mudanças maiores, sociais e econômicas. Organizações devem, continuamente, rever a pergunta 'De que mercado fazemos parte e como podemos nos organizar para maximizar nosso potencial de performance?' O trabalho mais importante para líderes é busca de uma cultura de alta performance e de experimentação e aprendizado contínuos. Esse keynote discutirá como adotar a cultura de  plasticidade do design da nossa organização, e transformar nosso negócio em uma robusta e sempre mutável Lean Enterprise."
+}

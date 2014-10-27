@@ -1,0 +1,21 @@
+{
+	"id": 10,
+	"title": "TBD",
+	"authors": [
+		{
+			"name": "Marcos Mazoni",
+			"gravatar_url": "extraSessions/marcos-mazoni.png"
+		}
+	],
+	"session_type": "Palestra",
+	"prerequisites": "Não há",
+	"tags": [
+		"Casos de sucesso",
+		"Transição",
+		"Aprendizado",
+		"Patrocinador"
+	],
+	"audience_level": "Praticante",
+	"track": "Interesse Geral",
+	"summary": "TBD"
+}
