@@ -8,10 +8,10 @@
 			"details": "interactive"
 		}, {
 			"id": 2,
-			"title": "Leading a 'Big Bang' Agile Transformation",
-			"authors": ["Kirsten Wolberg"],
+			"title": "Taming Big Balls of Mud with Diligence, Agile Practices, and Hard Work",
+			"authors": ["Joseph Yoder"],
 			"session_type": "Keynote",
-			"details": "invited"
+			"details": "Keynote"
 		}, {
 			"id": 3,
 			"title": "The Lean Enterprise",
@@ -37,10 +37,10 @@
 			"details": "interactive"
 		}, {
 			"id": 7,
-			"title": "Taming Big Balls of Mud with Diligence, Agile Practices, and Hard Work",
-			"authors": ["Joe Yoder"],
+			"title": "",
+			"authors": [],
 			"session_type": "Palestra",
-			"details": "invited"
+			"details": ""
 		}, {
 			"id": 8,
 			"title": "TBD",
