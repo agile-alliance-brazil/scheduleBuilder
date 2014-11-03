@@ -1,7 +1,7 @@
 [
     {
         "room": "3",
-        "day": "1",
+        "day": "2",
         "hour": "18",
         "minutes": "00",
         "roomspan": 1,
@@ -23,8 +23,8 @@
     {
         "room": "2",
         "day": "1",
-        "hour": "18",
-        "minutes": "00",
+        "hour": "16",
+        "minutes": "30",
         "roomspan": 1,
         "timespan": 2,
         "session": {
@@ -76,10 +76,10 @@
         }
     },
     {
-        "room": "3",
+        "room": "4",
         "day": "3",
         "hour": "16",
-        "minutes": "30",
+        "minutes": "00",
         "roomspan": 1,
         "timespan": 1,
         "session": {
@@ -150,23 +150,6 @@
         }
     },
     {
-        "room": "4",
-        "day": "3",
-        "hour": "15",
-        "minutes": "30",
-        "roomspan": 1,
-        "timespan": 3,
-        "session": {
-            "id": 15,
-            "title": "A CONFIRMAR",
-            "authors": [
-                ""
-            ],
-            "session_type": "Mão na Massa",
-            "tags": []
-        }
-    },
-    {
         "room": "3",
         "day": "2",
         "hour": "16",
@@ -218,7 +201,7 @@
     },
     {
         "room": "1",
-        "day": "1",
+        "day": "2",
         "hour": "18",
         "minutes": "00",
         "roomspan": 1,
@@ -354,9 +337,9 @@
         }
     },
     {
-        "room": "2",
+        "room": "3",
         "day": "3",
-        "hour": "17",
+        "hour": "16",
         "minutes": "30",
         "roomspan": 1,
         "timespan": 1,
@@ -491,9 +474,9 @@
     },
     {
         "room": "5",
-        "day": "3",
-        "hour": "17",
-        "minutes": "30",
+        "day": "2",
+        "hour": "18",
+        "minutes": "00",
         "roomspan": 1,
         "timespan": 1,
         "session": {
@@ -540,7 +523,7 @@
     {
         "room": "3",
         "day": "1",
-        "hour": "14",
+        "hour": "16",
         "minutes": "30",
         "roomspan": 1,
         "timespan": 2,
@@ -641,10 +624,10 @@
         }
     },
     {
-        "room": "2",
+        "room": "4",
         "day": "1",
-        "hour": "14",
-        "minutes": "30",
+        "hour": "12",
+        "minutes": "00",
         "roomspan": 1,
         "timespan": 2,
         "session": {
@@ -799,7 +782,7 @@
     {
         "room": "4",
         "day": "1",
-        "hour": "14",
+        "hour": "16",
         "minutes": "30",
         "roomspan": 1,
         "timespan": 2,
@@ -876,7 +859,7 @@
     },
     {
         "room": "4",
-        "day": "1",
+        "day": "2",
         "hour": "18",
         "minutes": "00",
         "roomspan": 1,
@@ -1028,9 +1011,9 @@
         }
     },
     {
-        "room": "4",
-        "day": "1",
-        "hour": "12",
+        "room": "2",
+        "day": "2",
+        "hour": "18",
         "minutes": "00",
         "roomspan": 1,
         "timespan": 2,
@@ -1127,7 +1110,7 @@
     {
         "room": "1",
         "day": "1",
-        "hour": "15",
+        "hour": "17",
         "minutes": "00",
         "roomspan": 1,
         "timespan": 1,
@@ -1203,9 +1186,9 @@
         }
     },
     {
-        "room": "1",
+        "room": "4",
         "day": "3",
-        "hour": "17",
+        "hour": "16",
         "minutes": "30",
         "roomspan": 1,
         "timespan": 1,
@@ -1474,7 +1457,7 @@
     {
         "room": "4",
         "day": "3",
-        "hour": "17",
+        "hour": "15",
         "minutes": "30",
         "roomspan": 1,
         "timespan": 1,
@@ -1556,7 +1539,7 @@
     {
         "room": "1",
         "day": "1",
-        "hour": "14",
+        "hour": "16",
         "minutes": "30",
         "roomspan": 1,
         "timespan": 1,
@@ -1581,9 +1564,9 @@
         }
     },
     {
-        "room": "3",
-        "day": "3",
-        "hour": "17",
+        "room": "5",
+        "day": "2",
+        "hour": "18",
         "minutes": "30",
         "roomspan": 1,
         "timespan": 1,

@@ -20,11 +20,11 @@ var Config = (function () {
 
 	slots[2] = ["9:00", "9:30", "10:00", "10:30", "11:00", "11:30", "12:00", 
 					"12:30", "13:00", "14:30",  "15:00", "15:30", "16:00", 
-					"16:30","17:00", "17:30", "18:00", "18:30", "19:00"];
+					"16:30","17:00", "17:30", "18:00", "18:30", "19:00", "19:30"];
 
 	slots[3] = ["9:00", "9:30", "10:00", "10:30", "11:00", "11:30", "12:00", 
 					"12:30", "14:00", "14:30",  "15:00", "15:30", "16:00", 
-					"16:30","17:00", "17:30", "18:00", "18:30"];
+					"16:30","17:00", "17:30", "18:00"];
 
 	var foodStops = [];
 	foodStops[1] = {"9:00": "Abertura",
@@ -36,13 +36,13 @@ var Config = (function () {
 	foodStops[2] = {"10:00": "Coffee",
 					"13:00": "Almoço",
 					"17:30": "Coffee",
-					"19:00": "Fim do Dia"};
+					"19:30": "Fim do Dia"};
 
 	foodStops[3] = {"10:00": "Coffee",
 					"12:30": "Almoço",
 					"17:00": "Coffee",
-					"18:00": "Encerramento",
-					"18:30": "Fim do Dia"};
+					"17:30": "Encerramento",
+					"18:00": "Fim do Dia"};
 
 	var tags = ["Testes", "Refatoração", "Restricões", "Planejamento", "Oportunidades", 
 			"Motivação", "Melhoria contínua", "Ideias", "Cultura", "Comprometimento", 
