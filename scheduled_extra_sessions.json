@@ -69,16 +69,16 @@
     },
     {
         "room": "1",
-        "day": "1",
+        "day": "2",
         "hour": "18",
         "minutes": "00",
         "roomspan": 5,
         "timespan": 2,
         "session": {
             "id": 5,
-            "title": "Coquetel",
+            "title": "Keynote fora-da-caixa",
             "authors": [
-                ""
+                "Jupira Corbucci"
             ],
             "session_type": "Keynote",
             "details": "interactive"
@@ -396,6 +396,23 @@
                 ""
             ],
             "session_type": "Palestra",
+            "details": "interactive"
+        }
+    },
+    {
+        "room": "1",
+        "day": "1",
+        "hour": "19",
+        "minutes": "00",
+        "roomspan": 5,
+        "timespan": 1,
+        "session": {
+            "id": 14,
+            "title": "Coquetel",
+            "authors": [
+                ""
+            ],
+            "session_type": "Networking",
             "details": "interactive"
         }
     }
