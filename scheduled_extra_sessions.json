@@ -25,9 +25,9 @@
         "timespan": 2,
         "session": {
             "id": 2,
-            "title": "Leading a 'Big Bang' Agile Transformation",
+            "title": "Taming Big Balls of Mud with Diligence, Agile Practices, and Hard Work",
             "authors": [
-                "Kirsten Wolberg"
+                "Joseph Yoder"
             ],
             "session_type": "Keynote",
             "details": "invited"
@@ -110,12 +110,12 @@
         "timespan": 2,
         "session": {
             "id": 7,
-            "title": "Taming Big Balls of Mud with Diligence, Agile Practices, and Hard Work",
+            "title": "A CONFIRMAR",
             "authors": [
-                "Joe Yoder"
+            	""
             ],
             "session_type": "Palestra",
-            "details": "invited"
+            "details": ""
         }
     },
     {
