@@ -13,9 +13,10 @@ function Session(session) {
 	this.type = function () {
 		return this.session_type;
 	};
-	
+
 	this.informationFor = function (cell) {
 		var title = $("<a>").attr("href", "session.html#" + this.id)
+							.attr("target", "_parent")
 							.attr("data-id", this.id)
 							.text(this.title)
 							.appendTo(cell);
