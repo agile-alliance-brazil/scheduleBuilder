@@ -220,5 +220,183 @@
             "session_type": "Palestra",
             "details": "wbma"
         }
+    },
+    {
+        "room": "4",
+        "day": "2",
+        "hour": "11",
+        "minutes": "00",
+        "roomspan": 1,
+        "timespan": 1,
+        "session": {
+            "id": 13,
+            "title": "Usando Métodos Ágeis para ensinar Métodos Ágeis",
+            "authors": [
+                "Avelino F. Gomes Filho", 
+                "Rodrigo Toledo"
+            ],
+            "session_type": "Palestra",
+            "details": "wbma"
+        }
+    },
+    {
+        "room": "4",
+        "day": "2",
+        "hour": "11",
+        "minutes": "30",
+        "roomspan": 1,
+        "timespan": 1,
+        "session": {
+            "id": 13,
+            "title": "Efeitos da Prática de Revisão de Código na Caelum: Um Estudo de Caso Preliminar",
+            "authors": [
+                "Maurício Aniche",
+                "Francisco Sokol"
+            ],
+            "session_type": "Palestra",
+            "details": "wbma"
+        }
+    },
+    {
+        "room": "4",
+        "day": "2",
+        "hour": "12",
+        "minutes": "00",
+        "roomspan": 1,
+        "timespan": 1,
+        "session": {
+            "id": 13,
+            "title": "Applying Continuous Integration principles in safety-critical airborne software",
+            "authors": [
+                "Andre B. Boralli",
+                "Ricardo B. França"
+            ],
+            "session_type": "Palestra",
+            "details": "wbma"
+        }
+    },
+    {
+        "room": "4",
+        "day": "2",
+        "hour": "12",
+        "minutes": "30",
+        "roomspan": 1,
+        "timespan": 1,
+        "session": {
+            "id": 13,
+            "title": "Using Nokia Test to Evaluating Quality and Productivity on Scrum-CMMI Environments",
+            "authors": [
+                "Célio Santana",
+                "Amanda Nunes"
+            ],
+            "session_type": "Palestra",
+            "details": "wbma"
+        }
+    },
+    {
+        "room": "4",
+        "day": "2",
+        "hour": "14",
+        "minutes": "30",
+        "roomspan": 1,
+        "timespan": 1,
+        "session": {
+            "id": 13,
+            "title": "Uma Revisão Sistemática da Literatura sobre o Impacto dos Fatores Humanos em Projetos Ágeis",
+            "authors": [
+                "Aline Chagas", 
+                "Alexandre Vasconcelos"
+            ],
+            "session_type": "Palestra",
+            "details": "wbma"
+        }
+    },
+    {
+        "room": "4",
+        "day": "2",
+        "hour": "15",
+        "minutes": "00",
+        "roomspan": 1,
+        "timespan": 1,
+        "session": {
+            "id": 13,
+            "title": "The effects of a model for identifying and managing Technical Debt in Scrum project",
+            "authors": [
+                "Rogerio C Pires", 
+                "Graziela Simone Tonin"
+            ],
+            "session_type": "Palestra",
+            "details": "wbma"
+        }
+    },
+    {
+        "room": "4",
+        "day": "2",
+        "hour": "15",
+        "minutes": "30",
+        "roomspan": 1,
+        "timespan": 1,
+        "session": {
+            "id": 13,
+            "title": "Short papers: propostas de pesquisa",
+            "authors": [
+                "Diversos autores"
+            ],
+            "session_type": "Palestra",
+            "details": "wbma"
+        }
+    },
+    {
+        "room": "4",
+        "day": "2",
+        "hour": "16",
+        "minutes": "00",
+        "roomspan": 1,
+        "timespan": 1,
+        "session": {
+            "id": 13,
+            "title": "Aferição da Qualidade do Código-Fonte em uma autarquia da Administração Pública Federal",
+            "authors": [
+                "Hilmer Rodrigues Neri", 
+                "Guilherme Baufaker Rêgo"
+            ],
+            "session_type": "Palestra",
+            "details": "wbma"
+        }
+    },
+    {
+        "room": "4",
+        "day": "2",
+        "hour": "16",
+        "minutes": "30",
+        "roomspan": 1,
+        "timespan": 1,
+        "session": {
+            "id": 13,
+            "title": "On the Understanding of Agile Methods and Their Practice in Brazil",
+            "authors": [
+                "Elisa Diel", 
+                "Mariana Bergmann"
+            ],
+            "session_type": "Palestra",
+            "details": "wbma"
+        }
+    },
+    {
+        "room": "4",
+        "day": "2",
+        "hour": "17",
+        "minutes": "00",
+        "roomspan": 1,
+        "timespan": 1,
+        "session": {
+            "id": 13,
+            "title": "Mesa redonda: o futuro da Pesquisa em Métodos Ágeis",
+            "authors": [
+                ""
+            ],
+            "session_type": "Palestra",
+            "details": "interactive"
+        }
     }
 ]
