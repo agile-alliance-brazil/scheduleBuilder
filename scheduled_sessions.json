@@ -1035,21 +1035,18 @@
         "roomspan": 1,
         "timespan": 2,
         "session": {
-            "id": 1040,
-            "title": "Mensuração do valor de entregas incrementais de software",
+            "id": 988,
+            "title": "Design responsivo pra quê?",
             "authors": [
-                "Sandro Manteiga"
+                "Luiz Corte Real",
+                "William Seiti Mizuta"
             ],
-            "session_type": "Palestra",
+            "session_type": "Duelo",
             "tags": [
-                "Aprendizagem",
-                "Criação",
-                "Deploy contínuo",
-                "Métricas",
-                "Negócios",
-                "Oportunidades",
-                "Planejamento",
-                "Riscos"
+                "Design emergente",
+                "Front end",
+                "Técnicas",
+                "Experiência do usuário"
             ]
         }
     },
