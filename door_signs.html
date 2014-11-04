@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<link rel="stylesheet" type="text/css" href="signs.css">
+</head>
+<body>
+  <div id="schedule"></div>
+
+	<script src="jquery-2.1.1.min.js"></script>
+	<script src="Config.js"></script>
+	<script src="Session.js"></script>
+	<script src="ScheduledSession.js"></script>
+
+	<script type="text/javascript">
+		var scheduledSessions = [];
+
+		function retrieveSessions(address) {
+			return $.getJSON(address, function(scheduled_sessions) {
+				$.each(scheduled_sessions, function(i) {
+					var scheduled = new ScheduledSession(this);
+					scheduledSessions.push(scheduled);
+				});
+				console.log("Successfully loaded " + address);
+			});
+		};
+
+		var scheduled = retrieveSessions("scheduled_sessions.json");
+		var extra = retrieveSessions("scheduled_extra_sessions.json");
+
+    $.when(scheduled, extra).done(function(first, second) {
+      var scheduleTag = $("#schedule");
+      for(var day = 1; day <= Config.numberOfDays; day++) {
+        scheduleTag.append("<div id='day" + day + "' class='day'></div>");
+        var dayTag = $("#day"+day);
+        for(var roomNumber = 1; roomNumber <= Config.numberOfRooms; roomNumber++) {
+          var sessions = $.grep(scheduledSessions, function(session, index) {
+            return session.day == day && session.room == roomNumber;
+          });
+          var sortedSessions = sessions.sort(function(session, otherSession) {
+              var hourDifference = otherSession.hour - session.hour;
+              var minuteDifference = otherSession.minutes - session.minutes;
+              if(hourDifference === 0) {
+                return minuteDifference;
+              }
+              else {
+                return hourDifference;
+              }
+          });
+          for(var sessionOrder = 0; sessionOrder < sortedSessions.length; sessionOrder++) {
+            var session = sortedSessions[sessionOrder];
+            dayTag.prepend("<div id='session_"+session.session.id+"' class='session'>"+
+              "<span class='room'>"+Config.rooms[session.room]+"</span>"+
+              "<h1>"+session.session.title+"</h1>"+
+              "<p class='authors'>"+session.session.authorsDisplayName()+"</p>"+
+              "<p class='time'>"+Config.days[session.day]+" - "+session.hour+":"+session.minutes+"</p>"+
+              "</div>");
+            };
+        }
+      }
+    });
+	</script>
+</body>
+</html>
+
