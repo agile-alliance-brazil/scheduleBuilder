@@ -676,10 +676,10 @@
         }
     },
     {
-        "room": "4",
+        "room": "2",
         "day": "1",
-        "hour": "15",
-        "minutes": "30",
+        "hour": "12",
+        "minutes": "00",
         "roomspan": 1,
         "timespan": 2,
         "session": {
