@@ -2,7 +2,6 @@ body {
 	color: #333;
 	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
 }
-
 h2 {
 	font-size: 1.2em;
 	color: #666;
@@ -38,12 +37,11 @@ thead {
 
 table td, table th {
 	border: 1px solid #bbb;
-	font-size: 85%;
 	text-align: center;
 	vertical-align: middle;
 	padding: 0.25em;
+  font-size: 85%;
 }
-
 th {
 	background-color: #468850;
 	color: #eee;
@@ -83,3 +81,42 @@ a {
 	display: block;
 	font-size: 75%;
 }
+@media print {
+  body {
+    background-color: white;
+  }
+  h2 {
+    display: none;
+  }
+  ul {
+    display: none;
+  }
+  body table td, table th {
+    font-size: 0.30cm;
+  }
+  th {
+    background-color: #666;
+  }
+  body table {
+    page-break-after: always;
+  }
+  body table td .authors {
+    color: black;
+  }
+  body table td.wbma {
+    font-size: 0.2cm;
+  }
+  body table td.wbma .authors {
+    font-size: 0.2cm;
+  }
+  .allHands {
+    background-color: #999;
+  }
+  .invited {
+    background-color: #DDD;
+  }
+  .interactive {
+    background-color: #DDD;
+  }
+}
+
