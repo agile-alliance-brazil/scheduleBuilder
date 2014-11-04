@@ -1,6 +1,6 @@
 {
 	"id": 8,
-	"title": "TBD",
+	"title": "Taming the Agile Release Planning Beast",
 	"authors": [
 		{
 			"name": "Linda Cook",
@@ -10,6 +10,11 @@
 	"session_type": "Mão na Massa",
 	"prerequisites": "Inglês, participar de um time, vontade de aprender",
 	"tags": [
+		"Times",
+		"Técnicas",
+		"Casos de sucesso",
+		"Estimativas",
+		"Planejamento"
 	],
 	"audience_level": "Praticante",
 	"track": "Interesse Geral",
