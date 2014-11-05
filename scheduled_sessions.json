@@ -1111,10 +1111,10 @@
         }
     },
     {
-        "room": "1",
+        "room": "5",
         "day": "1",
-        "hour": "17",
-        "minutes": "00",
+        "hour": "18",
+        "minutes": "30",
         "roomspan": 1,
         "timespan": 1,
         "session": {
@@ -1546,7 +1546,7 @@
         "hour": "16",
         "minutes": "30",
         "roomspan": 1,
-        "timespan": 1,
+        "timespan": 2,
         "session": {
             "id": 1087,
             "title": "Governo e Agilidade na Prática",
@@ -1563,33 +1563,6 @@
                 "Implantação",
                 "Planejamento",
                 "Relacionamento com clientes",
-                "Times"
-            ]
-        }
-    },
-    {
-        "room": "5",
-        "day": "1",
-        "hour": "18",
-        "minutes": "30",
-        "roomspan": 1,
-        "timespan": 1,
-        "session": {
-            "id": 1088,
-            "title": "Integrando UX à Metodologia Ágil na startup Resultados Digitais: uma proposta de processo.",
-            "authors": [
-                "Simone Beltrame",
-                "Lívia Amorim"
-            ],
-            "session_type": "Relatos de Experiência",
-            "tags": [
-                "Experiência do usuário",
-                "Implantação",
-                "Integração contínua",
-                "Melhoria contínua",
-                "Processos",
-                "Startup",
-                "Testes",
                 "Times"
             ]
         }
