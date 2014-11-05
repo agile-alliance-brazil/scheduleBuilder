@@ -53,6 +53,8 @@
               "<span class='room'>"+Config.rooms[session.room]+"</span>"+
               "<h1>"+session.session.title+"</h1>"+
               "<p class='authors'>"+session.session.authorsDisplayName()+"</p>"+
+              "<p class='limit' style='"+(session.session.audience_limit === undefined ? "display: none" : "")+"'>Limite: "+session.session.audience_limit+" participantes</p>"+
+              "<p class='tags' style='"+(session.session.tags.length === 0 ? "display: none;" : "")+"'>#"+session.session.tags.join(" #")+"</p>"+
               "<p class='time'>"+Config.days[session.day]+" - "+session.hour+":"+session.minutes+"</p>"+
               "</div>");
             };
