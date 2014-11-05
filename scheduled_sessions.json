@@ -294,6 +294,7 @@
                 "Matheus Haddad"
             ],
             "session_type": "Mão na Massa",
+            "audience_limit": "42",
             "tags": [
                 "Aprendizagem",
                 "Comprometimento",
@@ -969,6 +970,7 @@
                 "Alysson Mendonca"
             ],
             "session_type": "Mão na Massa",
+            "audience_limit" : "20",
             "tags": [
                 "Comprometimento",
                 "Estimativas",
@@ -998,6 +1000,7 @@
                 "Jorge Oleques"
             ],
             "session_type": "Mão na Massa",
+            "audience_limit" : "20",
             "tags": [
                 "Código legado",
                 "Design emergente",
@@ -1390,6 +1393,7 @@
                 "Simone Pittner"
             ],
             "session_type": "Mão na Massa",
+            "audience_limit": "30",
             "tags": [
                 "Aprendizagem",
                 "Comprometimento",
@@ -1659,6 +1663,7 @@
                 "Henrique Oliveira"
             ],
             "session_type": "Mão na Massa",
+            "audience_limit" : "40",
             "tags": [
                 "Automação",
                 "Cultura",
@@ -1687,6 +1692,7 @@
                 "Dairton Bassi"
             ],
             "session_type": "Mão na Massa",
+            "audience_limit" : "60",
             "tags": [
                 "Estimativas",
                 "Estratégias",
@@ -1713,6 +1719,7 @@
                 "Júlia Ghisi"
             ],
             "session_type": "Mão na Massa",
+            "audience_limit" : "20",
             "tags": [
                 "Experiência do usuário",
                 "Startup"

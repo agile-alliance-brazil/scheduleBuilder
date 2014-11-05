@@ -81,6 +81,10 @@ a {
 	display: block;
 	font-size: 75%;
 }
+.limit{
+	display: block;
+	font-size: 75%;
+}
 @media print {
   body {
     background-color: white;
@@ -102,6 +106,9 @@ a {
   }
   body table td .authors {
     color: black;
+  }
+  body table td .limit {
+    font-size: 0.2cm;
   }
   body table td.wbma {
     font-size: 0.2cm;
