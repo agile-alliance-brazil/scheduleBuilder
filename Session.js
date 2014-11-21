@@ -5,7 +5,7 @@ function Session(session) {
 	this.session_type = session.session_type;
 	this.tags = session.tags || [];
 	this.details = session.details || "regular";
-  this.audience_limit = session.audience_limit || undefined;
+	this.audience_limit = session.audience_limit || undefined;
 
 	this.authorsDisplayName = function(){
 		return this.authors[0] + (this.authors.length == 2 ? " e " + this.authors[1] : "")
@@ -24,11 +24,11 @@ function Session(session) {
 		var author = $("<span>").addClass("authors")
 								.text(this.authorsDisplayName())
 								.appendTo(cell);
-    var limit = $("<span>").addClass("limit")
-                .text("Limite: " + this.audience_limit + " participantes");
-    if(this.audience_limit !== undefined) {
-      limit.appendTo(cell);
-    }
+		if (this.audience_limit !== undefined) {
+			var limit = $("<span>").addClass("limit")
+								.text("Limite: " + this.audience_limit + " participantes");
+			limit.appendTo(cell);
+		}
 		var classes = this.details + " ";
 		for (var i = this.tags.length - 1; i >= 0; i--) {
 			var tag = this.tags[i].replace(/ /g, "-");
