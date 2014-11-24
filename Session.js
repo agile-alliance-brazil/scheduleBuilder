@@ -35,6 +35,7 @@ function Session(session) {
 		if (this.slides) {
 			var material = $("<a>").addClass("slides")
 									.attr("href", this.slides)
+									.attr("target", "_blank")
 									.text("SLIDES")
 									.appendTo(cell);
 		}
