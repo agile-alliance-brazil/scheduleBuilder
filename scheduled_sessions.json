@@ -17,7 +17,8 @@
             "tags": [
                 "Refatoração",
                 "Testes"
-            ]
+            ],
+            "slides": "www.slideshare.net/guilhermeslacerda/agile-brazil2014-bad-smells-em-bancos-de-dados-41432040"
         }
     },
     {
@@ -45,7 +46,8 @@
                 "Oportunidades",
                 "Planejamento",
                 "Restricões"
-            ]
+            ],
+            "slides": "http://www.slideshare.net/ariamaral/educacao-30"
         }
     },
     {
@@ -72,7 +74,8 @@
                 "Processos",
                 "Requisitos",
                 "Técnicas"
-            ]
+            ],
+            "slides": "http://pt.slideshare.net/rodrigosilvap/direcao-x-velocidade"
         }
     },
     {
@@ -98,7 +101,8 @@
                 "Relacionamento com clientes",
                 "Requisitos",
                 "Técnicas"
-            ]
+            ],
+            "slides": "http://www.slideshare.net/GiulianoSposito/agilebr-gp-an-as-disciplinas-renegadas-do-gil-legendado"
         }
     },
     {
@@ -146,7 +150,8 @@
                 "Experiência do usuário",
                 "Ideias",
                 "Técnicas"
-            ]
+            ],
+            "slides": "http://www.slideshare.net/fehbernardo/ux-para-aumentar-a-liberdade-de-diabticos-agile-brazil"
         }
     },
     {
@@ -222,7 +227,8 @@
                 "Motivação",
                 "Oportunidades",
                 "Relacionamento com clientes"
-            ]
+            ],
+            "slides": "http://www.slideshare.net/ericabriones/stop-mimimi-ab2014publishpt-41431300"
         }
     },
     {
@@ -277,7 +283,8 @@
                 "Requisitos",
                 "Startup",
                 "Técnicas"
-            ]
+            ],
+            "slides": "https://leanpub.com/diretoaoponto/c/AgileBrazil"
         }
     },
     {
@@ -392,7 +399,8 @@
                 "Requisitos",
                 "Técnicas",
                 "Testes"
-            ]
+            ],
+            "slides": "http://www.slideshare.net/dionatanmoura/desenvolvimento-orgnico-de-software-com-user-stories-agilebr"
         }
     },
     {
@@ -519,7 +527,8 @@
                 "Cultura",
                 "Motivação",
                 "Restricões"
-            ]
+            ],
+            "slides": "http://cecifernandes.com/liberdade_no_trabalho/"
         }
     },
     {
@@ -570,7 +579,8 @@
                 "Cultura",
                 "Estratégias",
                 "Planejamento"
-            ]
+            ],
+            "slides": "http://www.slideshare.net/aolchik/agile-brazil-2014-aceleradora-agil-o-segredo-do-sucesso-depois-de-4-anos-de-parceria-entre-universidade-e-empresa"
         }
     },
     {
@@ -599,7 +609,8 @@
                 "Motivação",
                 "Processos",
                 "Times"
-            ]
+            ],
+            "slides": "http://pt.slideshare.net/guilhermeslacerda/agilebrazil2014-agilidade-no-judicirio-um-relato-de-experincia-de-agile-coaching-no-tjrs"
         }
     },
     {
@@ -701,7 +712,8 @@
                 "Habilidade",
                 "Motivação",
                 "Times"
-            ]
+            ],
+            "slides": "http://pt.slideshare.net/AnneliseGripp/agile-brazil-2014"
         }
     },
     {
@@ -893,7 +905,7 @@
             "id": 1031,
             "title": "Gestão de produtos de software - muito além do product ownership",
             "authors": [
-                "Joaquim Torres"
+                "Joca Torres"
             ],
             "session_type": "Palestra",
             "tags": [
@@ -904,7 +916,8 @@
                 "Requisitos",
                 "Startup",
                 "Times"
-            ]
+            ],
+            "slides": "http://www.slideshare.net/jocatorres/gesto-de-produtos-de-software-muito-alm-do-product-ownership-e-das-startups-41224958"
         }
     },
     {
@@ -954,7 +967,8 @@
                 "Comprometimento",
                 "Motivação",
                 "Times"
-            ]
+            ],
+            "slides": "http://www.slideshare.net/juliano_alves/agile-brazil-divertir-para-motivar"
         }
     },
     {
@@ -1011,7 +1025,8 @@
                 "Técnicas",
                 "Test Driven Design",
                 "Testes"
-            ]
+            ],
+            "slides": "http://www.slideshare.net/mauricioweb/agile-brazil-2014-do-legado-ao-green-bar-uma-imerso-em-testes-unitrios-refactoring-e-design-patterns-41350603"
         }
     },
     {
@@ -1034,7 +1049,8 @@
                 "Front end",
                 "Técnicas",
                 "Experiência do usuário"
-            ]
+            ],
+            "slides": "http://tiny.cc/responsivo-ou-especifico"
         }
     },
     {
@@ -1108,7 +1124,8 @@
                 "Negócios",
                 "Oportunidades",
                 "Startup"
-            ]
+            ],
+            "slides": "http://pt.slideshare.net/eduardomeiraperes/agile-brazil-2014-empreen-db-v4"
         }
     },
     {
@@ -1162,7 +1179,8 @@
                 "Negócios",
                 "Processos",
                 "Restricões"
-            ]
+            ],
+            "slides": "http://www.slideshare.net/manoelp/os-beatos-ageis-e-os-pecados-mundanos-das-grandes-empresas"
         }
     },
     {
@@ -1187,7 +1205,8 @@
                 "Métricas",
                 "Testes",
                 "Visualização"
-            ]
+            ],
+            "slides": "http://www.slideshare.net/caelumdev/mtricas-e-automao"
         }
     },
     {
@@ -1272,7 +1291,8 @@
                 "Requisitos",
                 "Técnicas",
                 "Times"
-            ]
+            ],
+            "slides": "http://www.slideshare.net/heliomedeiros/feature-injection-descobrindo-e-entregando-valor-testavel"
         }
     },
     {
@@ -1299,7 +1319,8 @@
                 "Técnicas",
                 "Testes",
                 "Times"
-            ]
+            ],
+            "slides": "http://www.slideshare.net/klementtt/zero-to-agile"
         }
     },
     {
@@ -1326,7 +1347,8 @@
                 "Técnicas",
                 "Test Driven Design",
                 "Testes"
-            ]
+            ],
+            "slides": "http://www.slideshare.net/camiloribeiro/agile-brazil-slides"
         }
     },
     {
@@ -1378,7 +1400,8 @@
                 "Planejamento",
                 "Processos",
                 "Startup"
-            ]
+            ],
+            "slides": "http://www.slideshare.net/brunogh/agile-brazil-2014-case-rd-station-escalando-agile-e-lean-na-gestao-completa-de-produto"
         }
     },
     {
@@ -1539,7 +1562,8 @@
                 "Melhoria contínua",
                 "Negócios",
                 "Técnicas"
-            ]
+            ],
+            "slides": "http://www.slideshare.net/hugocorbucci/sistemas-sustentaveis"
         }
     },
     {
@@ -1726,7 +1750,8 @@
                 "Negócios",
                 "Riscos",
                 "Times"
-            ]
+            ],
+            "slides": "http://www.slideshare.net/parzianello/fatores-crticos-de-sucesso-na-transformao-de-uma-cultura-organizacional"
         }
     },
     {
@@ -1823,7 +1848,8 @@
                 "Melhoria contínua",
                 "Refatoração",
                 "Test Driven Design"
-            ]
+            ],
+            "slides": "http://www.slideshare.net/fabriziomello/tutorial-database-refactoring"
         }
     },
     {
@@ -1847,7 +1873,8 @@
                 "Evolução",
                 "Melhoria contínua",
                 "Times"
-            ]
+            ],
+            "slides": "http://cecifernandes.com/igualdade_de_genero/"
         }
     },
     {
