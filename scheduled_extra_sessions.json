@@ -236,7 +236,8 @@
                 "Rodrigo Toledo"
             ],
             "session_type": "Palestra",
-            "details": "wbma"
+            "details": "wbma bestPaper",
+            "slides": "https://prezi.com/dka2xd9fnjci/apresentacao-wbma-2014-usando-metodos-ageis-para-ensinar-metodos-ageis"
         }
     },
     {
@@ -254,7 +255,8 @@
                 "Francisco Sokol"
             ],
             "session_type": "Palestra",
-            "details": "wbma"
+            "details": "wbma",
+            "slides": "http://www.slideshare.net/mauricioaniche/efeitos-da-prtica-de-reviso-de-cdigo-na-caelum-um-estudo-preliminar-em-duas-equipes"
         }
     },
     {

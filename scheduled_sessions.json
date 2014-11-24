@@ -857,8 +857,8 @@
             "id": 1028,
             "title": "Scrumetes - uma comunidade de prática",
             "authors": [
-                "Paula Nascimento",
-                "Ana Luiza Dallora Moraes"
+            	"Ester Lima de Campos",
+                "Paula Nascimento"
             ],
             "session_type": "Relatos de Experiência",
             "tags": [
@@ -868,7 +868,8 @@
                 "Evolução",
                 "Ideias",
                 "Motivação"
-            ]
+            ],
+            "slides": "http://www.slideshare.net/ScrumHalf_GPE/scrumetes-agile-brazil2014"
         }
     },
     {
@@ -1535,7 +1536,8 @@
                 "Oportunidades",
                 "Restricões",
                 "Visualização"
-            ]
+            ],
+            "slides": "http://pt.slideshare.net/esterlimadecampos/no-pain-no-change-a-gesto-visual-apoiando-a-melhoria-contnua"
         }
     },
     {
@@ -1674,7 +1676,8 @@
                 "Negócios",
                 "Processos",
                 "Relacionamento com clientes"
-            ]
+            ],
+            "slides": "http://www.slideshare.net/heliomedeiros/growth-hacking-customer-lifecycle-na-pratica"
         }
     },
     {
