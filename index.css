@@ -41,6 +41,7 @@ table td, table th {
 	vertical-align: middle;
 	padding: 0.25em;
 	font-size: 85%;
+	position: relative;
 }
 th {
 	background-color: #468850;
@@ -55,6 +56,25 @@ thead tr th {
 a {
 	color: #048;
 	text-decoration: none;
+}
+
+td div {
+	padding-bottom: 1.5em;
+}
+
+.slides {
+	display: block;
+	width: 100%;
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	text-align: center;
+	background-color: #bea;
+}
+
+.interactive .sessionInfo,
+[colspan="5"] .sessionInfo {
+	padding-bottom: 0;
 }
 
 .time {
