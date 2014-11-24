@@ -136,6 +136,14 @@ td div {
 	body table td.wbma .authors {
 		font-size: 0.2cm;
 	}
+	body table td div {
+		padding: 0.25em;
+	}
+
+	.slides {
+		display: none;
+	}
+
 	.allHands {
 		background-color: #999;
 	}
