@@ -94,7 +94,19 @@ td div {
 }
 
 .wbma {
-	background-color: #e5e5e5;
+	background-color: #f0f0f0;
+}
+
+.bestPaper {
+	padding: 0;
+}
+
+.bestPaper:before {
+	content: "WBMA - BEST PAPER";
+	display: block;
+	background-color: #FF8877;
+	color: #FFFFFF;
+	margin-bottom: 0.1em;
 }
 
 .authors {
