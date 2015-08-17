@@ -1,0 +1,105 @@
+[
+	{
+		"room": "1",
+		"day": "1",
+		"hour": "11",
+		"minutes": "30",
+		"roomspan": 1,
+		"timespan": 1,
+		"session": {
+			"id": 1339,
+			"title": "Voluntários na Agile Brazil: criando um time em seis horas!",
+			"authors": [
+				{
+					"name": "Cecilia Fernandes",
+					"gravatar_url": "https://gravatar.com/avatar/83caf77361748326fe960eeca984e1b3.png?s=48&d=mm"
+				}
+			],
+			"session_type": "Relatos de Experiência",
+			"tags": [
+				"Comprometimento",
+				"Melhoria contínua",
+				"Criação",
+				"Evolução",
+				"Aprendizagem",
+				"Motivação",
+				"Casos de Sucesso",
+				"Times",
+				"Técnicas"
+			],
+			"details": "regular",
+			"audience_level": "Novato",
+			"track": "Interesse Geral"
+		}
+	},
+	{
+		"room": "1",
+		"day": "1",
+		"hour": "12",
+		"minutes": "00",
+		"roomspan": 1,
+		"timespan": 1,
+		"session": {
+			"id": 1338,
+			"title": "O que eu aprendi trabalhando na organização do Agile Brazil",
+			"authors": [
+				{
+					"name": "Erica Briones Graciano",
+					"gravatar_url": "https://gravatar.com/avatar/df5cf8e75fa1ae52101ed4d3388920d7.png?s=48&d=mm"
+				}
+			],
+			"session_type": "Relatos de Experiência",
+			"tags": [
+				"Comprometimento",
+				"Melhoria contínua",
+				"Criação",
+				"Cultura",
+				"Evolução",
+				"Aprendizagem",
+				"Motivação",
+				"Oportunidades"
+			],
+			"details": "regular",
+			"audience_level": "Inic. avançado",
+			"track": "Interesse Geral"
+		}
+	},
+	{
+		"room": "2",
+		"day": "1",
+		"hour": "11",
+		"minutes": "30",
+		"roomspan": 1,
+		"timespan": 2,
+		"session": {
+			"id": 1138,
+			"title": "Agile em grandes organizações - Como escalar na prática !",
+			"authors": [
+				{
+					"name": "Ewerton Santos (Ton)",
+					"gravatar_url": "https://gravatar.com/avatar/b4ae62d0876b05818712dd6efc54379b.png?s=48&d=mm"
+				},
+				{
+					"name": "Manoel Pimentel Medeiros",
+					"gravatar_url": "https://gravatar.com/avatar/c9f3722f2b1b1bb215bfbdcb03d3e109.png?s=48&d=mm"
+				}
+			],
+			"session_type": "Palestra",
+			"tags": [
+				"Negócios",
+				"Melhoria contínua",
+				"Criação",
+				"Cultura",
+				"Evolução",
+				"Ideias",
+				"Oportunidades",
+				"Processos",
+				"Estratégias",
+				"Casos de Sucesso"
+			],
+			"details": "regular",
+			"audience_level": "Competente",
+			"track": "UX, Análise e Design"
+		}
+	}
+]

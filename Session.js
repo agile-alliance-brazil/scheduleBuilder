@@ -6,10 +6,12 @@ function Session(session) {
 	this.tags = session.tags || [];
 	this.details = session.details || "regular";
 	this.audience_limit = session.audience_limit || undefined;
+	this.track = session.track;
+	this.audience_level = session.audience_level;
 	this.slides = session.slides || undefined;
 
 	this.authorsDisplayName = function(){
-		return this.authors[0] + (this.authors.length == 2 ? " e " + this.authors[1] : "")
+		return this.authors[0].name + (this.authors.length == 2 ? " e " + this.authors[1].name : "")
 	};
 
 	this.type = function () {
@@ -18,6 +20,9 @@ function Session(session) {
 
 	this.informationFor = function (cell) {
 		var div = $("<div>").addClass("sessionInfo")
+							.appendTo(cell);
+		var level = $("<div>").addClass("level")
+							.text(this.audience_level)
 							.appendTo(cell);
 		var title = $("<a>").attr("href", "session.html#" + this.id)
 							.attr("target", "_parent")
@@ -32,7 +37,10 @@ function Session(session) {
 								.text("Limite: " + this.audience_limit + " participantes");
 			limit.appendTo(div);
 		}
-		if (this.slides) {
+		var track = $("<div>").addClass("track")
+							.text(this.track)
+							.appendTo(cell);
+		if (false) { //not yet
 			var material = $("<a>").addClass("slides")
 									.attr("href", this.slides)
 									.attr("target", "_blank")

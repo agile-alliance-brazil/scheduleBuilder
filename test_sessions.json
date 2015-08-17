@@ -1,17 +1,81 @@
 {"sessions":
-	[
-		{
-			"id": 1108,
-			"title": "Igualdade de gênero na computação",
-			"authors": ["Cecilia Fernandes", "Mariana Bravo"],
-			"tags": ["Aprendizagem", "Cultura", "Evolução", "Melhoria contínua", "Times"],
-			"session_type": "Duelo"
-		}, {
-			"id": 1110,
-			"title": "Introdução ao Lean Software Development",
-			"authors": ["Samuel Crescêncio"],
-			"tags": ["Automação", "Coaching", "Cultura", "Estratégias", "Melhoria contínua", "Métricas", "Processos", "Relacionamento com clientes", "Técnicas", "Times"],
-			"session_type": "Palestra"
+	[{
+		"id":1339,
+		"title":"Voluntários na Agile Brazil: criando um time em seis horas!",
+		"authors":[{
+			"name":"Cecilia Fernandes",
+			"gravatar_url":"https://gravatar.com/avatar/83caf77361748326fe960eeca984e1b3.png?s=48\u0026d=mm"
+		}],
+		"prerequisites":"Não há, todos são bem vindos",
+		"tags":[
+			"Comprometimento",
+			"Melhoria contínua",
+			"Criação",
+			"Evolução",
+			"Aprendizagem",
+			"Motivação",
+			"Casos de Sucesso",
+			"Times",
+			"Técnicas"
+		],
+		"session_type":"Relatos de Experiência",
+		"audience_level":"Iniciante avançado",
+		"track":"Interesse Geral",
+		"audience_limit":null,
+		"summary":"Em 2012, estreamos o programa de Voluntários da Agile Brazil e temos mantido ele desde então.\r\n\r\nNo ano de estréia, no entanto, tivemos uma grande resistência dentro da organização: muitos não acreditavam que ter voluntários que se conheceram no dia anterior à conferência trabalhando como um time: efetiva e eficientemente -- e se divertindo no processo!\r\n\r\nVenha entender como isso é possível e as técnicas que usamos para ter sucesso ano após ano, e manter o programa de voluntários rodando!\r\n\r\nQuem sabe você também descobre algo que pode usar no próximo time que precisar montar. ;-)"
+	},
+	{
+		"id":1338,
+		"title":"O que eu aprendi trabalhando na organização do Agile Brazil",
+		"authors":[{
+			"name":"Erica Briones Graciano",
+			"gravatar_url":"https://gravatar.com/avatar/df5cf8e75fa1ae52101ed4d3388920d7.png?s=48\u0026d=mm"
+		}],
+		"prerequisites":"Nenhum.",
+		"tags":[
+			"Comprometimento",
+			"Melhoria contínua",
+			"Criação",
+			"Cultura",
+			"Evolução",
+			"Aprendizagem",
+			"Motivação",
+			"Oportunidades"
+		],
+		"session_type":"Relatos de Experiência",
+		"audience_level":"Iniciante avançado",
+		"track":"Interesse Geral",
+		"audience_limit":null,
+		"summary":"\"This is your last chance. After this, there is no turning back. You take the blue pill -- the story ends, you wake up in your bed and believe whatever you want to believe. You take the red pill -- you stay in Wonderland and I show you how deep the rabbit hole goes.\" - Morpheus\r\n\r\nQuando me fizeram o convite pra participar da organização e eu disse \"sim\", eu com certeza não sabia o que eu estava aceitando.\r\n\r\nO que acontece quando ninguém pode ser demitido? Como funciona organizar o MAIOR evento de agilidade brasileiro, um evento para 1000 pessoas, sem **nenhum** funcionário?"
+	},
+	{
+		"id": 1138,
+		"title": "Agile em grandes organizações - Como escalar na prática !",
+		"authors": [{
+			"name": "Ewerton Santos (Ton)",
+			"gravatar_url": "https://gravatar.com/avatar/b4ae62d0876b05818712dd6efc54379b.png?s=48&d=mm"
+			},{
+			"name": "Manoel Pimentel Medeiros",
+			"gravatar_url": "https://gravatar.com/avatar/c9f3722f2b1b1bb215bfbdcb03d3e109.png?s=48&d=mm"
+		}],
+		"prerequisites": "Conhecimento em práticas ágeis; interesse em gestão e planejamento tático e estratégico. Desejo em conhecer sobre gestão de programas e vontade em discutir o futuro do Agile.",
+		"tags": [
+			"Negócios",
+			"Melhoria contínua",
+			"Criação",
+			"Cultura",
+			"Evolução",
+			"Ideias",
+			"Oportunidades",
+			"Processos",
+			"Estratégias",
+			"Casos de Sucesso"
+		],
+		"session_type": "Palestra",
+		"audience_level": "Iniciante avançado",
+		"track": "Gestão",
+		"audience_limit": null,
+		"summary": "O objetivo dessa palestra é socializar estratégias compiladas a partir de experiências de anos ajudando na transição/experimentação ágil em organizações que vão desde  startups com 3 pessoas até empresas com mais de 60 mil funcionários ao redor do mundo.  Tal compilação foi feita com base em dores e alegrias (fracassos e sucessos) inerentes à aventura de fazer o ágil ser vivido em empresas como bancos, telecoms, indústrias e empresas de TI em geral."
 		}
 	]
 }
