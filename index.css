@@ -75,7 +75,13 @@ td div {
 	white-space: nowrap;
 }
 
-.slides, .track {
+.slides {
+	width: 100%;
+	left: 0;
+	background-color: #bea;
+}
+
+.track {
 	width: 60%;
 	left: 0;
 	background-color: #bea;
