@@ -1,421 +1,211 @@
 [
-    {
-        "room": "1",
-        "day": "1",
-        "hour": "10",
-        "minutes": "30",
-        "roomspan": 5,
-        "timespan": 1,
-        "session": {
-            "id": 1,
-            "title": "Energizer",
-            "authors": [
-                ""
-            ],
-            "session_type": "Relatos de Experiência",
-            "details": "interactive"
-        }
-    },
-    {
-        "room": "1",
-        "day": "1",
-        "hour": "9",
-        "minutes": "30",
-        "roomspan": 5,
-        "timespan": 2,
-        "session": {
-            "id": 2,
-            "title": "Taming Big Balls of Mud with Diligence, Agile Practices, and Hard Work",
-            "authors": [
-                "Joseph Yoder"
-            ],
-            "session_type": "Keynote",
-            "details": "invited"
-        }
-    },
-    {
-        "room": "1",
-        "day": "2",
-        "hour": "9",
-        "minutes": "00",
-        "roomspan": 5,
-        "timespan": 2,
-        "session": {
-            "id": 3,
-            "title": "The Lean Enterprise",
-            "authors": [
-                "Barry O'Reilly"
-            ],
-            "session_type": "Keynote",
-            "details": "invited"
-        }
-    },
-    {
-        "room": "1",
-        "day": "3",
-        "hour": "9",
-        "minutes": "00",
-        "roomspan": 5,
-        "timespan": 2,
-        "session": {
-            "id": 4,
-            "title": "Samba, Futebol, Política e Gambiarra – o que o Brasil me ensinou sobre fazer software",
-            "authors": [
-                "Alexandre Freire"
-            ],
-            "session_type": "Keynote",
-            "details": "invited"
-        }
-    },
-    {
-        "room": "1",
-        "day": "2",
-        "hour": "18",
-        "minutes": "00",
-        "roomspan": 5,
-        "timespan": 2,
-        "session": {
-            "id": 5,
-            "title": "Keynote fora-da-caixa",
-            "authors": [
-                "Jupira Corbucci"
-            ],
-            "session_type": "Keynote",
-            "details": "interactive"
-        }
-    },
-    {
-        "room": "1",
-        "day": "1",
-        "hour": "14",
-        "minutes": "30",
-        "roomspan": 4,
-        "timespan": 2,
-        "session": {
-            "id": 6,
-            "title": "Open Spaces",
-            "authors": [
-                ""
-            ],
-            "session_type": "Palestra",
-            "details": "interactive"
-        }
-    },
-    {
-        "room": "4",
-        "day": "1",
-        "hour": "15",
-        "minutes": "30",
-        "roomspan": 1,
-        "timespan": 2,
-        "session": {
-            "id": 7,
-            "title": "Conversa rápida",
-            "authors": [
-            	"Todos: traga seu tema"
-            ],
-            "session_type": "Palestra",
-            "details": "interactive"
-        }
-    },
-    {
-        "room": "5",
-        "day": "2",
-        "hour": "11",
-        "minutes": "30",
-        "roomspan": 1,
-        "timespan": 3,
-        "session": {
-            "id": 8,
-            "title": "Taming the Agile Release Planning Beast",
-            "authors": [
-                "Linda Cook"
-            ],
-            "session_type": "Mão na Massa",
-            "details": "invited"
-        }
-    },
-    {
-        "room": "2",
-        "day": "2",
-        "hour": "15",
-        "minutes": "30",
-        "roomspan": 1,
-        "timespan": 2,
-        "session": {
-            "id": 9,
-            "title": "Creating intimacy for Near-shore Agile teams",
-            "authors": [
-                "Derek Johnson"
-            ],
-            "session_type": "Palestra",
-            "details": "invited"
-        }
-    },
-    {
-        "room": "1",
-        "day": "3",
-        "hour": "10",
-        "minutes": "30",
-        "roomspan": 1,
-        "timespan": 2,
-        "session": {
-            "id": 10,
-            "title": "Refletindo sobre felicidade",
-            "authors": [
-                "Marcos Mazoni"
-            ],
-            "session_type": "Palestra",
-            "details": "sponsor"
-        }
-    },
-    {
-        "room": "1",
-        "day": "3",
-        "hour": "11",
-        "minutes": "30",
-        "roomspan": 1,
-        "timespan": 2,
-        "session": {
-            "id": 11,
-            "title": "Scrum Anthology 1: coletânea com práticas e atitudes decisivas na minha história com métodos ágeis",
-            "authors": [
-                "Alexandre Magno"
-            ],
-            "session_type": "Palestra",
-            "details": "sponsor"
-        }
-    },
-    {
-        "room": "1",
-        "day": "2",
-        "hour": "19",
-        "minutes": "00",
-        "roomspan": 5,
-        "timespan": 1,
-        "session": {
-            "id": 12,
-            "title": "Agile Alliance Members' Meeting",
-            "authors": [
-                "Board da Agile Alliance Brazil (no restaurante)"
-            ],
-            "session_type": "Palestra",
-            "details": "sponsor"
-        }
-    },
-    {
-        "room": "4",
-        "day": "2",
-        "hour": "10",
-        "minutes": "30",
-        "roomspan": 1,
-        "timespan": 1,
-        "session": {
-            "id": 13,
-            "title": "Metodologias Ágeis na Administração Pública: Uma Revisão Sistemática da Literatura",
-            "authors": [
-                "Isaque Vacari",
-                "Rafael Prikladnicki"
-            ],
-            "session_type": "Palestra",
-            "details": "wbma"
-        }
-    },
-    {
-        "room": "4",
-        "day": "2",
-        "hour": "11",
-        "minutes": "00",
-        "roomspan": 1,
-        "timespan": 1,
-        "session": {
-            "id": 13,
-            "title": "Usando Métodos Ágeis para ensinar Métodos Ágeis",
-            "authors": [
-                "Avelino F. Gomes Filho", 
-                "Rodrigo Toledo"
-            ],
-            "session_type": "Palestra",
-            "details": "wbma bestPaper",
-            "slides": "https://prezi.com/dka2xd9fnjci/apresentacao-wbma-2014-usando-metodos-ageis-para-ensinar-metodos-ageis"
-        }
-    },
-    {
-        "room": "4",
-        "day": "2",
-        "hour": "11",
-        "minutes": "30",
-        "roomspan": 1,
-        "timespan": 1,
-        "session": {
-            "id": 13,
-            "title": "Efeitos da Prática de Revisão de Código na Caelum: Um Estudo de Caso Preliminar",
-            "authors": [
-                "Maurício Aniche",
-                "Francisco Sokol"
-            ],
-            "session_type": "Palestra",
-            "details": "wbma",
-            "slides": "http://www.slideshare.net/mauricioaniche/efeitos-da-prtica-de-reviso-de-cdigo-na-caelum-um-estudo-preliminar-em-duas-equipes"
-        }
-    },
-    {
-        "room": "4",
-        "day": "2",
-        "hour": "12",
-        "minutes": "00",
-        "roomspan": 1,
-        "timespan": 1,
-        "session": {
-            "id": 13,
-            "title": "Applying Continuous Integration principles in safety-critical airborne software",
-            "authors": [
-                "Andre B. Boralli",
-                "Ricardo B. França"
-            ],
-            "session_type": "Palestra",
-            "details": "wbma"
-        }
-    },
-    {
-        "room": "4",
-        "day": "2",
-        "hour": "12",
-        "minutes": "30",
-        "roomspan": 1,
-        "timespan": 1,
-        "session": {
-            "id": 13,
-            "title": "Using Nokia Test to Evaluating Quality and Productivity on Scrum-CMMI Environments",
-            "authors": [
-                "Célio Santana",
-                "Amanda Nunes"
-            ],
-            "session_type": "Palestra",
-            "details": "wbma"
-        }
-    },
-    {
-        "room": "4",
-        "day": "2",
-        "hour": "14",
-        "minutes": "30",
-        "roomspan": 1,
-        "timespan": 1,
-        "session": {
-            "id": 13,
-            "title": "Uma Revisão Sistemática da Literatura sobre o Impacto dos Fatores Humanos em Projetos Ágeis",
-            "authors": [
-                "Aline Chagas", 
-                "Alexandre Vasconcelos"
-            ],
-            "session_type": "Palestra",
-            "details": "wbma"
-        }
-    },
-    {
-        "room": "4",
-        "day": "2",
-        "hour": "15",
-        "minutes": "00",
-        "roomspan": 1,
-        "timespan": 1,
-        "session": {
-            "id": 13,
-            "title": "The effects of a model for identifying and managing Technical Debt in Scrum project",
-            "authors": [
-                "Rogerio C Pires", 
-                "Graziela Simone Tonin"
-            ],
-            "session_type": "Palestra",
-            "details": "wbma"
-        }
-    },
-    {
-        "room": "4",
-        "day": "2",
-        "hour": "15",
-        "minutes": "30",
-        "roomspan": 1,
-        "timespan": 1,
-        "session": {
-            "id": 13,
-            "title": "Short papers: propostas de pesquisa",
-            "authors": [
-                "Diversos autores"
-            ],
-            "session_type": "Palestra",
-            "details": "wbma"
-        }
-    },
-    {
-        "room": "4",
-        "day": "2",
-        "hour": "16",
-        "minutes": "00",
-        "roomspan": 1,
-        "timespan": 1,
-        "session": {
-            "id": 13,
-            "title": "Aferição da Qualidade do Código-Fonte em uma autarquia da Administração Pública Federal",
-            "authors": [
-                "Hilmer Rodrigues Neri", 
-                "Guilherme Baufaker Rêgo"
-            ],
-            "session_type": "Palestra",
-            "details": "wbma"
-        }
-    },
-    {
-        "room": "4",
-        "day": "2",
-        "hour": "16",
-        "minutes": "30",
-        "roomspan": 1,
-        "timespan": 1,
-        "session": {
-            "id": 13,
-            "title": "On the Understanding of Agile Methods and Their Practice in Brazil",
-            "authors": [
-                "Elisa Diel", 
-                "Mariana Bergmann"
-            ],
-            "session_type": "Palestra",
-            "details": "wbma"
-        }
-    },
-    {
-        "room": "4",
-        "day": "2",
-        "hour": "17",
-        "minutes": "00",
-        "roomspan": 1,
-        "timespan": 1,
-        "session": {
-            "id": 13,
-            "title": "Mesa redonda: o futuro da Pesquisa em Métodos Ágeis",
-            "authors": [
-                ""
-            ],
-            "session_type": "Palestra",
-            "details": "interactive"
-        }
-    },
-    {
-        "room": "1",
-        "day": "1",
-        "hour": "19",
-        "minutes": "00",
-        "roomspan": 5,
-        "timespan": 1,
-        "session": {
-            "id": 14,
-            "title": "Coquetel",
-            "authors": [
-                ""
-            ],
-            "session_type": "Networking",
-            "details": "interactive"
-        }
-    }
+	{
+		"room": "1",
+		"day": "1",
+		"hour": "10",
+		"minutes": "30",
+		"roomspan": 5,
+		"timespan": 2,
+		"session": {
+			"id": 1,
+			"title": "TBD",
+			"authors": [
+				{
+					"name": "Linda Rising"
+				}
+			],
+			"session_type": "Keynote",
+			"details": "invited"
+		}
+	},
+	{
+		"room": "1",
+		"day": "1",
+		"hour": "11",
+		"minutes": "30",
+		"roomspan": 5,
+		"timespan": 3,
+		"session": {
+			"id": 2,
+			"title": "Open Spaces",
+			"authors": [
+				{
+					"name": "Traga suas ideias!"
+				}
+			],
+			"session_type": "Keynote",
+			"details": "interactive"
+		}
+	},
+	{
+		"room": "3",
+		"day": "1",
+		"hour": "17",
+		"minutes": "30",
+		"roomspan": 1,
+		"timespan": 2,
+		"session": {
+			"id": 3,
+			"title": "TBD",
+			"authors": [
+				{
+					"name": ""
+				}
+			],
+			"session_type": "Palestra",
+			"details": "invited"
+		}
+	},
+	{
+		"room": "1",
+		"day": "1",
+		"hour": "19",
+		"minutes": "00",
+		"roomspan": 1,
+		"timespan": 2,
+		"session": {
+			"id": 4,
+			"title": "TBD",
+			"authors": [
+				{
+					"name": "Silvio Meira"
+				}
+			],
+			"session_type": "Palestra",
+			"details": "invited"
+		}
+	},
+	{
+		"room": "1",
+		"day": "2",
+		"hour": "10",
+		"minutes": "30",
+		"roomspan": 5,
+		"timespan": 2,
+		"session": {
+			"id": 5,
+			"title": "TBD",
+			"authors": [
+				{
+					"name": "Michael Feathers"
+				}
+			],
+			"session_type": "Keynote",
+			"details": "interactive"
+		}
+	},
+	{
+		"room": "1",
+		"day": "2",
+		"hour": "18",
+		"minutes": "30",
+		"roomspan": 3,
+		"timespan": 2,
+		"session": {
+			"id": 6,
+			"title": "Agile Alliance Members' Meeting",
+			"authors": [
+				{
+					"name": ""
+				}
+			],
+			"session_type": "Palestra",
+			"details": "sponsor"
+		}
+	},
+	{
+		"room": "1",
+		"day": "2",
+		"hour": "19",
+		"minutes": "30",
+		"roomspan": 3,
+		"timespan": 2,
+		"session": {
+			"id": 7,
+			"title": "Keynote Fora da Caixa",
+			"authors": [
+				{
+					"name": "Murillo Novaes"
+				}
+			],
+			"session_type": "Keynote",
+			"details": "invited"
+		}
+	},
+	{
+		"room": "1",
+		"day": "3",
+		"hour": "10",
+		"minutes": "30",
+		"roomspan": 5,
+		"timespan": 2,
+		"session": {
+			"id": 8,
+			"title": "TBD",
+			"authors": [
+				{
+					"name": "Alexandre Magno"
+				}
+			],
+			"session_type": "Keynote",
+			"details": "invited"
+		}
+	},
+	{
+		"room": "3",
+		"day": "3",
+		"hour": "17",
+		"minutes": "30",
+		"roomspan": 1,
+		"timespan": 3,
+		"session": {
+			"id": 9,
+			"title": "Nenhum Cabra Sabe Nada",
+			"authors": [
+				{
+					"name": "Convidado Especial"
+				}
+			],
+			"session_type": "Palestra",
+			"details": "interactive"
+		}
+	},
+	{
+		"room": "4",
+		"day": "2",
+		"hour": "12",
+		"minutes": "00",
+		"roomspan": 1,
+		"timespan": 4,
+		"session": {
+			"id": 10,
+			"title": "WBMA",
+			"authors": [
+				{
+					"name": ""
+				}
+			],
+			"session_type": "Palestra",
+			"details": "wbma"
+		}
+	},
+	{
+		"room": "4",
+		"day": "2",
+		"hour": "15",
+		"minutes": "00",
+		"roomspan": 1,
+		"timespan": 6,
+		"session": {
+			"id": 11,
+			"title": "WBMA",
+			"authors": [
+				{
+					"name": ""
+				}
+			],
+			"session_type": "Palestra",
+			"details": "wbma"
+		}
+	}
 ]

@@ -1,1940 +1,2594 @@
 [
-    {
-        "room": "3",
-        "day": "1",
-        "hour": "18",
-        "minutes": "00",
-        "roomspan": 1,
-        "timespan": 2,
-        "session": {
-            "id": 928,
-            "title": "Bad Smells em Bancos de Dados",
-            "authors": [
-                "Fabrízio de Royes Mello",
-                "Guilherme Lacerda"
-            ],
-            "session_type": "Palestra",
-            "tags": [
-                "Refatoração",
-                "Testes"
-            ],
-            "slides": "http://www.slideshare.net/guilhermeslacerda/agile-brazil2014-bad-smells-em-bancos-de-dados-41432040"
-        }
-    },
-    {
-        "room": "2",
-        "day": "1",
-        "hour": "16",
-        "minutes": "30",
-        "roomspan": 1,
-        "timespan": 2,
-        "session": {
-            "id": 929,
-            "title": "Educação 3.0 - Maximizando o Ensino e o Aprendizado",
-            "authors": [
-                "Ari do Amaral Torres Filho"
-            ],
-            "session_type": "Palestra",
-            "tags": [
-                "Aprendizagem",
-                "Casos de Sucesso",
-                "Comprometimento",
-                "Cultura",
-                "Ideias",
-                "Melhoria contínua",
-                "Motivação",
-                "Oportunidades",
-                "Planejamento",
-                "Restricões"
-            ],
-            "slides": "http://www.slideshare.net/ariamaral/educacao-30"
-        }
-    },
-    {
-        "room": "3",
-        "day": "3",
-        "hour": "14",
-        "minutes": "00",
-        "roomspan": 1,
-        "timespan": 2,
-        "session": {
-            "id": 934,
-            "title": "Direção é mais importante que Velocidade: Como construir Backlogs de Produtos mais relevantes",
-            "authors": [
-                "Rodrigo Silva Pinto",
-                "Romeu Ivolela"
-            ],
-            "session_type": "Palestra",
-            "tags": [
-                "Design emergente",
-                "Estratégias",
-                "Ideias",
-                "Métricas",
-                "Negócios",
-                "Processos",
-                "Requisitos",
-                "Técnicas"
-            ],
-            "slides": "http://pt.slideshare.net/rodrigosilvap/direcao-x-velocidade"
-        }
-    },
-    {
-        "room": "4",
-        "day": "3",
-        "hour": "16",
-        "minutes": "00",
-        "roomspan": 1,
-        "timespan": 1,
-        "session": {
-            "id": 938,
-            "title": "Análise de Requisitos e Gestão de Projeto: As disciplinas renegadas no desenvolvimento ágil.",
-            "authors": [
-                "Giuliano Sposito"
-            ],
-            "session_type": "Relatos de Experiência",
-            "tags": [
-                "Aprendizagem",
-                "Coaching",
-                "Cultura",
-                "Negócios",
-                "Processos",
-                "Relacionamento com clientes",
-                "Requisitos",
-                "Técnicas"
-            ],
-            "slides": "http://www.slideshare.net/GiulianoSposito/agilebr-gp-an-as-disciplinas-renegadas-do-gil-legendado"
-        }
-    },
-    {
-        "room": "2",
-        "day": "2",
-        "hour": "11",
-        "minutes": "30",
-        "roomspan": 1,
-        "timespan": 2,
-        "session": {
-            "id": 940,
-            "title": "Mental Models in High Performing Agile Teams",
-            "authors": [
-                "Amit Uttam"
-            ],
-            "session_type": "Palestra",
-            "tags": [
-                "Aprendizagem",
-                "Coaching",
-                "Cultura",
-                "Motivação",
-                "Técnicas",
-                "Times"
-            ],
-            "slides": "http://www.slideshare.net/changingrainbows/mental-models-agile-brazil"
-        }
-    },
-    {
-        "room": "1",
-        "day": "1",
-        "hour": "15",
-        "minutes": "30",
-        "roomspan": 1,
-        "timespan": 1,
-        "session": {
-            "id": 941,
-            "title": "UX para aumentar a liberdade de diabéticos",
-            "authors": [
-                "Fernanda Bernardo"
-            ],
-            "session_type": "Relatos de Experiência",
-            "tags": [
-                "Aprendizagem",
-                "Criação",
-                "Design emergente",
-                "Experiência do usuário",
-                "Ideias",
-                "Técnicas"
-            ],
-            "slides": "http://www.slideshare.net/fehbernardo/ux-para-aumentar-a-liberdade-de-diabticos-agile-brazil"
-        }
-    },
-    {
-        "room": "3",
-        "day": "2",
-        "hour": "16",
-        "minutes": "30",
-        "roomspan": 1,
-        "timespan": 2,
-        "session": {
-            "id": 950,
-            "title": "Agilidade no nível de codificação: reduzindo interrupções passivas",
-            "authors": [
-                "Andrei Tognolo"
-            ],
-            "session_type": "Palestra",
-            "tags": [
-                "Design emergente",
-                "Test Driven Design",
-                "Testes"
-            ]
-        }
-    },
-    {
-        "room": "2",
-        "day": "2",
-        "hour": "12",
-        "minutes": "30",
-        "roomspan": 1,
-        "timespan": 1,
-        "session": {
-            "id": 955,
-            "title": "Os desafios na gestão de roadmap de produto em equipes ágeis",
-            "authors": [
-                "Emerson Schenatto",
-                "Rafael Helm"
-            ],
-            "session_type": "Relatos de Experiência",
-            "tags": [
-                "Aprendizagem",
-                "Comprometimento",
-                "Estimativas",
-                "Melhoria contínua",
-                "Métricas",
-                "Motivação",
-                "Negócios",
-                "Oportunidades",
-                "Planejamento",
-                "Requisitos"
-            ]
-        }
-    },
-    {
-        "room": "1",
-        "day": "1",
-        "hour": "18",
-        "minutes": "00",
-        "roomspan": 1,
-        "timespan": 2,
-        "session": {
-            "id": 957,
-            "title": "#StopTheMimimi: De vítima a protagonista",
-            "authors": [
-                "Erica Briones Graciano"
-            ],
-            "session_type": "Palestra",
-            "tags": [
-                "Aprendizagem",
-                "Cultura",
-                "Estratégias",
-                "Evolução",
-                "Implantação",
-                "Motivação",
-                "Oportunidades",
-                "Relacionamento com clientes"
-            ],
-            "slides": "http://www.slideshare.net/ericabriones/stop-mimimi-ab2014publishpt-41431300"
-        }
-    },
-    {
-        "room": "3",
-        "day": "2",
-        "hour": "11",
-        "minutes": "00",
-        "roomspan": 1,
-        "timespan": 1,
-        "session": {
-            "id": 964,
-            "title": "Comédia da Vida Societária",
-            "authors": [
-                "Fabricio Nogueira Buzeto"
-            ],
-            "session_type": "Relatos de Experiência",
-            "tags": [
-                "Casos de Fracasso",
-                "Casos de Sucesso",
-                "Comprometimento",
-                "Cultura",
-                "Estratégias",
-                "Motivação",
-                "Negócios",
-                "Oportunidades",
-                "Riscos",
-                "Startup"
-            ],
-            "slides": "http://pt.slideshare.net/nukdf/comdia-da-vida-societria-agile-brazil-2014"
-        }
-    },
-    {
-        "room": "2",
-        "day": "3",
-        "hour": "10",
-        "minutes": "30",
-        "roomspan": 1,
-        "timespan": 2,
-        "session": {
-            "id": 966,
-            "title": "Direto ao ponto: criando produtos de forma enxuta",
-            "authors": [
-                "Paulo Caroli",
-                "Bethlem Kafer Migot"
-            ],
-            "session_type": "Palestra",
-            "tags": [
-                "Criação",
-                "Estimativas",
-                "Estratégias",
-                "Negócios",
-                "Oportunidades",
-                "Requisitos",
-                "Startup",
-                "Técnicas"
-            ],
-            "slides": "https://leanpub.com/diretoaoponto/c/AgileBrazil"
-        }
-    },
-    {
-        "room": "5",
-        "day": "1",
-        "hour": "11",
-        "minutes": "30",
-        "roomspan": 1,
-        "timespan": 3,
-        "session": {
-            "id": 969,
-            "title": "Como tomar decisões em equipe",
-            "authors": [
-                "Matheus Haddad"
-            ],
-            "session_type": "Mão na Massa",
-            "audience_limit": "42",
-            "tags": [
-                "Aprendizagem",
-                "Comprometimento",
-                "Cultura",
-                "Estratégias",
-                "Motivação",
-                "Negócios",
-                "Processos",
-                "Técnicas",
-                "Times",
-                "Visualização"
-            ],
-            "slides": "http://www.slideshare.net/webgoal/como-tomar-decisoes-em-equipe"
-        }
-    },
-    {
-        "room": "3",
-        "day": "3",
-        "hour": "10",
-        "minutes": "30",
-        "roomspan": 1,
-        "timespan": 2,
-        "session": {
-            "id": 971,
-            "title": "O impacto do DevOps na qualidade de software",
-            "authors": [
-                "Welington Monteiro"
-            ],
-            "session_type": "Palestra",
-            "tags": [
-                "Automação",
-                "Deploy contínuo",
-                "Estratégias",
-                "Evolução",
-                "Implantação",
-                "Integração contínua",
-                "Processos",
-                "Riscos",
-                "Técnicas",
-                "Testes"
-            ]
-        }
-    },
-    {
-        "room": "3",
-        "day": "3",
-        "hour": "16",
-        "minutes": "30",
-        "roomspan": 1,
-        "timespan": 1,
-        "session": {
-            "id": 979,
-            "title": "Agile StandUp Comedy: Iteração #2",
-            "authors": [
-                "Rafael Barbosa Camargo"
-            ],
-            "session_type": "Relatos de Experiência",
-            "tags": [
-                "Aprendizagem",
-                "Casos de Fracasso",
-                "Casos de Sucesso",
-                "Coaching",
-                "Cultura",
-                "Habilidade",
-                "Ideias",
-                "Negócios",
-                "Técnicas",
-                "Times"
-            ]
-        }
-    },
-    {
-        "room": "2",
-        "day": "2",
-        "hour": "14",
-        "minutes": "30",
-        "roomspan": 1,
-        "timespan": 2,
-        "session": {
-            "id": 980,
-            "title": "Desenvolvimento Orgânico de Software com User Stories",
-            "authors": [
-                "Dionatan de Souza Moura",
-                "Daniel Wildt"
-            ],
-            "session_type": "Palestra",
-            "tags": [
-                "Automação",
-                "Cultura",
-                "Design emergente",
-                "Ideias",
-                "Negócios",
-                "Padrões",
-                "Planejamento",
-                "Requisitos",
-                "Técnicas",
-                "Testes"
-            ],
-            "slides": "http://www.slideshare.net/dionatanmoura/desenvolvimento-orgnico-de-software-com-user-stories-agilebr"
-        }
-    },
-    {
-        "room": "3",
-        "day": "3",
-        "hour": "15",
-        "minutes": "00",
-        "roomspan": 1,
-        "timespan": 1,
-        "session": {
-            "id": 983,
-            "title": "Management 3.0 direto das trincheiras",
-            "authors": [
-                "Vandre Miguel Ramos"
-            ],
-            "session_type": "Relatos de Experiência",
-            "tags": [
-                "Aprendizagem",
-                "Casos de Sucesso",
-                "Coaching",
-                "Comprometimento",
-                "Estratégias",
-                "Evolução",
-                "Motivação",
-                "Planejamento",
-                "Técnicas",
-                "Times"
-            ],
-            "slides": "http://www.slideshare.net/vandreramos/management-30-direto-das-trincheiras"
-        }
-    },
-    {
-        "room": "2",
-        "day": "3",
-        "hour": "15",
-        "minutes": "00",
-        "roomspan": 1,
-        "timespan": 2,
-        "session": {
-            "id": 986,
-            "title": "Startup Communities - Como desenvolver um ecossistema de empreendedorismo",
-            "authors": [
-                "Daniel Cukier"
-            ],
-            "session_type": "Palestra",
-            "tags": [
-                "Aprendizagem",
-                "Comprometimento",
-                "Cultura",
-                "Ideias",
-                "Motivação",
-                "Negócios",
-                "Startup",
-                "Técnicas"
-            ]
-        }
-    },
-    {
-        "room": "3",
-        "day": "2",
-        "hour": "12",
-        "minutes": "00",
-        "roomspan": 1,
-        "timespan": 2,
-        "session": {
-            "id": 991,
-            "title": "Agile Gamification: Impulsionando práticas de desenvolvimento utilizando elementos de jogos",
-            "authors": [
-                "Davi Gabriel da Silva"
-            ],
-            "session_type": "Palestra",
-            "tags": [
-                "Coaching",
-                "Estratégias",
-                "Habilidade",
-                "Ideias",
-                "Motivação",
-                "Técnicas",
-                "Times"
-            ]
-        }
-    },
-    {
-        "room": "5",
-        "day": "1",
-        "hour": "18",
-        "minutes": "00",
-        "roomspan": 1,
-        "timespan": 1,
-        "session": {
-            "id": 992,
-            "title": "OKR e Agile: Um caso de estudo de implantação",
-            "authors": [
-                "Reinaldo Bazzeo Camargo"
-            ],
-            "session_type": "Relatos de Experiência",
-            "tags": [
-                "Cultura",
-                "Estratégias",
-                "Motivação",
-                "Processos",
-                "Técnicas"
-            ]
-        }
-    },
-    {
-        "room": "1",
-        "day": "2",
-        "hour": "15",
-        "minutes": "30",
-        "roomspan": 1,
-        "timespan": 2,
-        "session": {
-            "id": 994,
-            "title": "Desenvolvendo liberdade no local de trabalho",
-            "authors": [
-                "Cecilia Fernandes",
-                "Raphael Molesim"
-            ],
-            "session_type": "Palestra",
-            "tags": [
-                "Aprendizagem",
-                "Coaching",
-                "Comprometimento",
-                "Cultura",
-                "Motivação",
-                "Restricões"
-            ],
-            "slides": "http://cecifernandes.com/liberdade_no_trabalho/"
-        }
-    },
-    {
-        "room": "3",
-        "day": "1",
-        "hour": "16",
-        "minutes": "30",
-        "roomspan": 1,
-        "timespan": 2,
-        "session": {
-            "id": 995,
-            "title": "Entregue valor ou seja esquecido! Um mergulho na teoria e prática da engenharia de valor",
-            "authors": [
-                "Tissiana Nunes Costa"
-            ],
-            "session_type": "Palestra",
-            "tags": [
-                "Cultura",
-                "Estratégias",
-                "Ideias",
-                "Melhoria contínua",
-                "Métricas",
-                "Negócios",
-                "Planejamento",
-                "Processos",
-                "Relacionamento com clientes",
-                "Requisitos"
-            ]
-        }
-    },
-    {
-        "room": "3",
-        "day": "1",
-        "hour": "11",
-        "minutes": "30",
-        "roomspan": 1,
-        "timespan": 1,
-        "session": {
-            "id": 1000,
-            "title": "Aceleradora ágil: o segredo do sucesso depois de 4 anos de parceria entre universidade e empresa",
-            "authors": [
-                "Alejandro Olchik"
-            ],
-            "session_type": "Relatos de Experiência",
-            "tags": [
-                "Casos de Sucesso",
-                "Coaching",
-                "Cultura",
-                "Estratégias",
-                "Planejamento"
-            ],
-            "slides": "http://www.slideshare.net/aolchik/agile-brazil-2014-aceleradora-agil-o-segredo-do-sucesso-depois-de-4-anos-de-parceria-entre-universidade-e-empresa"
-        }
-    },
-    {
-        "room": "4",
-        "day": "3",
-        "hour": "12",
-        "minutes": "00",
-        "roomspan": 1,
-        "timespan": 1,
-        "session": {
-            "id": 1001,
-            "title": "Agilidade no Judiciário - Um relato de experiência de Agile Coaching no TJ-RS",
-            "authors": [
-                "Guilherme Lacerda",
-                "Felipe Pinheiro de Souza"
-            ],
-            "session_type": "Relatos de Experiência",
-            "tags": [
-                "Casos de Sucesso",
-                "Coaching",
-                "Comprometimento",
-                "Cultura",
-                "Evolução",
-                "Implantação",
-                "Melhoria contínua",
-                "Motivação",
-                "Processos",
-                "Times"
-            ],
-            "slides": "http://pt.slideshare.net/guilhermeslacerda/agilebrazil2014-agilidade-no-judicirio-um-relato-de-experincia-de-agile-coaching-no-tjrs"
-        }
-    },
-    {
-        "room": "5",
-        "day": "3",
-        "hour": "12",
-        "minutes": "00",
-        "roomspan": 1,
-        "timespan": 1,
-        "session": {
-            "id": 1002,
-            "title": "MVP - Onde os Fracos Não Têm Vez",
-            "authors": [
-                "Cesar Coutinho"
-            ],
-            "session_type": "Relatos de Experiência",
-            "tags": [
-                "Criação",
-                "Ideias",
-                "Negócios",
-                "Planejamento",
-                "Startup"
-            ]
-        }
-    },
-    {
-        "room": "4",
-        "day": "1",
-        "hour": "12",
-        "minutes": "00",
-        "roomspan": 1,
-        "timespan": 2,
-        "session": {
-            "id": 1003,
-            "title": "Fracassando com alegria: relatos de trincheira de uma startup gaúcha",
-            "authors": [
-                "Flavio Steffens de Castro"
-            ],
-            "session_type": "Palestra",
-            "tags": [
-                "Aprendizagem",
-                "Casos de Fracasso",
-                "Casos de Sucesso",
-                "Comprometimento",
-                "Criação",
-                "Motivação",
-                "Negócios",
-                "Oportunidades",
-                "Startup"
-            ]
-        }
-    },
-    {
-        "room": "1",
-        "day": "1",
-        "hour": "11",
-        "minutes": "30",
-        "roomspan": 1,
-        "timespan": 1,
-        "session": {
-            "id": 1006,
-            "title": "Refatorar código migrado de COBOL? Sim, nós podemos!",
-            "authors": [
-                "Thiago Palma"
-            ],
-            "session_type": "Relatos de Experiência",
-            "tags": [
-                "Código legado",
-                "Cultura",
-                "Evolução",
-                "Refatoração",
-                "Técnicas",
-                "Testes",
-                "Times"
-            ]
-        }
-    },
-    {
-        "room": "2",
-        "day": "1",
-        "hour": "12",
-        "minutes": "00",
-        "roomspan": 1,
-        "timespan": 2,
-        "session": {
-            "id": 1009,
-            "title": "Crenças Limitantes: ideias fixas que levam ao fracasso.",
-            "authors": [
-                "Annelise Gripp"
-            ],
-            "session_type": "Palestra",
-            "tags": [
-                "Aprendizagem",
-                "Coaching",
-                "Comprometimento",
-                "Cultura",
-                "Estratégias",
-                "Evolução",
-                "Habilidade",
-                "Motivação",
-                "Times"
-            ],
-            "slides": "http://pt.slideshare.net/AnneliseGripp/agile-brazil-2014"
-        }
-    },
-    {
-        "room": "3",
-        "day": "1",
-        "hour": "12",
-        "minutes": "00",
-        "roomspan": 1,
-        "timespan": 2,
-        "session": {
-            "id": 1014,
-            "title": "Teoria das Restrições de forma Ágil",
-            "authors": [
-                "Bruno Machado Soares"
-            ],
-            "session_type": "Palestra",
-            "tags": [
-                "Comprometimento",
-                "Estimativas",
-                "Estratégias",
-                "Métricas",
-                "Planejamento",
-                "Processos",
-                "Relacionamento com clientes",
-                "Requisitos",
-                "Restricões",
-                "Técnicas"
-            ]
-        }
-    },
-    {
-        "room": "3",
-        "day": "1",
-        "hour": "15",
-        "minutes": "30",
-        "roomspan": 1,
-        "timespan": 2,
-        "session": {
-            "id": 1015,
-            "title": "Automação, automação, automação!!!",
-            "authors": [
-                "Luiz Augusto Garcia Tomazzeli",
-                "Rafael Zulin"
-            ],
-            "session_type": "Palestra",
-            "tags": [
-                "Automação",
-                "Ideias",
-                "Integração contínua",
-                "Processos",
-                "Testes",
-                "Visualização"
-            ]
-        }
-    },
-    {
-        "room": "2",
-        "day": "2",
-        "hour": "16",
-        "minutes": "30",
-        "roomspan": 1,
-        "timespan": 2,
-        "session": {
-            "id": 1016,
-            "title": "Lean UX: Como designers e desenvolvedores podem trabalhar juntos",
-            "authors": [
-                "Patricia De Cia"
-            ],
-            "session_type": "Palestra",
-            "tags": [
-                "Aprendizagem",
-                "Cultura",
-                "Experiência do usuário",
-                "Front end",
-                "Startup",
-                "Times"
-            ]
-        }
-    },
-    {
-        "room": "4",
-        "day": "1",
-        "hour": "16",
-        "minutes": "30",
-        "roomspan": 1,
-        "timespan": 2,
-        "session": {
-            "id": 1018,
-            "title": "Visual Regression Testing com PhantomCSS",
-            "authors": [
-                "Stefan Teixeira"
-            ],
-            "session_type": "Palestra",
-            "tags": [
-                "Automação",
-                "Casos de Sucesso",
-                "Experiência do usuário",
-                "Front end",
-                "Integração contínua",
-                "Técnicas",
-                "Testes"
-            ],
-            "slides": "http://pt.slideshare.net/stefanteixeira/agile-brazil-2014-visual-regression-testing-com-phantomcss"
-        }
-    },
-    {
-        "room": "1",
-        "day": "2",
-        "hour": "12",
-        "minutes": "00",
-        "roomspan": 1,
-        "timespan": 2,
-        "session": {
-            "id": 1026,
-            "title": "Técnicas para Programação Em Par",
-            "authors": [
-                "Roger Almeida"
-            ],
-            "session_type": "Palestra",
-            "tags": [
-                "Aprendizagem",
-                "Coaching",
-                "Cultura",
-                "Habilidade",
-                "Implantação",
-                "Motivação",
-                "Processos",
-                "Programação pareada",
-                "Técnicas",
-                "Test Driven Design"
-            ]
-        }
-    },
-    {
-        "room": "3",
-        "day": "2",
-        "hour": "10",
-        "minutes": "30",
-        "roomspan": 1,
-        "timespan": 1,
-        "session": {
-            "id": 1028,
-            "title": "Scrumetes - uma comunidade de prática",
-            "authors": [
-            	"Ester Lima de Campos",
-                "Paula Nascimento"
-            ],
-            "session_type": "Relatos de Experiência",
-            "tags": [
-                "Aprendizagem",
-                "Casos de Sucesso",
-                "Coaching",
-                "Evolução",
-                "Ideias",
-                "Motivação"
-            ],
-            "slides": "http://www.slideshare.net/ScrumHalf_GPE/scrumetes-agile-brazil2014"
-        }
-    },
-    {
-        "room": "4",
-        "day": "1",
-        "hour": "18",
-        "minutes": "00",
-        "roomspan": 1,
-        "timespan": 2,
-        "session": {
-            "id": 1030,
-            "title": "Melhoria de processos em métodos ágeis: não é o que você está pensando!",
-            "authors": [
-                "Rafaela Mantovani Fontana"
-            ],
-            "session_type": "Palestra",
-            "tags": [
-                "Aprendizagem",
-                "Evolução",
-                "Ideias",
-                "Melhoria contínua",
-                "Processos"
-            ],
-            "slides": "https://www.dropbox.com/s/c1x0y9v1u19qv1p/Agile Brazil - 20141105.pdf"
-        }
-    },
-    {
-        "room": "3",
-        "day": "2",
-        "hour": "15",
-        "minutes": "30",
-        "roomspan": 1,
-        "timespan": 2,
-        "session": {
-            "id": 1031,
-            "title": "Gestão de produtos de software - muito além do product ownership",
-            "authors": [
-                "Joca Torres"
-            ],
-            "session_type": "Palestra",
-            "tags": [
-                "Estratégias",
-                "Negócios",
-                "Planejamento",
-                "Processos",
-                "Requisitos",
-                "Startup",
-                "Times"
-            ],
-            "slides": "http://www.slideshare.net/jocatorres/gesto-de-produtos-de-software-muito-alm-do-product-ownership-e-das-startups-41224958"
-        }
-    },
-    {
-        "room": "5",
-        "day": "2",
-        "hour": "10",
-        "minutes": "30",
-        "roomspan": 1,
-        "timespan": 1,
-        "session": {
-            "id": 1032,
-            "title": "Extreme Pair Programming",
-            "authors": [
-                "Rafael Zulin"
-            ],
-            "session_type": "Relatos de Experiência",
-            "tags": [
-                "Coaching",
-                "Comprometimento",
-                "Cultura",
-                "Evolução",
-                "Ideias",
-                "Melhoria contínua",
-                "Processos",
-                "Programação pareada",
-                "Restricões"
-            ]
-        }
-    },
-    {
-        "room": "3",
-        "day": "3",
-        "hour": "11",
-        "minutes": "30",
-        "roomspan": 1,
-        "timespan": 2,
-        "session": {
-            "id": 1034,
-            "title": "Divertir para Motivar",
-            "authors": [
-                "Juliano Alves"
-            ],
-            "session_type": "Palestra",
-            "tags": [
-                "Aprendizagem",
-                "Casos de Sucesso",
-                "Comprometimento",
-                "Motivação",
-                "Times"
-            ],
-            "slides": "http://www.slideshare.net/juliano_alves/agile-brazil-divertir-para-motivar"
-        }
-    },
-    {
-        "room": "5",
-        "day": "3",
-        "hour": "10",
-        "minutes": "30",
-        "roomspan": 1,
-        "timespan": 3,
-        "session": {
-            "id": 1037,
-            "title": "Monopoly do Business Value",
-            "authors": [
-                "Alysson Mendonca"
-            ],
-            "session_type": "Mão na Massa",
-            "audience_limit": "20",
-            "tags": [
-                "Comprometimento",
-                "Estimativas",
-                "Motivação",
-                "Negócios",
-                "Oportunidades",
-                "Planejamento",
-                "Relacionamento com clientes",
-                "Requisitos",
-                "Restricões",
-                "Técnicas"
-            ]
-        }
-    },
-    {
-        "room": "5",
-        "day": "1",
-        "hour": "16",
-        "minutes": "00",
-        "roomspan": 1,
-        "timespan": 3,
-        "session": {
-            "id": 1039,
-            "title": "Do legado ao Green Bar: Uma imersão em Testes de Unidade, Refactoring e Design Patterns",
-            "authors": [
-                "Mauricio Andreazza Sganderla",
-                "Jorge Oleques"
-            ],
-            "session_type": "Mão na Massa",
-            "audience_limit": "20",
-            "tags": [
-                "Código legado",
-                "Design emergente",
-                "Padrões",
-                "Refatoração",
-                "Revisão de código",
-                "Técnicas",
-                "Test Driven Design",
-                "Testes"
-            ],
-            "slides": "http://www.slideshare.net/mauricioweb/agile-brazil-2014-do-legado-ao-green-bar-uma-imerso-em-testes-unitrios-refactoring-e-design-patterns-41350603"
-        }
-    },
-    {
-        "room": "2",
-        "day": "1",
-        "hour": "18",
-        "minutes": "00",
-        "roomspan": 1,
-        "timespan": 2,
-        "session": {
-            "id": 988,
-            "title": "Design responsivo pra quê?",
-            "authors": [
-                "Luiz Corte Real",
-                "William Seiti Mizuta"
-            ],
-            "session_type": "Duelo",
-            "tags": [
-                "Design emergente",
-                "Front end",
-                "Técnicas",
-                "Experiência do usuário"
-            ],
-            "slides": "http://tiny.cc/responsivo-ou-especifico"
-        }
-    },
-    {
-        "room": "4",
-        "day": "3",
-        "hour": "15",
-        "minutes": "00",
-        "roomspan": 1,
-        "timespan": 1,
-        "session": {
-            "id": 1046,
-            "title": "Testando a integração entre serviços",
-            "authors": [
-                "Lucas Cavalcanti"
-            ],
-            "session_type": "Relatos de Experiência",
-            "tags": [
-                "Estratégias",
-                "Implantação",
-                "Integração contínua",
-                "Test Driven Design",
-                "Testes"
-            ],
-            "slides": "http://www.slideshare.net/lucascavalcantisantos/testando-a-integracao-entre-servios-agile-brazil-2014"
-        }
-    },
-    {
-        "room": "1",
-        "day": "3",
-        "hour": "15",
-        "minutes": "00",
-        "roomspan": 1,
-        "timespan": 2,
-        "session": {
-            "id": 1047,
-            "title": "Estimar é crime?",
-            "authors": [
-                "Juliano Ribeiro",
-                "Marcelo Luis Walter"
-            ],
-            "session_type": "Duelo",
-            "tags": [
-                "Estimativas",
-                "Métricas",
-                "Negócios",
-                "Planejamento",
-                "Relacionamento com clientes"
-            ]
-        }
-    },
-    {
-        "room": "3",
-        "day": "2",
-        "hour": "11",
-        "minutes": "30",
-        "roomspan": 1,
-        "timespan": 1,
-        "session": {
-            "id": 1050,
-            "title": "EmpreenDB: um programa de incentivo ao desenvolvimento de negócios dos próprios colaboradores",
-            "authors": [
-                "Eduardo Meira Peres"
-            ],
-            "session_type": "Relatos de Experiência",
-            "tags": [
-                "Aprendizagem",
-                "Coaching",
-                "Criação",
-                "Cultura",
-                "Ideias",
-                "Motivação",
-                "Negócios",
-                "Oportunidades",
-                "Startup"
-            ],
-            "slides": "http://pt.slideshare.net/eduardomeiraperes/agile-brazil-2014-empreen-db-v4"
-        }
-    },
-    {
-        "room": "5",
-        "day": "1",
-        "hour": "18",
-        "minutes": "30",
-        "roomspan": 1,
-        "timespan": 1,
-        "session": {
-            "id": 1054,
-            "title": "Gamification e o lado negro dessa força...",
-            "authors": [
-                "Marcelo Luis Walter"
-            ],
-            "session_type": "Relatos de Experiência",
-            "tags": [
-                "Casos de Sucesso",
-                "Comprometimento",
-                "Cultura",
-                "Ideias",
-                "Motivação",
-                "Técnicas",
-                "Times"
-            ],
-            "slides": "http://prezi.com/secbf6mmpwna/?utm_campaign=share&utm_medium=copy&rc=ex0share"
-        }
-    },
-    {
-        "room": "1",
-        "day": "2",
-        "hour": "16",
-        "minutes": "30",
-        "roomspan": 1,
-        "timespan": 2,
-        "session": {
-            "id": 1055,
-            "title": "Os Beatos Ágeis e os pecados mundanos das grandes empresas",
-            "authors": [
-                "Manoel Pimentel Medeiros"
-            ],
-            "session_type": "Palestra",
-            "tags": [
-                "Casos de Fracasso",
-                "Casos de Sucesso",
-                "Coaching",
-                "Cultura",
-                "Ideias",
-                "Implantação",
-                "Melhoria contínua",
-                "Negócios",
-                "Processos",
-                "Restricões"
-            ],
-            "slides": "http://www.slideshare.net/manoelp/os-beatos-ageis-e-os-pecados-mundanos-das-grandes-empresas"
-        }
-    },
-    {
-        "room": "1",
-        "day": "1",
-        "hour": "12",
-        "minutes": "00",
-        "roomspan": 1,
-        "timespan": 2,
-        "session": {
-            "id": 1056,
-            "title": "Métricas e a automatização do controle de qualidade",
-            "authors": [
-                "Guilherme Silveira"
-            ],
-            "session_type": "Palestra",
-            "tags": [
-                "Automação",
-                "Deploy contínuo",
-                "Integração contínua",
-                "Melhoria contínua",
-                "Métricas",
-                "Testes",
-                "Visualização"
-            ],
-            "slides": "http://www.slideshare.net/caelumdev/mtricas-e-automao"
-        }
-    },
-    {
-        "room": "4",
-        "day": "3",
-        "hour": "16",
-        "minutes": "30",
-        "roomspan": 1,
-        "timespan": 1,
-        "session": {
-            "id": 1058,
-            "title": "Lições aprendidas sobre o ensino de TDD em uma Aceleradora de Times Ágeis",
-            "authors": [
-                "João Henrique Stocker Pinto",
-                "Pedro Guidoux"
-            ],
-            "session_type": "Relatos de Experiência",
-            "tags": [
-                "Aprendizagem",
-                "Casos de Sucesso",
-                "Coaching",
-                "Criação",
-                "Processos",
-                "Programação pareada",
-                "Técnicas",
-                "Test Driven Design",
-                "Testes",
-                "Times"
-            ],
-            "slides": "https://www.dropbox.com/s/eausgix93lekbjg/JoaoHenrique %40 AgileBrazil 2014.pptx"
-        }
-    },
-    {
-        "room": "2",
-        "day": "3",
-        "hour": "16",
-        "minutes": "00",
-        "roomspan": 1,
-        "timespan": 2,
-        "session": {
-            "id": 1059,
-            "title": "Expansão do Kanban no Departamento de Computação Gráfica da TV Globo",
-            "authors": [
-                "Jose Almeida Junior"
-            ],
-            "session_type": "Palestra",
-            "tags": [
-                "Casos de Sucesso",
-                "Coaching",
-                "Experiência do usuário",
-                "Implantação",
-                "Melhoria contínua",
-                "Métricas",
-                "Motivação",
-                "Planejamento",
-                "Processos",
-                "Riscos"
-            ]
-        }
-    },
-    {
-        "room": "4",
-        "day": "3",
-        "hour": "10",
-        "minutes": "30",
-        "roomspan": 1,
-        "timespan": 2,
-        "session": {
-            "id": 1061,
-            "title": "Feature Injection descobrindo e entregando valor testável",
-            "authors": [
-                "Hélio Medeiros"
-            ],
-            "session_type": "Palestra",
-            "tags": [
-                "Aprendizagem",
-                "Cultura",
-                "Ideias",
-                "Negócios",
-                "Planejamento",
-                "Processos",
-                "Relacionamento com clientes",
-                "Requisitos",
-                "Técnicas",
-                "Times"
-            ],
-            "slides": "http://www.slideshare.net/heliomedeiros/feature-injection-descobrindo-e-entregando-valor-testavel"
-        }
-    },
-    {
-        "room": "2",
-        "day": "1",
-        "hour": "11",
-        "minutes": "30",
-        "roomspan": 1,
-        "timespan": 1,
-        "session": {
-            "id": 1062,
-            "title": "From Zero to Agile: The Learnings of a First Time Quality Analyst",
-            "authors": [
-                "Tom Clement Oketch"
-            ],
-            "session_type": "Relatos de Experiência",
-            "tags": [
-                "Aprendizagem",
-                "Casos de Sucesso",
-                "Cultura",
-                "Estratégias",
-                "Motivação",
-                "Processos",
-                "Técnicas",
-                "Testes",
-                "Times"
-            ],
-            "slides": "http://www.slideshare.net/klementtt/zero-to-agile"
-        }
-    },
-    {
-        "room": "2",
-        "day": "3",
-        "hour": "11",
-        "minutes": "30",
-        "roomspan": 1,
-        "timespan": 2,
-        "session": {
-            "id": 1063,
-            "title": "Do push para a produção: Os desafios de automação em Continuous Delivery",
-            "authors": [
-                "Camilo Ribeiro",
-                "Julio Maia"
-            ],
-            "session_type": "Palestra",
-            "tags": [
-                "Automação",
-                "Cultura",
-                "Deploy contínuo",
-                "Ideias",
-                "Integração contínua",
-                "Técnicas",
-                "Test Driven Design",
-                "Testes"
-            ],
-            "slides": "http://www.slideshare.net/camiloribeiro/agile-brazil-slides"
-        }
-    },
-    {
-        "room": "4",
-        "day": "1",
-        "hour": "11",
-        "minutes": "30",
-        "roomspan": 1,
-        "timespan": 1,
-        "session": {
-            "id": 1064,
-            "title": "Scrum of Scrums realmente levado à sério",
-            "authors": [
-                "João Paulo Scardua Coelho",
-                "Gilson Gueler Gaseorowski"
-            ],
-            "session_type": "Relatos de Experiência",
-            "tags": [
-                "Casos de Sucesso",
-                "Estratégias",
-                "Melhoria contínua",
-                "Métricas",
-                "Processos",
-                "Times"
-            ]
-        }
-    },
-    {
-        "room": "5",
-        "day": "2",
-        "hour": "11",
-        "minutes": "00",
-        "roomspan": 1,
-        "timespan": 1,
-        "session": {
-            "id": 1066,
-            "title": "Case RD Station: Escalando Agile e Lean na gestão completa de Produto",
-            "authors": [
-                "Diego Pereira",
-                "Bruno Ghisi"
-            ],
-            "session_type": "Relatos de Experiência",
-            "tags": [
-                "Casos de Sucesso",
-                "Cultura",
-                "Melhoria contínua",
-                "Métricas",
-                "Negócios",
-                "Planejamento",
-                "Processos",
-                "Startup"
-            ],
-            "slides": "http://www.slideshare.net/brunogh/agile-brazil-2014-case-rd-station-escalando-agile-e-lean-na-gestao-completa-de-produto"
-        }
-    },
-    {
-        "room": "5",
-        "day": "1",
-        "hour": "14",
-        "minutes": "30",
-        "roomspan": 1,
-        "timespan": 3,
-        "session": {
-            "id": 1070,
-            "title": "Montando um Pre Game Eficiente",
-            "authors": [
-                "Simone Pittner"
-            ],
-            "session_type": "Mão na Massa",
-            "audience_limit": "30",
-            "tags": [
-                "Aprendizagem",
-                "Comprometimento",
-                "Criação",
-                "Ideias",
-                "Negócios",
-                "Planejamento",
-                "Relacionamento com clientes",
-                "Requisitos",
-                "Riscos",
-                "Técnicas"
-            ],
-            "slides": "http://pt.slideshare.net/SimonePittner/pregame-by-canvas"
-        }
-    },
-    {
-        "room": "4",
-        "day": "3",
-        "hour": "11",
-        "minutes": "30",
-        "roomspan": 1,
-        "timespan": 1,
-        "session": {
-            "id": 1071,
-            "title": "Ágil e ITIL trabalhando juntos e obtendo resultados em uma grande empresa",
-            "authors": [
-                "Mauricio Amorim",
-                "Andre Chiode"
-            ],
-            "session_type": "Relatos de Experiência",
-            "tags": [
-                "Casos de Sucesso",
-                "Cultura",
-                "Evolução",
-                "Implantação",
-                "Melhoria contínua",
-                "Negócios",
-                "Oportunidades",
-                "Planejamento",
-                "Processos",
-                "Times"
-            ]
-        }
-    },
-    {
-        "room": "1",
-        "day": "3",
-        "hour": "14",
-        "minutes": "00",
-        "roomspan": 1,
-        "timespan": 2,
-        "session": {
-            "id": 1076,
-            "title": "Métricas Lean que Fazem a Diferença",
-            "authors": [
-                "Teresa maciel"
-            ],
-            "session_type": "Palestra",
-            "tags": [
-                "Melhoria contínua",
-                "Métricas",
-                "Processos"
-            ]
-        }
-    },
-    {
-        "room": "4",
-        "day": "3",
-        "hour": "15",
-        "minutes": "30",
-        "roomspan": 1,
-        "timespan": 1,
-        "session": {
-            "id": 1082,
-            "title": "Agilidade e Segurança no PCI-DSS - Como conciliar os dois?",
-            "authors": [
-                "Alex Chastinet Duarte de Souza"
-            ],
-            "session_type": "Relatos de Experiência",
-            "tags": [
-                "Cultura",
-                "Implantação",
-                "Negócios",
-                "Planejamento",
-                "Processos",
-                "Requisitos",
-                "Riscos",
-                "Testes",
-                "Times"
-            ]
-        }
-    },
-    {
-        "room": "1",
-        "day": "2",
-        "hour": "14",
-        "minutes": "30",
-        "roomspan": 1,
-        "timespan": 2,
-        "session": {
-            "id": 1083,
-            "title": "No Pain, No Change. Gestão Visual Facilitando a Melhoria Contínua",
-            "authors": [
-                "Ester Lima de Campos"
-            ],
-            "session_type": "Duelo",
-            "tags": [
-                "Aprendizagem",
-                "Cultura",
-                "Evolução",
-                "Ideias",
-                "Melhoria contínua",
-                "Métricas",
-                "Motivação",
-                "Oportunidades",
-                "Restricões",
-                "Visualização"
-            ],
-            "slides": "http://pt.slideshare.net/esterlimadecampos/no-pain-no-change-a-gesto-visual-apoiando-a-melhoria-contnua"
-        }
-    },
-    {
-        "room": "3",
-        "day": "2",
-        "hour": "14",
-        "minutes": "30",
-        "roomspan": 1,
-        "timespan": 2,
-        "session": {
-            "id": 1084,
-            "title": "Sistemas sustentáveis",
-            "authors": [
-                "Hugo Corbucci"
-            ],
-            "session_type": "Palestra",
-            "tags": [
-                "Automação",
-                "Deploy contínuo",
-                "Design emergente",
-                "Estratégias",
-                "Evolução",
-                "Implantação",
-                "Melhoria contínua",
-                "Negócios",
-                "Técnicas"
-            ],
-            "slides": "http://www.slideshare.net/hugocorbucci/sistemas-sustentaveis"
-        }
-    },
-    {
-        "room": "1",
-        "day": "1",
-        "hour": "16",
-        "minutes": "30",
-        "roomspan": 1,
-        "timespan": 2,
-        "session": {
-            "id": 1087,
-            "title": "Governo e Agilidade na Prática",
-            "authors": [
-                "James Brum Brum"
-            ],
-            "session_type": "Relatos de Experiência",
-            "tags": [
-                "Aprendizagem",
-                "Casos de Sucesso",
-                "Cultura",
-                "Estratégias",
-                "Experiência do usuário",
-                "Implantação",
-                "Planejamento",
-                "Relacionamento com clientes",
-                "Times"
-            ],
-            "slides": "http://pt.slideshare.net/jamesgfb/governo-e-agilidadenapraticaagile-brazil-2014"
-        }
-    },
-    {
-        "room": "3",
-        "day": "3",
-        "hour": "15",
-        "minutes": "30",
-        "roomspan": 1,
-        "timespan": 2,
-        "session": {
-            "id": 1089,
-            "title": "A Fantástica Fábrica de Deployment: Implantação Contínua com Ferramentas Open Source",
-            "authors": [
-                "Edson Yanaga"
-            ],
-            "session_type": "Palestra",
-            "tags": [
-                "Automação",
-                "Deploy contínuo",
-                "Implantação",
-                "Integração contínua",
-                "Melhoria contínua",
-                "Processos",
-                "Técnicas",
-                "Times"
-            ]
-        }
-    },
-    {
-        "room": "1",
-        "day": "2",
-        "hour": "11",
-        "minutes": "30",
-        "roomspan": 1,
-        "timespan": 1,
-        "session": {
-            "id": 1090,
-            "title": "Quando a empresa vira uma sala de aula - Organizações em aprendizado!",
-            "authors": [
-                "Daniel Wildt"
-            ],
-            "session_type": "Relatos de Experiência",
-            "tags": [
-                "Aprendizagem",
-                "Coaching",
-                "Cultura",
-                "Evolução",
-                "Ideias",
-                "Melhoria contínua",
-                "Motivação",
-                "Oportunidades",
-                "Restricões",
-                "Riscos"
-            ]
-        }
-    },
-    {
-        "room": "5",
-        "day": "2",
-        "hour": "14",
-        "minutes": "30",
-        "roomspan": 1,
-        "timespan": 3,
-        "session": {
-            "id": 1091,
-            "title": "Growth hacking - Customer Lifecycle na prática",
-            "authors": [
-                "Hélio Medeiros",
-                "Henrique Oliveira"
-            ],
-            "session_type": "Mão na Massa",
-            "audience_limit": "40",
-            "tags": [
-                "Automação",
-                "Cultura",
-                "Estratégias",
-                "Front end",
-                "Ideias",
-                "Implantação",
-                "Métricas",
-                "Negócios",
-                "Processos",
-                "Relacionamento com clientes"
-            ],
-            "slides": "http://www.slideshare.net/heliomedeiros/growth-hacking-customer-lifecycle-na-pratica"
-        }
-    },
-    {
-        "room": "5",
-        "day": "2",
-        "hour": "16",
-        "minutes": "00",
-        "roomspan": 1,
-        "timespan": 3,
-        "session": {
-            "id": 1093,
-            "title": "Mini Extreme Agile",
-            "authors": [
-                "Dairton Bassi"
-            ],
-            "session_type": "Mão na Massa",
-            "audience_limit": "60",
-            "tags": [
-                "Estimativas",
-                "Estratégias",
-                "Implantação",
-                "Planejamento",
-                "Processos",
-                "Técnicas",
-                "Visualização"
-            ]
-        }
-    },
-    {
-        "room": "5",
-        "day": "3",
-        "hour": "14",
-        "minutes": "00",
-        "roomspan": 1,
-        "timespan": 3,
-        "session": {
-            "id": 1094,
-            "title": "UX Design para Startups",
-            "authors": [
-                "Priscilla Albuquerque",
-                "Júlia Ghisi"
-            ],
-            "session_type": "Mão na Massa",
-            "audience_limit": "20",
-            "tags": [
-                "Experiência do usuário",
-                "Startup"
-            ]
-        }
-    },
-    {
-        "room": "1",
-        "day": "3",
-        "hour": "16",
-        "minutes": "00",
-        "roomspan": 1,
-        "timespan": 2,
-        "session": {
-            "id": 1095,
-            "title": "Fatores Críticos de Sucesso na Transformação de uma Cultura Organizacional",
-            "authors": [
-                "Luiz Claudio Parzianello"
-            ],
-            "session_type": "Palestra",
-            "tags": [
-                "Casos de Sucesso",
-                "Coaching",
-                "Estratégias",
-                "Evolução",
-                "Implantação",
-                "Melhoria contínua",
-                "Motivação",
-                "Negócios",
-                "Riscos",
-                "Times"
-            ],
-            "slides": "http://www.slideshare.net/parzianello/fatores-crticos-de-sucesso-na-transformao-de-uma-cultura-organizacional"
-        }
-    },
-    {
-        "room": "1",
-        "day": "1",
-        "hour": "16",
-        "minutes": "00",
-        "roomspan": 1,
-        "timespan": 1,
-        "session": {
-            "id": 1096,
-            "title": "Boas e Más práticas para Agile UX",
-            "authors": [
-                "Tiago Silva da Silva"
-            ],
-            "session_type": "Relatos de Experiência",
-            "tags": [
-                "Casos de Fracasso",
-                "Casos de Sucesso",
-                "Cultura",
-                "Experiência do usuário",
-                "Negócios",
-                "Processos",
-                "Relacionamento com clientes",
-                "Técnicas",
-                "Times"
-            ]
-        }
-    },
-    {
-        "room": "2",
-        "day": "1",
-        "hour": "15",
-        "minutes": "30",
-        "roomspan": 1,
-        "timespan": 2,
-        "session": {
-            "id": 1098,
-            "title": "Agilidade na Industria de jogos e seu impacto no desenvolvimento de software",
-            "authors": [
-                "Erick Najjar",
-                "Matheus Motta"
-            ],
-            "session_type": "Palestra",
-            "tags": [
-                "Cultura",
-                "Experiência do usuário",
-                "Ideias",
-                "Processos",
-                "Requisitos",
-                "Riscos",
-                "Times"
-            ]
-        }
-    },
-    {
-        "room": "4",
-        "day": "3",
-        "hour": "14",
-        "minutes": "00",
-        "roomspan": 1,
-        "timespan": 2,
-        "session": {
-            "id": 1104,
-            "title": "DevOps: objetivos e impactos",
-            "authors": [
-                "Guilherme Nogueira"
-            ],
-            "session_type": "Palestra",
-            "tags": [
-                "Automação",
-                "Melhoria contínua",
-                "Motivação",
-                "Processos"
-            ]
-        }
-    },
-    {
-        "room": "5",
-        "day": "3",
-        "hour": "15",
-        "minutes": "30",
-        "roomspan": 1,
-        "timespan": 3,
-        "session": {
-            "id": 1106,
-            "title": "Refatoração de Bancos de Dados",
-            "authors": [
-                "Fabrízio de Royes Mello"
-            ],
-            "session_type": "Mão na Massa",
-            "tags": [
-                "Automação",
-                "Melhoria contínua",
-                "Refatoração",
-                "Test Driven Design"
-            ],
-            "slides": "http://www.slideshare.net/fabriziomello/tutorial-database-refactoring"
-        }
-    },
-    {
-        "room": "2",
-        "day": "3",
-        "hour": "14",
-        "minutes": "00",
-        "roomspan": 1,
-        "timespan": 2,
-        "session": {
-            "id": 1108,
-            "title": "Igualdade de gênero na computação",
-            "authors": [
-                "Cecilia Fernandes",
-                "Mariana Bravo"
-            ],
-            "session_type": "Duelo",
-            "tags": [
-                "Aprendizagem",
-                "Cultura",
-                "Evolução",
-                "Melhoria contínua",
-                "Times"
-            ],
-            "slides": "http://cecifernandes.com/igualdade_de_genero/"
-        }
-    },
-    {
-        "room": "1",
-        "day": "2",
-        "hour": "10",
-        "minutes": "30",
-        "roomspan": 1,
-        "timespan": 2,
-        "session": {
-            "id": 1110,
-            "title": "Introdução ao Lean Software Development",
-            "authors": [
-                "Samuel Crescêncio"
-            ],
-            "session_type": "Palestra",
-            "tags": [
-                "Automação",
-                "Coaching",
-                "Cultura",
-                "Estratégias",
-                "Melhoria contínua",
-                "Métricas",
-                "Processos",
-                "Relacionamento com clientes",
-                "Técnicas",
-                "Times"
-            ]
-        }
-    },
-    {
-        "room": "2",
-        "day": "2",
-        "hour": "10",
-        "minutes": "30",
-        "roomspan": 1,
-        "timespan": 2,
-        "session": {
-            "id": 1116,
-            "title": "Pragmatic, Not Dogmatic TDD: Rethinking How We Test",
-            "authors": [
-                "Joseph Yoder"
-            ],
-            "session_type": "Palestra",
-            "tags": [
-                "Test Driven Design",
-                "Testes"
-            ]
-        }
-    }
+	{
+		"room": "1",
+		"day": "1",
+		"hour": "14",
+		"minutes": "00",
+		"roomspan": 1,
+		"timespan": 2,
+		"session": {
+			"id": 1131,
+			"title": "Pare de falar de features e fale de resultados: Metas Ágeis com OKR (Objectives and Key Results)",
+			"authors": [
+				{
+					"name": "Felipe Castro",
+					"gravatar_url": "https://gravatar.com/avatar/e89399e2e0cc89ebdb91c61a32f69bd2.png?s=48&d=mm"
+				}
+			],
+			"session_type": "Palestra",
+			"tags": [
+				"Negócios",
+				"Cultura",
+				"Evolução",
+				"Ideias",
+				"Métricas",
+				"Motivação",
+				"Planejamento",
+				"Processos",
+				"Estratégias",
+				"Times"
+			],
+			"details": "regular",
+			"track": "Gestão",
+			"audience_level": "Competente"
+		}
+	},
+	{
+		"room": "3",
+		"day": "1",
+		"hour": "15",
+		"minutes": "00",
+		"roomspan": 1,
+		"timespan": 2,
+		"session": {
+			"id": 1138,
+			"title": "Agile em grandes organizações - Como escalar na prática !",
+			"authors": [
+				{
+					"name": "Ewerton Santos (Ton)",
+					"gravatar_url": "https://gravatar.com/avatar/b4ae62d0876b05818712dd6efc54379b.png?s=48&d=mm"
+				},
+				{
+					"name": "Manoel Pimentel Medeiros",
+					"gravatar_url": "https://gravatar.com/avatar/c9f3722f2b1b1bb215bfbdcb03d3e109.png?s=48&d=mm"
+				}
+			],
+			"session_type": "Palestra",
+			"tags": [
+				"Negócios",
+				"Melhoria contínua",
+				"Criação",
+				"Cultura",
+				"Evolução",
+				"Ideias",
+				"Oportunidades",
+				"Processos",
+				"Estratégias",
+				"Casos de Sucesso"
+			],
+			"details": "regular",
+			"track": "Interesse Geral",
+			"audience_level": "Iniciante avançado"
+		}
+	},
+	{
+		"room": "1",
+		"day": "2",
+		"hour": "15",
+		"minutes": "00",
+		"roomspan": 1,
+		"timespan": 2,
+		"session": {
+			"id": 1139,
+			"title": "Experiencias de DevOps além da automação de infraestrutura",
+			"authors": [
+				{
+					"name": "Diego Pacheco",
+					"gravatar_url": "https://gravatar.com/avatar/fb8b94451149ab5842c8985936821d3f.png?s=48&d=mm"
+				},
+				{
+					"name": "cesar mesquita",
+					"gravatar_url": "https://gravatar.com/avatar/215715a1b559341017ed1c0504a35b10.png?s=48&d=mm"
+				}
+			],
+			"session_type": "Palestra",
+			"tags": [
+				"Automação",
+				"Negócios",
+				"Coaching",
+				"Deploy contínuo",
+				"Melhoria contínua",
+				"Integração contínua",
+				"Cultura",
+				"Aprendizagem",
+				"Código legado",
+				"Casos de Sucesso"
+			],
+			"details": "regular",
+			"track": "Desenvolvimento e Testes",
+			"audience_level": "Proficiente"
+		}
+	},
+	{
+		"room": "4",
+		"day": "3",
+		"hour": "18",
+		"minutes": "30",
+		"roomspan": 1,
+		"timespan": 2,
+		"session": {
+			"id": 1153,
+			"title": "Explorando um Mindset ágil para conquistar a alta gestão em ambientes não ágeis",
+			"authors": [
+				{
+					"name": "Fabio Cruz",
+					"gravatar_url": "https://gravatar.com/avatar/6621b6b998674904f5e46f73596ca230.png?s=48&d=mm"
+				}
+			],
+			"session_type": "Palestra",
+			"tags": [
+				"Coaching",
+				"Melhoria contínua",
+				"Cultura",
+				"Relacionamento com clientes",
+				"Estimativas",
+				"Casos de Fracasso",
+				"Motivação",
+				"Processos",
+				"Estratégias",
+				"Casos de Sucesso"
+			],
+			"details": "regular",
+			"track": "Coaching, Ensino e Facilitação",
+			"audience_level": "Iniciante avançado"
+		}
+	},
+	{
+		"room": "2",
+		"day": "2",
+		"hour": "13",
+		"minutes": "00",
+		"roomspan": 1,
+		"timespan": 2,
+		"session": {
+			"id": 1155,
+			"title": "Entrega Contínua na Infoglobo: gerando valor em 2 horas",
+			"authors": [
+				{
+					"name": "Samanta Souza",
+					"gravatar_url": "https://gravatar.com/avatar/d0e2beb1970140f2b36a8aa334c068a8.png?s=48&d=mm"
+				}
+			],
+			"session_type": "Palestra",
+			"tags": [
+				"Automação",
+				"Deploy contínuo",
+				"Melhoria contínua",
+				"Integração contínua",
+				"Técnicas"
+			],
+			"details": "regular",
+			"track": "Desenvolvimento e Testes",
+			"audience_level": "Iniciante avançado"
+		}
+	},
+	{
+		"room": "2",
+		"day": "1",
+		"hour": "20",
+		"minutes": "00",
+		"roomspan": 1,
+		"timespan": 2,
+		"session": {
+			"id": 1157,
+			"title": "3 ideias radicais para acelerar a sua entrega",
+			"authors": [
+				{
+					"name": "Lourenço Soares",
+					"gravatar_url": "https://gravatar.com/avatar/9fe58edd95506d3d65a6acf9b0b0ff76.png?s=48&d=mm"
+				}
+			],
+			"session_type": "Palestra",
+			"tags": [
+				"Negócios",
+				"Comprometimento",
+				"Melhoria contínua",
+				"Criação",
+				"Cultura",
+				"Design emergente",
+				"Evolução",
+				"Ideias",
+				"Aprendizagem",
+				"Motivação"
+			],
+			"details": "regular",
+			"track": "UX, Análise e Design de Produtos",
+			"audience_level": "Iniciante avançado"
+		}
+	},
+	{
+		"room": "2",
+		"day": "3",
+		"hour": "15",
+		"minutes": "00",
+		"roomspan": 1,
+		"timespan": 2,
+		"session": {
+			"id": 1160,
+			"title": "Freire vs Wuestefeld: Refatorar ou não? Eis a questão!",
+			"authors": [
+				{
+					"name": "Klaus Wuestefeld",
+					"gravatar_url": "https://gravatar.com/avatar/4ca77433915aad7d20d3eea7d8e9cd5f.png?s=48&d=mm"
+				},
+				{
+					"name": "Alexandre Freire Kawakami",
+					"gravatar_url": "https://gravatar.com/avatar/54b9a028e87738853c0936a0fcc515e7.png?s=48&d=mm"
+				}
+			],
+			"session_type": "Duelo",
+			"tags": [
+				"Melhoria contínua",
+				"Cultura",
+				"Evolução",
+				"Código legado",
+				"Motivação",
+				"Planejamento",
+				"Processos",
+				"Refatoração",
+				"Riscos",
+				"Times"
+			],
+			"details": "regular",
+			"track": "Gestão",
+			"audience_level": "Iniciante avançado"
+		}
+	},
+	{
+		"room": "2",
+		"day": "1",
+		"hour": "14",
+		"minutes": "30",
+		"roomspan": 1,
+		"timespan": 2,
+		"session": {
+			"id": 1161,
+			"title": "Um guia prático sobre como encontrar bons colegas",
+			"authors": [
+				{
+					"name": "Vinicius Gomes",
+					"gravatar_url": "https://gravatar.com/avatar/1e629ef75f1fdd2cdbc130bc136077fd.png?s=48&d=mm"
+				}
+			],
+			"session_type": "Palestra",
+			"tags": [
+				"Coaching",
+				"Processos",
+				"Startup",
+				"Estratégias",
+				"Técnicas"
+			],
+			"details": "regular",
+			"track": "Inovação e Empreendedorismo",
+			"audience_level": "Iniciante avançado"
+		}
+	},
+	{
+		"room": "1",
+		"day": "3",
+		"hour": "13",
+		"minutes": "00",
+		"roomspan": 1,
+		"timespan": 2,
+		"session": {
+			"id": 1162,
+			"title": "Criando Organizações Pragmáticas que Sobrevivem e Prosperam na Era da Disrupção Continua",
+			"authors": [
+				{
+					"name": "Juan Bernabó",
+					"gravatar_url": "https://gravatar.com/avatar/2be3fc280bd42e8eaf42c946461be40a.png?s=48&d=mm"
+				}
+			],
+			"session_type": "Palestra",
+			"tags": [
+				"Negócios",
+				"Coaching",
+				"Melhoria contínua",
+				"Cultura",
+				"Design emergente",
+				"Evolução",
+				"Implantação",
+				"Aprendizagem",
+				"Processos",
+				"Restricões"
+			],
+			"details": "regular",
+			"track": "Interesse Geral",
+			"audience_level": "Iniciante avançado"
+		}
+	},
+	{
+		"room": "5",
+		"day": "1",
+		"hour": "19",
+		"minutes": "00",
+		"roomspan": 1,
+		"timespan": 2,
+		"session": {
+			"id": 1164,
+			"title": "Growth hacking: como utilizar o review das stores para melhorar seu app.",
+			"authors": [
+				{
+					"name": "Rafael Auday",
+					"gravatar_url": "https://gravatar.com/avatar/343b727941847ba4bc3502dbd7067f36.png?s=48&d=mm"
+				}
+			],
+			"session_type": "Palestra",
+			"tags": [
+				"Negócios",
+				"Coaching",
+				"Comprometimento",
+				"Melhoria contínua",
+				"Cultura",
+				"Relacionamento com clientes",
+				"Ideias",
+				"Métricas",
+				"Estratégias",
+				"Experiência do usuário"
+			],
+			"details": "regular",
+			"track": "UX, Análise e Design de Produtos",
+			"audience_level": "Iniciante avançado"
+		}
+	},
+	{
+		"room": "1",
+		"day": "2",
+		"hour": "17",
+		"minutes": "00",
+		"roomspan": 1,
+		"timespan": 2,
+		"session": {
+			"id": 1172,
+			"title": "Histórias de Usuário - Por que e como escrever requisitos de forma ágil?",
+			"authors": [
+				{
+					"name": "Rafael Helm",
+					"gravatar_url": "https://gravatar.com/avatar/15cf41defe92af8185045329cd934565.png?s=48&d=mm"
+				},
+				{
+					"name": "Daniel Wildt",
+					"gravatar_url": "https://gravatar.com/avatar/cf9ffac42374a74ccde477beccb9009b.png?s=48&d=mm"
+				}
+			],
+			"session_type": "Palestra",
+			"tags": [
+				"Melhoria contínua",
+				"Cultura",
+				"Aprendizagem",
+				"Requisitos",
+				"Técnicas",
+				"Experiência do usuário"
+			],
+			"details": "regular",
+			"track": "UX, Análise e Design de Produtos",
+			"audience_level": "Iniciante avançado"
+		}
+	},
+	{
+		"room": "1",
+		"day": "3",
+		"hour": "19",
+		"minutes": "30",
+		"roomspan": 1,
+		"timespan": 2,
+		"session": {
+			"id": 1177,
+			"title": "Criando funcionalidades que realmente importam",
+			"authors": [
+				{
+					"name": "Marcell Almeida",
+					"gravatar_url": "https://gravatar.com/avatar/6134060ee94d87a72389dd969643c0df.png?s=48&d=mm"
+				}
+			],
+			"session_type": "Palestra",
+			"tags": [
+				"Negócios",
+				"Criação",
+				"Cultura",
+				"Relacionamento com clientes",
+				"Métricas",
+				"Oportunidades",
+				"Planejamento",
+				"Riscos",
+				"Startup"
+			],
+			"details": "regular",
+			"track": "UX, Análise e Design de Produtos",
+			"audience_level": "Iniciante avançado"
+		}
+	},
+	{
+		"room": "2",
+		"day": "1",
+		"hour": "19",
+		"minutes": "00",
+		"roomspan": 1,
+		"timespan": 2,
+		"session": {
+			"id": 1181,
+			"title": "Tudo que você sempre quis saber sobre a sua carreira, mas tem vergonha de perguntar",
+			"authors": [
+				{
+					"name": "Fabricio Nogueira Buzeto",
+					"gravatar_url": "https://gravatar.com/avatar/5df91a57f09fdc3a802bf3e062669961.png?s=48&d=mm"
+				},
+				{
+					"name": "Rafael Miranda",
+					"gravatar_url": "https://gravatar.com/avatar/68cf13068c4a7cba861d6c4997cf5794.png?s=48&d=mm"
+				}
+			],
+			"session_type": "Você está certo disso?",
+			"tags": [
+				"Comprometimento",
+				"Melhoria contínua",
+				"Criação",
+				"Cultura",
+				"Evolução"
+			],
+			"details": "regular",
+			"track": "Interesse Geral",
+			"audience_level": "Novato"
+		}
+	},
+	{
+		"room": "4",
+		"day": "1",
+		"hour": "20",
+		"minutes": "00",
+		"roomspan": 1,
+		"timespan": 1,
+		"session": {
+			"id": 1184,
+			"title": "Você está matando a sua confiança criativa?",
+			"authors": [
+				{
+					"name": "Priscila Machado",
+					"gravatar_url": "https://gravatar.com/avatar/7268aaf1dc317b6c2ef78cac9fca24a3.png?s=48&d=mm"
+				}
+			],
+			"session_type": "Relatos de Experiência",
+			"tags": [
+				"Negócios",
+				"Comprometimento",
+				"Criação",
+				"Cultura",
+				"Evolução",
+				"Ideias",
+				"Aprendizagem",
+				"Motivação",
+				"Oportunidades",
+				"Startup"
+			],
+			"details": "regular",
+			"track": "Inovação e Empreendedorismo",
+			"audience_level": "Novato"
+		}
+	},
+	{
+		"room": "5",
+		"day": "1",
+		"hour": "16",
+		"minutes": "30",
+		"roomspan": 1,
+		"timespan": 4,
+		"session": {
+			"id": 1186,
+			"title": "Jenga Play: Um jogo divertido para aprender sobre agilidade",
+			"authors": [
+				{
+					"name": "Alejandro Olchik",
+					"gravatar_url": "https://gravatar.com/avatar/3c08ecf99834afc21177064a395d2e4b.png?s=48&d=mm"
+				}
+			],
+			"session_type": "Mão na Massa",
+			"tags": [
+				"Design emergente",
+				"Aprendizagem",
+				"Motivação"
+			],
+			"details": "regular",
+			"audience_limit": 45,
+			"track": "Coaching, Ensino e Facilitação",
+			"audience_level": "Novato"
+		}
+	},
+	{
+		"room": "3",
+		"day": "1",
+		"hour": "19",
+		"minutes": "00",
+		"roomspan": 1,
+		"timespan": 2,
+		"session": {
+			"id": 1188,
+			"title": "Lean Branding - Gestão Ágil da Marca",
+			"authors": [
+				{
+					"name": "Liz Durman",
+					"gravatar_url": "https://gravatar.com/avatar/4a61da9b88d837d1903bf2ac9832471e.png?s=48&d=mm"
+				}
+			],
+			"session_type": "Palestra",
+			"tags": [
+				"Negócios",
+				"Melhoria contínua",
+				"Cultura",
+				"Relacionamento com clientes",
+				"Estratégias",
+				"Experiência do usuário"
+			],
+			"details": "regular",
+			"track": "Inovação e Empreendedorismo",
+			"audience_level": "Novato"
+		}
+	},
+	{
+		"room": "2",
+		"day": "1",
+		"hour": "16",
+		"minutes": "30",
+		"roomspan": 1,
+		"timespan": 1,
+		"session": {
+			"id": 1190,
+			"title": "Agilidade de casa: como é fazer home-office e ser ágil",
+			"authors": [
+				{
+					"name": "Luiz Fernando Oliveira Corte Real",
+					"gravatar_url": "https://gravatar.com/avatar/42afac666dba99d938d77b4d865b4e61.png?s=48&d=mm"
+				}
+			],
+			"session_type": "Relatos de Experiência",
+			"tags": [
+				"Processos",
+				"Times",
+				"Técnicas"
+			],
+			"details": "regular",
+			"track": "Interesse Geral",
+			"audience_level": "Iniciante avançado"
+		}
+	},
+	{
+		"room": "4",
+		"day": "1",
+		"hour": "19",
+		"minutes": "00",
+		"roomspan": 1,
+		"timespan": 2,
+		"session": {
+			"id": 1191,
+			"title": "Como e por que usar micro-serviços no globoesporte.com?",
+			"authors": [
+				{
+					"name": "Rômulo Jales",
+					"gravatar_url": "https://gravatar.com/avatar/37c28a7863f2206941a453d54c45123e.png?s=48&d=mm"
+				}
+			],
+			"session_type": "Palestra",
+			"tags": [
+				"Negócios",
+				"Deploy contínuo",
+				"Integração contínua",
+				"Cultura",
+				"Estimativas",
+				"Evolução",
+				"Implantação",
+				"Refatoração",
+				"Estratégias",
+				"Testes"
+			],
+			"details": "regular",
+			"track": "Desenvolvimento e Testes",
+			"audience_level": "Iniciante avançado"
+		}
+	},
+	{
+		"room": "2",
+		"day": "3",
+		"hour": "12",
+		"minutes": "00",
+		"roomspan": 1,
+		"timespan": 2,
+		"session": {
+			"id": 1195,
+			"title": "Liberdade, disciplina e ética. Resgate filosófico aos princípios de agilidade.",
+			"authors": [
+				{
+					"name": "Larissa Pontes Andrade",
+					"gravatar_url": "https://gravatar.com/avatar/c3149948d57675fcd16bc521d6b8f9a9.png?s=48&d=mm"
+				}
+			],
+			"session_type": "Palestra",
+			"tags": [
+				"Negócios",
+				"Coaching",
+				"Comprometimento",
+				"Cultura",
+				"Estimativas",
+				"Implantação",
+				"Aprendizagem",
+				"Estratégias",
+				"Casos de Sucesso",
+				"Times"
+			],
+			"details": "regular",
+			"track": "Gestão",
+			"audience_level": "Competente"
+		}
+	},
+	{
+		"room": "4",
+		"day": "3",
+		"hour": "19",
+		"minutes": "30",
+		"roomspan": 1,
+		"timespan": 2,
+		"session": {
+			"id": 1198,
+			"title": "Células Ágeis de produto - 1 ano depois",
+			"authors": [
+				{
+					"name": "Alex Chastinet Duarte de Souza",
+					"gravatar_url": "https://gravatar.com/avatar/93a78ea8b6d111ba4904b28c75d902c6.png?s=48&d=mm"
+				},
+				{
+					"name": "Pierre Sandora",
+					"gravatar_url": "https://gravatar.com/avatar/1a553f9efb916956d4014e930d78b42c.png?s=48&d=mm"
+				}
+			],
+			"session_type": "Palestra",
+			"tags": [
+				"Comprometimento",
+				"Cultura",
+				"Evolução",
+				"Implantação",
+				"Processos",
+				"Estratégias",
+				"Casos de Sucesso",
+				"Times"
+			],
+			"details": "regular",
+			"track": "Gestão",
+			"audience_level": "Iniciante avançado"
+		}
+	},
+	{
+		"room": "1",
+		"day": "1",
+		"hour": "20",
+		"minutes": "00",
+		"roomspan": 1,
+		"timespan": 2,
+		"session": {
+			"id": 1200,
+			"title": "Uma pergunta para melhorar o seu legado",
+			"authors": [
+				{
+					"name": "Fabricio Nogueira Buzeto",
+					"gravatar_url": "https://gravatar.com/avatar/5df91a57f09fdc3a802bf3e062669961.png?s=48&d=mm"
+				}
+			],
+			"session_type": "Palestra",
+			"tags": [
+				"Melhoria contínua",
+				"Cultura",
+				"Relacionamento com clientes",
+				"Design emergente",
+				"Evolução",
+				"Implantação",
+				"Aprendizagem",
+				"Código legado",
+				"Motivação",
+				"Times"
+			],
+			"details": "regular",
+			"track": "Desenvolvimento e Testes",
+			"audience_level": "Iniciante avançado"
+		}
+	},
+	{
+		"room": "5",
+		"day": "3",
+		"hour": "17",
+		"minutes": "30",
+		"roomspan": 1,
+		"timespan": 4,
+		"session": {
+			"id": 1205,
+			"title": "Desenvolvimento Ágil Dirigido a Funcionalidades",
+			"authors": [
+				{
+					"name": "Jorge Bublitz",
+					"gravatar_url": "https://gravatar.com/avatar/7e849871ba3511cd44dbd0d692f86d44.png?s=48&d=mm"
+				}
+			],
+			"session_type": "Mão na Massa",
+			"tags": [
+				"Coaching",
+				"Cultura",
+				"Aprendizagem",
+				"Oportunidades",
+				"Planejamento",
+				"Processos",
+				"Habilidade",
+				"Estratégias",
+				"Casos de Sucesso",
+				"Técnicas"
+			],
+			"details": "regular",
+			"audience_limit": 25,
+			"track": "Interesse Geral",
+			"audience_level": "Novato"
+		}
+	},
+	{
+		"room": "2",
+		"day": "3",
+		"hour": "18",
+		"minutes": "30",
+		"roomspan": 1,
+		"timespan": 2,
+		"session": {
+			"id": 1207,
+			"title": "Implantando Agile no Governo em projetos de demandas cruzadas e vários demandantes",
+			"authors": [
+				{
+					"name": "Herbert Parente",
+					"gravatar_url": "https://gravatar.com/avatar/d96a1ae2fc20bcce6292101fde07bc9d.png?s=48&d=mm"
+				}
+			],
+			"session_type": "Palestra",
+			"tags": [
+				"Negócios",
+				"Coaching",
+				"Melhoria contínua",
+				"Cultura",
+				"Relacionamento com clientes",
+				"Motivação",
+				"Planejamento",
+				"Processos",
+				"Casos de Sucesso",
+				"Técnicas"
+			],
+			"details": "regular",
+			"track": "Gestão",
+			"audience_level": "Iniciante avançado"
+		}
+	},
+	{
+		"room": "2",
+		"day": "3",
+		"hour": "16",
+		"minutes": "00",
+		"roomspan": 1,
+		"timespan": 2,
+		"session": {
+			"id": 1208,
+			"title": "Plano de carreira, isso funciona ? Me consegue uma bússola por favor.",
+			"authors": [
+				{
+					"name": "Jeferson Machado",
+					"gravatar_url": "https://gravatar.com/avatar/b8575ea52dd067f199a1692e3f74a0b7.png?s=48&d=mm"
+				}
+			],
+			"session_type": "Palestra",
+			"tags": [
+				"Negócios",
+				"Coaching",
+				"Cultura",
+				"Evolução",
+				"Motivação",
+				"Oportunidades",
+				"Planejamento",
+				"Processos",
+				"Times",
+				"Técnicas"
+			],
+			"details": "regular",
+			"track": "Coaching, Ensino e Facilitação",
+			"audience_level": "Iniciante avançado"
+		}
+	},
+	{
+		"room": "2",
+		"day": "1",
+		"hour": "17",
+		"minutes": "30",
+		"roomspan": 1,
+		"timespan": 2,
+		"session": {
+			"id": 1209,
+			"title": "Agilidade com Pontos de Função é um paradoxo?",
+			"authors": [
+				{
+					"name": "Eduardo Meira Peres",
+					"gravatar_url": "https://gravatar.com/avatar/abfc4c12287717e1de7b407fab2cdeee.png?s=48&d=mm"
+				}
+			],
+			"session_type": "Você está certo disso?",
+			"tags": [
+				"Negócios",
+				"Relacionamento com clientes",
+				"Estimativas",
+				"Métricas",
+				"Planejamento",
+				"Processos",
+				"Restricões",
+				"Estratégias",
+				"Casos de Sucesso",
+				"Técnicas"
+			],
+			"details": "regular",
+			"track": "Gestão",
+			"audience_level": "Iniciante avançado"
+		}
+	},
+	{
+		"room": "3",
+		"day": "3",
+		"hour": "12",
+		"minutes": "00",
+		"roomspan": 1,
+		"timespan": 2,
+		"session": {
+			"id": 1210,
+			"title": "O que faz um Gerente de Produtos?",
+			"authors": [
+				{
+					"name": "Dov Bigio",
+					"gravatar_url": "https://gravatar.com/avatar/531432a168f2fbbaf11ce7c3f0ecf627.png?s=48&d=mm"
+				}
+			],
+			"session_type": "Palestra",
+			"tags": [
+				"Negócios",
+				"Criação",
+				"Relacionamento com clientes",
+				"Planejamento",
+				"Requisitos",
+				"Startup",
+				"Estratégias",
+				"Times",
+				"Experiência do usuário"
+			],
+			"details": "regular",
+			"track": "UX, Análise e Design de Produtos",
+			"audience_level": "Novato"
+		}
+	},
+	{
+		"room": "5",
+		"day": "2",
+		"hour": "18",
+		"minutes": "30",
+		"roomspan": 1,
+		"timespan": 4,
+		"session": {
+			"id": 1213,
+			"title": "Abraçando a mudança com código",
+			"authors": [
+				{
+					"name": "Marcos Brizeno",
+					"gravatar_url": "https://gravatar.com/avatar/e2cad7c8924667b0c0da2746da3db2e3.png?s=48&d=mm"
+				}
+			],
+			"session_type": "Mão na Massa",
+			"tags": [
+				"Design emergente",
+				"Aprendizagem",
+				"Padrões",
+				"Refatoração",
+				"Test Driven Design"
+			],
+			"details": "regular",
+			"audience_limit": 25,
+			"track": "Desenvolvimento e Testes",
+			"audience_level": "Iniciante avançado"
+		}
+	},
+	{
+		"room": "3",
+		"day": "1",
+		"hour": "14",
+		"minutes": "00",
+		"roomspan": 1,
+		"timespan": 1,
+		"session": {
+			"id": 1214,
+			"title": "Robotium+ Cucumber+ Gradle, misture com Spoon e execute testes em vários dispositivos mobile.",
+			"authors": [
+				{
+					"name": "João Clineu Lima da Silva Junior",
+					"gravatar_url": "https://gravatar.com/avatar/1a51e1938e892b270beb43690ea89fe8.png?s=48&d=mm"
+				}
+			],
+			"session_type": "Relatos de Experiência",
+			"tags": [
+				"Automação",
+				"Ideias",
+				"Estratégias",
+				"Casos de Sucesso",
+				"Testes"
+			],
+			"details": "regular",
+			"track": "Desenvolvimento e Testes",
+			"audience_level": "Iniciante avançado"
+		}
+	},
+	{
+		"room": "5",
+		"day": "1",
+		"hour": "19",
+		"minutes": "30",
+		"roomspan": 1,
+		"timespan": 2,
+		"session": {
+			"id": 1215,
+			"title": "Getting the right things done: a design think approach for product development.",
+			"authors": [
+				{
+					"name": "Flavio Alves",
+					"gravatar_url": "https://gravatar.com/avatar/f1dc9a47977c743444748d0135342a2e.png?s=48&d=mm"
+				}
+			],
+			"session_type": "Palestra",
+			"tags": [
+				"Criação",
+				"Processos",
+				"Startup",
+				"Estratégias",
+				"Técnicas",
+				"Experiência do usuário",
+				"Visualização"
+			],
+			"details": "regular",
+			"track": "UX, Análise e Design de Produtos",
+			"audience_level": "Iniciante avançado"
+		}
+	},
+	{
+		"room": "1",
+		"day": "2",
+		"hour": "13",
+		"minutes": "00",
+		"roomspan": 1,
+		"timespan": 2,
+		"session": {
+			"id": 1218,
+			"title": "Escalando ágil: 50 times e 150% de crescimento usando Lean Product Management, OKRs e Scrum",
+			"authors": [
+				{
+					"name": "Fernando de la Riva",
+					"gravatar_url": "https://gravatar.com/avatar/311e0e158fbc8e5feb27c40c56a18de1.png?s=48&d=mm"
+				}
+			],
+			"session_type": "Palestra",
+			"tags": [
+				"Negócios",
+				"Cultura",
+				"Estimativas",
+				"Aprendizagem",
+				"Métricas",
+				"Estratégias",
+				"Casos de Sucesso",
+				"Times",
+				"Técnicas"
+			],
+			"details": "regular",
+			"track": "Inovação e Empreendedorismo",
+			"audience_level": "Proficiente"
+		}
+	},
+	{
+		"room": "4",
+		"day": "3",
+		"hour": "17",
+		"minutes": "30",
+		"roomspan": 1,
+		"timespan": 2,
+		"session": {
+			"id": 1227,
+			"title": "Testando na nuvem a UI e o JavaScript de sua aplicação",
+			"authors": [
+				{
+					"name": "Stefan Teixeira",
+					"gravatar_url": "https://gravatar.com/avatar/4166f9c7981de050a615617a623d19f7.png?s=48&d=mm"
+				}
+			],
+			"session_type": "Palestra",
+			"tags": [
+				"Automação",
+				"Integração contínua",
+				"Testes"
+			],
+			"details": "regular",
+			"track": "Desenvolvimento e Testes",
+			"audience_level": "Competente"
+		}
+	},
+	{
+		"room": "2",
+		"day": "2",
+		"hour": "17",
+		"minutes": "00",
+		"roomspan": 1,
+		"timespan": 2,
+		"session": {
+			"id": 1229,
+			"title": "Em defesa da liberdade como pré-requisito para a agilidade",
+			"authors": [
+				{
+					"name": "Rodrigo Alves",
+					"gravatar_url": "https://gravatar.com/avatar/8459611eaa482806381096adccf1bd4e.png?s=48&d=mm"
+				}
+			],
+			"session_type": "Palestra",
+			"tags": [
+				"Comprometimento",
+				"Cultura",
+				"Evolução",
+				"Ideias",
+				"Motivação"
+			],
+			"details": "regular",
+			"track": "Interesse Geral",
+			"audience_level": "Iniciante avançado"
+		}
+	},
+	{
+		"room": "1",
+		"day": "3",
+		"hour": "15",
+		"minutes": "00",
+		"roomspan": 1,
+		"timespan": 2,
+		"session": {
+			"id": 1238,
+			"title": "Resiliência e Agilidade - Irmãs Gêmeas em Metamorfose Contínua.",
+			"authors": [
+				{
+					"name": "Ester Lima de Campos",
+					"gravatar_url": "https://gravatar.com/avatar/922152f9ab9503a27314a403cfa64f72.png?s=48&d=mm"
+				}
+			],
+			"session_type": "Palestra",
+			"tags": [
+				"Coaching",
+				"Melhoria contínua",
+				"Cultura",
+				"Ideias",
+				"Aprendizagem",
+				"Motivação",
+				"Oportunidades",
+				"Times"
+			],
+			"details": "regular",
+			"track": "Coaching, Ensino e Facilitação",
+			"audience_level": "Novato"
+		}
+	},
+	{
+		"room": "3",
+		"day": "3",
+		"hour": "15",
+		"minutes": "30",
+		"roomspan": 1,
+		"timespan": 2,
+		"session": {
+			"id": 1241,
+			"title": "Customer Success - isso mesmo, ele é seu sucesso!",
+			"authors": [
+				{
+					"name": "Simone Pittner",
+					"gravatar_url": "https://gravatar.com/avatar/9ac1f87ee020a87404cc22a3185966b1.png?s=48&d=mm"
+				},
+				{
+					"name": "Lílian Ertel Silva",
+					"gravatar_url": "https://gravatar.com/avatar/7ec85768ca476048728ce54f18974328.png?s=48&d=mm"
+				}
+			],
+			"session_type": "Palestra",
+			"tags": [
+				"Ideias",
+				"Riscos",
+				"Habilidade",
+				"Startup"
+			],
+			"details": "regular",
+			"track": "Inovação e Empreendedorismo",
+			"audience_level": "Competente"
+		}
+	},
+	{
+		"room": "4",
+		"day": "3",
+		"hour": "15",
+		"minutes": "00",
+		"roomspan": 1,
+		"timespan": 4,
+		"session": {
+			"id": 1243,
+			"title": "Do modelo de negócio ao mapa de estórias de um MVP",
+			"authors": [
+				{
+					"name": "Paulo Furtado",
+					"gravatar_url": "https://gravatar.com/avatar/d8573ccb77ac6cf12fa2fee775aed067.png?s=48&d=mm"
+				}
+			],
+			"session_type": "Mão na Massa",
+			"tags": [
+				"Negócios",
+				"Ideias",
+				"Planejamento",
+				"Requisitos",
+				"Startup"
+			],
+			"details": "regular",
+			"audience_limit": 40,
+			"track": "UX, Análise e Design de Produtos",
+			"audience_level": "Iniciante avançado"
+		}
+	},
+	{
+		"room": "5",
+		"day": "3",
+		"hour": "12",
+		"minutes": "00",
+		"roomspan": 1,
+		"timespan": 4,
+		"session": {
+			"id": 1244,
+			"title": "TDD and Refactoring with LEGO",
+			"authors": [
+				{
+					"name": "Bryan Beecham",
+					"gravatar_url": "https://gravatar.com/avatar/9679712fbfc85e08fb4499f486b09a59.png?s=48&d=mm"
+				},
+				{
+					"name": "Alexandre Freire Kawakami",
+					"gravatar_url": "https://gravatar.com/avatar/54b9a028e87738853c0936a0fcc515e7.png?s=48&d=mm"
+				}
+			],
+			"session_type": "Mão na Massa",
+			"tags": [
+				"Design emergente",
+				"Programação pareada",
+				"Refatoração",
+				"Test Driven Design",
+				"Times",
+				"Testes"
+			],
+			"details": "regular",
+			"audience_limit": 60,
+			"track": "Desenvolvimento e Testes",
+			"audience_level": "Novato"
+		}
+	},
+	{
+		"room": "3",
+		"day": "3",
+		"hour": "13",
+		"minutes": "00",
+		"roomspan": 1,
+		"timespan": 2,
+		"session": {
+			"id": 1247,
+			"title": "O Ágil e o Executivo - Uma empresa ágil vista de \"cima\"",
+			"authors": [
+				{
+					"name": "Rafael Cichini",
+					"gravatar_url": "https://gravatar.com/avatar/de856848749f74f2874102e30acf6754.png?s=48&d=mm"
+				}
+			],
+			"session_type": "Palestra",
+			"tags": [
+				"Negócios",
+				"Coaching",
+				"Cultura",
+				"Casos de Fracasso",
+				"Planejamento",
+				"Processos",
+				"Riscos",
+				"Estratégias",
+				"Casos de Sucesso"
+			],
+			"details": "regular",
+			"track": "Inovação e Empreendedorismo",
+			"audience_level": "Competente"
+		}
+	},
+	{
+		"room": "5",
+		"day": "2",
+		"hour": "15",
+		"minutes": "00",
+		"roomspan": 1,
+		"timespan": 4,
+		"session": {
+			"id": 1248,
+			"title": "Visual Thinking: Visual e Verbal trabalhando juntos pelo seu time.",
+			"authors": [
+				{
+					"name": "João Reis",
+					"gravatar_url": "https://gravatar.com/avatar/04818d9f20b0c599fb49648cc177fa73.png?s=48&d=mm"
+				}
+			],
+			"session_type": "Mão na Massa",
+			"tags": [
+				"Criação",
+				"Ideias",
+				"Aprendizagem",
+				"Habilidade",
+				"Técnicas"
+			],
+			"details": "regular",
+			"audience_limit": 24,
+			"track": "Coaching, Ensino e Facilitação",
+			"audience_level": "Novato"
+		}
+	},
+	{
+		"room": "4",
+		"day": "3",
+		"hour": "12",
+		"minutes": "00",
+		"roomspan": 1,
+		"timespan": 4,
+		"session": {
+			"id": 1250,
+			"title": "Develop Healthy Relationships at Work Using the Integral Theory and Integral Coaching",
+			"authors": [
+				{
+					"name": "Peter Moreno",
+					"gravatar_url": "https://gravatar.com/avatar/43683d2cbd77ce9fdf13c1df99cd05e9.png?s=48&d=mm"
+				}
+			],
+			"session_type": "Mão na Massa",
+			"tags": [
+				"Coaching",
+				"Melhoria contínua",
+				"Cultura",
+				"Relacionamento com clientes",
+				"Evolução",
+				"Ideias",
+				"Aprendizagem",
+				"Motivação",
+				"Requisitos",
+				"Times"
+			],
+			"details": "regular",
+			"track": "Coaching, Ensino e Facilitação",
+			"audience_level": "Iniciante avançado"
+		}
+	},
+	{
+		"room": "4",
+		"day": "1",
+		"hour": "16",
+		"minutes": "30",
+		"roomspan": 1,
+		"timespan": 4,
+		"session": {
+			"id": 1252,
+			"title": "Técnicas para encontrar uma ideia de produto de software",
+			"authors": [
+				{
+					"name": "Joaquim Torres",
+					"gravatar_url": "https://gravatar.com/avatar/cff412b8ddb473694416759967e8efed.png?s=48&d=mm"
+				}
+			],
+			"session_type": "Mão na Massa",
+			"tags": [
+				"Negócios",
+				"Criação",
+				"Ideias",
+				"Oportunidades",
+				"Startup",
+				"Técnicas"
+			],
+			"details": "regular",
+			"audience_limit": 25,
+			"track": "Inovação e Empreendedorismo",
+			"audience_level": "Novato"
+		}
+	},
+	{
+		"room": "3",
+		"day": "2",
+		"hour": "16",
+		"minutes": "00",
+		"roomspan": 1,
+		"timespan": 4,
+		"session": {
+			"id": 1254,
+			"title": "Learning Shot: Como fica a arquitetura de software em projetos ágeis?",
+			"authors": [
+				{
+					"name": "Anderson Diniz Hummel",
+					"gravatar_url": "https://gravatar.com/avatar/65e1107ccb7e596e3ef7f955b70b000f.png?s=48&d=mm"
+				},
+				{
+					"name": "Manoel Pimentel Medeiros",
+					"gravatar_url": "https://gravatar.com/avatar/c9f3722f2b1b1bb215bfbdcb03d3e109.png?s=48&d=mm"
+				}
+			],
+			"session_type": "Mão na Massa",
+			"tags": [
+				"Deploy contínuo",
+				"Cultura",
+				"Design emergente",
+				"Implantação",
+				"Padrões",
+				"Processos",
+				"Riscos",
+				"Estratégias",
+				"Casos de Sucesso",
+				"Times"
+			],
+			"details": "regular",
+			"audience_limit": 80,
+			"track": "Desenvolvimento e Testes",
+			"audience_level": "Iniciante avançado"
+		}
+	},
+	{
+		"room": "1",
+		"day": "1",
+		"hour": "17",
+		"minutes": "30",
+		"roomspan": 1,
+		"timespan": 2,
+		"session": {
+			"id": 1261,
+			"title": "Elaboração de um Scrum Product Backlog Efetivo",
+			"authors": [
+				{
+					"name": "Fábio Aguiar",
+					"gravatar_url": "https://gravatar.com/avatar/84e9aec0243888ee53dd1637c03f798c.png?s=48&d=mm"
+				}
+			],
+			"session_type": "Palestra",
+			"tags": [
+				"Negócios",
+				"Criação",
+				"Relacionamento com clientes",
+				"Planejamento",
+				"Requisitos",
+				"Técnicas"
+			],
+			"details": "regular",
+			"track": "UX, Análise e Design de Produtos",
+			"audience_level": "Iniciante avançado"
+		}
+	},
+	{
+		"room": "5",
+		"day": "3",
+		"hour": "19",
+		"minutes": "30",
+		"roomspan": 1,
+		"timespan": 2,
+		"session": {
+			"id": 1262,
+			"title": "Laboratório de Negócios - catalisando iniciativas dentro de uma organização",
+			"authors": [
+				{
+					"name": "Mario Bastos",
+					"gravatar_url": "https://gravatar.com/avatar/3415235fca4995b341f8f490343579a8.png?s=48&d=mm"
+				},
+				{
+					"name": "Tatiana Ximenes",
+					"gravatar_url": "https://gravatar.com/avatar/4923de5085e94500602b5f5a138e74e3.png?s=48&d=mm"
+				}
+			],
+			"session_type": "Palestra",
+			"tags": [
+				"Negócios",
+				"Cultura",
+				"Relacionamento com clientes",
+				"Casos de Fracasso",
+				"Ideias",
+				"Aprendizagem",
+				"Oportunidades",
+				"Processos",
+				"Startup",
+				"Casos de Sucesso"
+			],
+			"details": "regular",
+			"track": "Inovação e Empreendedorismo",
+			"audience_level": "Iniciante avançado"
+		}
+	},
+	{
+		"room": "2",
+		"day": "2",
+		"hour": "15",
+		"minutes": "00",
+		"roomspan": 1,
+		"timespan": 2,
+		"session": {
+			"id": 1268,
+			"title": "Os 10 princípios do movimento DevOps",
+			"authors": [
+				{
+					"name": "Márcio Sete",
+					"gravatar_url": "https://gravatar.com/avatar/5ebbbe0121951d9978621ebbbc7a7e7f.png?s=48&d=mm"
+				}
+			],
+			"session_type": "Palestra",
+			"tags": [
+				"Automação",
+				"Negócios",
+				"Coaching",
+				"Melhoria contínua",
+				"Cultura",
+				"Aprendizagem",
+				"Motivação",
+				"Processos",
+				"Estratégias",
+				"Casos de Sucesso"
+			],
+			"details": "regular",
+			"track": "Interesse Geral",
+			"audience_level": "Iniciante avançado"
+		}
+	},
+	{
+		"room": "5",
+		"day": "2",
+		"hour": "17",
+		"minutes": "00",
+		"roomspan": 1,
+		"timespan": 2,
+		"session": {
+			"id": 1286,
+			"title": "Creating a Learning Organization: The Ultimate Competitive Edge",
+			"authors": [
+				{
+					"name": "Pat Reed",
+					"gravatar_url": "https://gravatar.com/avatar/c05c8f611e8da6a7ed8461e7825056d9.png?s=48&d=mm"
+				},
+				{
+					"name": "Walt Wyckoff",
+					"gravatar_url": "https://gravatar.com/avatar/b30507168aeb33bcdbe5c22a57a42aad.png?s=48&d=mm"
+				}
+			],
+			"session_type": "Mão na Massa",
+			"tags": [
+				"Melhoria contínua",
+				"Criação",
+				"Cultura",
+				"Processos",
+				"Estratégias",
+				"Times",
+				"Técnicas"
+			],
+			"details": "regular",
+			"track": "Coaching, Ensino e Facilitação",
+			"audience_level": "Novato"
+		}
+	},
+	{
+		"room": "2",
+		"day": "1",
+		"hour": "15",
+		"minutes": "30",
+		"roomspan": 1,
+		"timespan": 1,
+		"session": {
+			"id": 1287,
+			"title": "Interação e relacionamento PO com equipe de UX e Designers do Instituto de Pesquisas Eldorado",
+			"authors": [
+				{
+					"name": "Alessandra Peguim Rosa",
+					"gravatar_url": "https://gravatar.com/avatar/225847c4aa5374181ccaf17fd6a7cd4d.png?s=48&d=mm"
+				}
+			],
+			"session_type": "Relatos de Experiência",
+			"tags": [
+				"Comprometimento",
+				"Melhoria contínua",
+				"Criação",
+				"Estimativas",
+				"Aprendizagem",
+				"Habilidade",
+				"Casos de Sucesso",
+				"Times",
+				"Técnicas",
+				"Experiência do usuário"
+			],
+			"details": "regular",
+			"track": "UX, Análise e Design de Produtos",
+			"audience_level": "Novato"
+		}
+	},
+	{
+		"room": "3",
+		"day": "3",
+		"hour": "19",
+		"minutes": "00",
+		"roomspan": 1,
+		"timespan": 2,
+		"session": {
+			"id": 1292,
+			"title": "Evoluindo aplicações e serviços com testes de contrato",
+			"authors": [
+				{
+					"name": "Rafael Portela",
+					"gravatar_url": "https://gravatar.com/avatar/d5854e7f3cfcb55945def68f31810af7.png?s=48&d=mm"
+				}
+			],
+			"session_type": "Palestra",
+			"tags": [
+				"Automação",
+				"Deploy contínuo",
+				"Integração contínua",
+				"Design emergente",
+				"Evolução",
+				"Processos",
+				"Test Driven Design",
+				"Times",
+				"Técnicas",
+				"Testes"
+			],
+			"details": "regular",
+			"track": "Desenvolvimento e Testes",
+			"audience_level": "Proficiente"
+		}
+	},
+	{
+		"room": "2",
+		"day": "1",
+		"hour": "14",
+		"minutes": "00",
+		"roomspan": 1,
+		"timespan": 1,
+		"session": {
+			"id": 1295,
+			"title": "Empreendendo em comunidades. SmallActs Manifesto e o case Tá Safo",
+			"authors": [
+				{
+					"name": "Marcelo Andrade",
+					"gravatar_url": "https://gravatar.com/avatar/32c1bda5b57a65cc1c63f312f1fdf8a0.png?s=48&d=mm"
+				}
+			],
+			"session_type": "Relatos de Experiência",
+			"tags": [
+				"Comprometimento",
+				"Cultura",
+				"Ideias",
+				"Aprendizagem",
+				"Oportunidades"
+			],
+			"details": "regular",
+			"audience_limit": 70,
+			"track": "Interesse Geral",
+			"audience_level": "Iniciante avançado"
+		}
+	},
+	{
+		"room": "3",
+		"day": "1",
+		"hour": "14",
+		"minutes": "30",
+		"roomspan": 1,
+		"timespan": 1,
+		"session": {
+			"id": 1297,
+			"title": "Docker e CoreOS: escalando serviços usando o fleet",
+			"authors": [
+				{
+					"name": "Guilherme Nogueira",
+					"gravatar_url": "https://gravatar.com/avatar/4b178f929b750c873b4d2b0c0a682051.png?s=48&d=mm"
+				}
+			],
+			"session_type": "Relatos de Experiência",
+			"tags": [
+				"Automação",
+				"Implantação"
+			],
+			"details": "regular",
+			"track": "Desenvolvimento e Testes",
+			"audience_level": "Competente"
+		}
+	},
+	{
+		"room": "1",
+		"day": "1",
+		"hour": "16",
+		"minutes": "30",
+		"roomspan": 1,
+		"timespan": 2,
+		"session": {
+			"id": 1298,
+			"title": "Continuously serving the developer community with Continuous Integration and Delivery",
+			"authors": [
+				{
+					"name": "Fernando Alves",
+					"gravatar_url": "https://gravatar.com/avatar/48ab986eadec51d0621bc72819267d6f.png?s=48&d=mm"
+				},
+				{
+					"name": "AKSHAY KARLE",
+					"gravatar_url": "https://gravatar.com/avatar/c9828ba7bb8bc4eedeb113dd5b8efebf.png?s=48&d=mm"
+				}
+			],
+			"session_type": "Palestra",
+			"tags": [
+				"Automação",
+				"Deploy contínuo",
+				"Melhoria contínua",
+				"Integração contínua",
+				"Implantação",
+				"Padrões"
+			],
+			"details": "regular",
+			"track": "Desenvolvimento e Testes",
+			"audience_level": "Iniciante avançado"
+		}
+	},
+	{
+		"room": "5",
+		"day": "1",
+		"hour": "14",
+		"minutes": "00",
+		"roomspan": 1,
+		"timespan": 4,
+		"session": {
+			"id": 1299,
+			"title": "QA to AQ: Becoming Agile at Quality",
+			"authors": [
+				{
+					"name": "Joseph Yoder",
+					"gravatar_url": "https://gravatar.com/avatar/ca080bf5bba71ae8a2deb1291dad3307.png?s=48&d=mm"
+				}
+			],
+			"session_type": "Mão na Massa",
+			"tags": [
+				"Melhoria contínua",
+				"Padrões",
+				"Testes"
+			],
+			"details": "regular",
+			"track": "Desenvolvimento e Testes",
+			"audience_level": "Competente"
+		}
+	},
+	{
+		"room": "2",
+		"day": "2",
+		"hour": "12",
+		"minutes": "00",
+		"roomspan": 1,
+		"timespan": 2,
+		"session": {
+			"id": 1315,
+			"title": "How to Incorporate Security Best Practices into Agile Teams",
+			"authors": [
+				{
+					"name": "Maria Gomez",
+					"gravatar_url": "https://gravatar.com/avatar/e6738eb4a536e090917614becf646c62.png?s=48&d=mm"
+				},
+				{
+					"name": "Chelsea Komlo",
+					"gravatar_url": "https://gravatar.com/avatar/2fbfbf3a0a100e054aa8123ec3ce68e6.png?s=48&d=mm"
+				}
+			],
+			"session_type": "Palestra",
+			"tags": [
+				"Negócios",
+				"Melhoria contínua",
+				"Integração contínua",
+				"Evolução",
+				"Aprendizagem",
+				"Padrões",
+				"Processos",
+				"Requisitos",
+				"Times",
+				"Técnicas"
+			],
+			"details": "regular",
+			"track": "Desenvolvimento e Testes",
+			"audience_level": "Competente"
+		}
+	},
+	{
+		"room": "3",
+		"day": "1",
+		"hour": "16",
+		"minutes": "30",
+		"roomspan": 1,
+		"timespan": 2,
+		"session": {
+			"id": 1318,
+			"title": "Lord Vader: A Redenção",
+			"authors": [
+				{
+					"name": "Ricardo Peters",
+					"gravatar_url": "https://gravatar.com/avatar/1e23d53a11835ee8e45acda29d1bcd78.png?s=48&d=mm"
+				}
+			],
+			"session_type": "Palestra",
+			"tags": [
+				"Comprometimento",
+				"Melhoria contínua",
+				"Cultura",
+				"Aprendizagem",
+				"Motivação",
+				"Oportunidades",
+				"Processos",
+				"Habilidade",
+				"Estratégias",
+				"Times"
+			],
+			"details": "regular",
+			"track": "Gestão",
+			"audience_level": "Novato"
+		}
+	},
+	{
+		"room": "1",
+		"day": "2",
+		"hour": "16",
+		"minutes": "00",
+		"roomspan": 1,
+		"timespan": 2,
+		"session": {
+			"id": 1319,
+			"title": "Os segredos da gestão eficaz para alavancar a performance da sua equipe",
+			"authors": [
+				{
+					"name": "Alisson Vale",
+					"gravatar_url": "https://gravatar.com/avatar/48af343b6b4e4083b63e3b20baea2574.png?s=48&d=mm"
+				}
+			],
+			"session_type": "Palestra",
+			"tags": [
+				"Negócios",
+				"Melhoria contínua",
+				"Cultura",
+				"Relacionamento com clientes",
+				"Evolução",
+				"Processos",
+				"Times",
+				"Técnicas"
+			],
+			"details": "regular",
+			"track": "Gestão",
+			"audience_level": "Iniciante avançado"
+		}
+	},
+	{
+		"room": "4",
+		"day": "1",
+		"hour": "14",
+		"minutes": "00",
+		"roomspan": 1,
+		"timespan": 4,
+		"session": {
+			"id": 1322,
+			"title": "How Managers can Nurture Teams to Thrive",
+			"authors": [
+				{
+					"name": "Selena Delesie",
+					"gravatar_url": "https://gravatar.com/avatar/95ea10254ce0a8d1cda6dbae93524fd4.png?s=48&d=mm"
+				}
+			],
+			"session_type": "Mão na Massa",
+			"tags": [
+				"Coaching",
+				"Cultura",
+				"Evolução",
+				"Aprendizagem",
+				"Motivação",
+				"Padrões",
+				"Riscos",
+				"Habilidade",
+				"Estratégias",
+				"Times"
+			],
+			"details": "regular",
+			"audience_limit": 200,
+			"track": "Gestão",
+			"audience_level": "Proficiente"
+		}
+	},
+	{
+		"room": "1",
+		"day": "3",
+		"hour": "12",
+		"minutes": "00",
+		"roomspan": 1,
+		"timespan": 2,
+		"session": {
+			"id": 1323,
+			"title": "SCRUM MASTER – Melhore sua liderança e obtenha excelentes resultados em seus times.",
+			"authors": [
+				{
+					"name": "Rubens Sciena",
+					"gravatar_url": "https://gravatar.com/avatar/46d980de9d60664f66db00d5985eec67.png?s=48&d=mm"
+				}
+			],
+			"session_type": "Palestra",
+			"tags": [
+				"Coaching",
+				"Comprometimento",
+				"Melhoria contínua",
+				"Cultura",
+				"Aprendizagem",
+				"Motivação",
+				"Processos",
+				"Habilidade",
+				"Times"
+			],
+			"details": "regular",
+			"track": "Coaching, Ensino e Facilitação",
+			"audience_level": "Competente"
+		}
+	},
+	{
+		"room": "3",
+		"day": "2",
+		"hour": "15",
+		"minutes": "00",
+		"roomspan": 1,
+		"timespan": 2,
+		"session": {
+			"id": 1331,
+			"title": "Só tem maluco em time Scrum! Entenda de Perfis Psicológicos e acelere seu team building",
+			"authors": [
+				{
+					"name": "Alexandre Amorim",
+					"gravatar_url": "https://gravatar.com/avatar/5bbd1244bf1a14dd166268ac96e18879.png?s=48&d=mm"
+				}
+			],
+			"session_type": "Palestra",
+			"tags": [
+				"Coaching",
+				"Melhoria contínua",
+				"Cultura",
+				"Motivação",
+				"Processos",
+				"Técnicas"
+			],
+			"details": "regular",
+			"track": "Gestão",
+			"audience_level": "Novato"
+		}
+	},
+	{
+		"room": "1",
+		"day": "3",
+		"hour": "17",
+		"minutes": "30",
+		"roomspan": 1,
+		"timespan": 2,
+		"session": {
+			"id": 1336,
+			"title": "Who really rules?",
+			"authors": [
+				{
+					"name": "Marcelo Luis Walter",
+					"gravatar_url": "https://gravatar.com/avatar/a17a154522ed4cbaa37e0315a1eacd38.png?s=48&d=mm"
+				},
+				{
+					"name": "Ramon Tramontini",
+					"gravatar_url": "https://gravatar.com/avatar/003fcc8ee13d4a9531588e15b5e40b3a.png?s=48&d=mm"
+				}
+			],
+			"session_type": "Palestra",
+			"tags": [
+				"Negócios",
+				"Coaching",
+				"Cultura",
+				"Aprendizagem",
+				"Planejamento",
+				"Processos",
+				"Estratégias"
+			],
+			"details": "regular",
+			"track": "Gestão",
+			"audience_level": "Competente"
+		}
+	},
+	{
+		"room": "3",
+		"day": "3",
+		"hour": "16",
+		"minutes": "00",
+		"roomspan": 1,
+		"timespan": 1,
+		"session": {
+			"id": 1338,
+			"title": "O que eu aprendi trabalhando na organização do Agile Brazil",
+			"authors": [
+				{
+					"name": "Erica Briones Graciano",
+					"gravatar_url": "https://gravatar.com/avatar/df5cf8e75fa1ae52101ed4d3388920d7.png?s=48&d=mm"
+				}
+			],
+			"session_type": "Relatos de Experiência",
+			"tags": [
+				"Comprometimento",
+				"Melhoria contínua",
+				"Criação",
+				"Cultura",
+				"Evolução",
+				"Aprendizagem",
+				"Motivação",
+				"Oportunidades"
+			],
+			"details": "regular",
+			"track": "Interesse Geral",
+			"audience_level": "Iniciante avançado"
+		}
+	},
+	{
+		"room": "3",
+		"day": "3",
+		"hour": "16",
+		"minutes": "30",
+		"roomspan": 1,
+		"timespan": 1,
+		"session": {
+			"id": 1339,
+			"title": "Voluntários na Agile Brazil: criando um time em seis horas!",
+			"authors": [
+				{
+					"name": "Cecilia Fernandes",
+					"gravatar_url": "https://gravatar.com/avatar/83caf77361748326fe960eeca984e1b3.png?s=48&d=mm"
+				}
+			],
+			"session_type": "Relatos de Experiência",
+			"tags": [
+				"Comprometimento",
+				"Melhoria contínua",
+				"Criação",
+				"Evolução",
+				"Aprendizagem",
+				"Motivação",
+				"Casos de Sucesso",
+				"Times",
+				"Técnicas"
+			],
+			"details": "regular",
+			"track": "Interesse Geral",
+			"audience_level": "Iniciante avançado"
+		}
+	},
+	{
+		"room": "1",
+		"day": "1",
+		"hour": "15",
+		"minutes": "00",
+		"roomspan": 1,
+		"timespan": 2,
+		"session": {
+			"id": 1343,
+			"title": "Continuous Discovery",
+			"authors": [
+				{
+					"name": "Victor Lima",
+					"gravatar_url": "https://gravatar.com/avatar/7808413b9fbd2a926e91bcf0159d2736.png?s=48&d=mm"
+				}
+			],
+			"session_type": "Palestra",
+			"tags": [
+				"Melhoria contínua",
+				"Cultura",
+				"Evolução",
+				"Aprendizagem",
+				"Métricas",
+				"Riscos",
+				"Startup",
+				"Estratégias",
+				"Testes",
+				"Experiência do usuário"
+			],
+			"details": "regular",
+			"track": "Inovação e Empreendedorismo",
+			"audience_level": "Competente"
+		}
+	},
+	{
+		"room": "2",
+		"day": "3",
+		"hour": "19",
+		"minutes": "30",
+		"roomspan": 1,
+		"timespan": 2,
+		"session": {
+			"id": 1353,
+			"title": "Das mentiras Ágeis e outras desventuras. O que por no seu currículo!",
+			"authors": [
+				{
+					"name": "Rafael Barbosa Camargo",
+					"gravatar_url": "https://gravatar.com/avatar/92289d2888b9097323bd15504a69fe11.png?s=48&d=mm"
+				}
+			],
+			"session_type": "Palestra",
+			"tags": [
+				"Coaching",
+				"Cultura",
+				"Evolução",
+				"Casos de Fracasso",
+				"Ideias",
+				"Aprendizagem",
+				"Motivação",
+				"Oportunidades",
+				"Habilidade"
+			],
+			"details": "regular",
+			"track": "Interesse Geral",
+			"audience_level": "Competente"
+		}
+	},
+	{
+		"room": "1",
+		"day": "2",
+		"hour": "12",
+		"minutes": "00",
+		"roomspan": 1,
+		"timespan": 2,
+		"session": {
+			"id": 1363,
+			"title": "O Que Uma Matryoshka Me Ensinou Sobre Agilidade e Marketing Digital",
+			"authors": [
+				{
+					"name": "Serge Rehem",
+					"gravatar_url": "https://gravatar.com/avatar/149a71e1921d2f9f1d143d784efe6239.png?s=48&d=mm"
+				}
+			],
+			"session_type": "Palestra",
+			"tags": [
+				"Cultura",
+				"Ideias",
+				"Aprendizagem",
+				"Motivação",
+				"Oportunidades",
+				"Startup"
+			],
+			"details": "regular",
+			"track": "Interesse Geral",
+			"audience_level": "Iniciante avançado"
+		}
+	},
+	{
+		"room": "5",
+		"day": "1",
+		"hour": "20",
+		"minutes": "00",
+		"roomspan": 1,
+		"timespan": 2,
+		"session": {
+			"id": 1365,
+			"title": "Como agilidade e práticas 3.0 beneficiam nosso cérebro 1.0",
+			"authors": [
+				{
+					"name": "Elderclei Reami",
+					"gravatar_url": "https://gravatar.com/avatar/75d39cb125c244c6ba14076e99c26dfb.png?s=48&d=mm"
+				}
+			],
+			"session_type": "Palestra",
+			"tags": [
+				"Coaching",
+				"Melhoria contínua",
+				"Cultura",
+				"Ideias",
+				"Aprendizagem",
+				"Motivação",
+				"Padrões",
+				"Processos",
+				"Habilidade",
+				"Times"
+			],
+			"details": "regular",
+			"track": "Coaching, Ensino e Facilitação",
+			"audience_level": "Iniciante avançado"
+		}
+	},
+	{
+		"room": "3",
+		"day": "3",
+		"hour": "15",
+		"minutes": "00",
+		"roomspan": 1,
+		"timespan": 1,
+		"session": {
+			"id": 1366,
+			"title": "Inovando em um dos maiores varejistas americano",
+			"authors": [
+				{
+					"name": "Hugo Corbucci",
+					"gravatar_url": "https://gravatar.com/avatar/44ee3f196b3787b6ac3aa3ca9dd88784.png?s=48&d=mm"
+				}
+			],
+			"session_type": "Relatos de Experiência",
+			"tags": [
+				"Negócios",
+				"Ideias",
+				"Aprendizagem",
+				"Riscos",
+				"Casos de Sucesso"
+			],
+			"details": "regular",
+			"track": "Inovação e Empreendedorismo",
+			"audience_level": "Iniciante avançado"
+		}
+	},
+	{
+		"room": "2",
+		"day": "3",
+		"hour": "17",
+		"minutes": "30",
+		"roomspan": 1,
+		"timespan": 2,
+		"session": {
+			"id": 1369,
+			"title": "Como Disseminar a Cultura Ágil Em Todas as Áreas de Uma Grande Empresa",
+			"authors": [
+				{
+					"name": "João Paulo Novais",
+					"gravatar_url": "https://gravatar.com/avatar/79c1ebe219a78aabb49ffad4cdaf727f.png?s=48&d=mm"
+				},
+				{
+					"name": "Serge Rehem",
+					"gravatar_url": "https://gravatar.com/avatar/149a71e1921d2f9f1d143d784efe6239.png?s=48&d=mm"
+				}
+			],
+			"session_type": "Palestra",
+			"tags": [
+				"Comprometimento",
+				"Cultura",
+				"Evolução",
+				"Aprendizagem",
+				"Motivação"
+			],
+			"details": "regular",
+			"track": "Coaching, Ensino e Facilitação",
+			"audience_level": "Iniciante avançado"
+		}
+	},
+	{
+		"room": "3",
+		"day": "1",
+		"hour": "20",
+		"minutes": "00",
+		"roomspan": 1,
+		"timespan": 2,
+		"session": {
+			"id": 1372,
+			"title": "3 erros que vão falir o seu projeto ágil",
+			"authors": [
+				{
+					"name": "Raphael Molesim",
+					"gravatar_url": "https://gravatar.com/avatar/e6fec2201ab886acca610502ba7acb73.png?s=48&d=mm"
+				}
+			],
+			"session_type": "Palestra",
+			"tags": [
+				"Casos de Sucesso"
+			],
+			"details": "regular",
+			"track": "Gestão",
+			"audience_level": "Iniciante avançado"
+		}
+	},
+	{
+		"room": "4",
+		"day": "2",
+		"hour": "18",
+		"minutes": "30",
+		"roomspan": 1,
+		"timespan": 4,
+		"session": {
+			"id": 1376,
+			"title": "Kanban Experience - O Kaizen Game Light",
+			"authors": [
+				{
+					"name": "Rodrigo Yoshima",
+					"gravatar_url": "https://gravatar.com/avatar/0c6ef2aba144a26e0346b2ba7f18e0bb.png?s=48&d=mm"
+				}
+			],
+			"session_type": "Mão na Massa",
+			"tags": [
+				"Melhoria contínua",
+				"Cultura",
+				"Aprendizagem",
+				"Processos",
+				"Riscos",
+				"Estratégias",
+				"Técnicas",
+				"Visualização"
+			],
+			"details": "regular",
+			"audience_limit": 30,
+			"track": "Gestão",
+			"audience_level": "Competente"
+		}
+	},
+	{
+		"room": "2",
+		"day": "1",
+		"hour": "17",
+		"minutes": "00",
+		"roomspan": 1,
+		"timespan": 1,
+		"session": {
+			"id": 1377,
+			"title": "Desafios da consultoria ágil em um time de tamanho médio 100% distribuído",
+			"authors": [
+				{
+					"name": "Rafael Sales",
+					"gravatar_url": "https://gravatar.com/avatar/5bf3516f3e265565ff0146a8796fb300.png?s=48&d=mm"
+				}
+			],
+			"session_type": "Relatos de Experiência",
+			"tags": [
+				"Coaching",
+				"Comprometimento",
+				"Melhoria contínua",
+				"Relacionamento com clientes",
+				"Programação pareada",
+				"Processos",
+				"Riscos",
+				"Times"
+			],
+			"details": "regular",
+			"track": "Interesse Geral",
+			"audience_level": "Iniciante avançado"
+		}
+	},
+	{
+		"room": "2",
+		"day": "3",
+		"hour": "13",
+		"minutes": "00",
+		"roomspan": 1,
+		"timespan": 2,
+		"session": {
+			"id": 1379,
+			"title": "ポジティブ - A Cultura do Positivo !",
+			"authors": [
+				{
+					"name": "Ari do Amaral Torres Filho",
+					"gravatar_url": "https://gravatar.com/avatar/61c08287959a4fbbe6287b0f62b1ca04.png?s=48&d=mm"
+				}
+			],
+			"session_type": "Você está certo disso?",
+			"tags": [
+				"Cultura",
+				"Evolução",
+				"Ideias",
+				"Aprendizagem",
+				"Motivação",
+				"Oportunidades",
+				"Recuperação",
+				"Habilidade",
+				"Estratégias",
+				"Casos de Sucesso"
+			],
+			"details": "regular",
+			"audience_limit": 250,
+			"track": "Coaching, Ensino e Facilitação",
+			"audience_level": "Competente"
+		}
+	},
+	{
+		"room": "2",
+		"day": "1",
+		"hour": "15",
+		"minutes": "00",
+		"roomspan": 1,
+		"timespan": 1,
+		"session": {
+			"id": 1383,
+			"title": "Design Centrado no Usuário como um driver da melhoria do processo de desenvolvimento ágil",
+			"authors": [
+				{
+					"name": "Victor Ximenes",
+					"gravatar_url": "https://gravatar.com/avatar/ff29dc896ac5c7e2a2307487b16000e9.png?s=48&d=mm"
+				},
+				{
+					"name": "Rodrigo Cursino",
+					"gravatar_url": "https://gravatar.com/avatar/e9269f41a408d9d81c3b408808b0a592.png?s=48&d=mm"
+				}
+			],
+			"session_type": "Relatos de Experiência",
+			"tags": [
+				"Negócios",
+				"Relacionamento com clientes",
+				"Planejamento",
+				"Processos",
+				"Requisitos",
+				"Casos de Sucesso",
+				"Experiência do usuário"
+			],
+			"details": "regular",
+			"track": "UX, Análise e Design de Produtos",
+			"audience_level": "Iniciante avançado"
+		}
+	},
+	{
+		"room": "2",
+		"day": "2",
+		"hour": "16",
+		"minutes": "00",
+		"roomspan": 1,
+		"timespan": 2,
+		"session": {
+			"id": 1386,
+			"title": "Beyond Product Management - Aplicando gestão de produtos em desenvolvimento de software",
+			"authors": [
+				{
+					"name": "Julio Gejer",
+					"gravatar_url": "https://gravatar.com/avatar/a4f397a683e5c8b4ee698b9989475f56.png?s=48&d=mm"
+				}
+			],
+			"session_type": "Palestra",
+			"tags": [
+				"Comprometimento",
+				"Relacionamento com clientes",
+				"Processos",
+				"Requisitos",
+				"Startup",
+				"Estratégias",
+				"Times"
+			],
+			"details": "regular",
+			"track": "UX, Análise e Design de Produtos",
+			"audience_level": "Novato"
+		}
+	},
+	{
+		"room": "2",
+		"day": "2",
+		"hour": "13",
+		"minutes": "30",
+		"roomspan": 1,
+		"timespan": 1,
+		"session": {
+			"id": 1393,
+			"title": "Tropeiro mineiro: como misturar Learning 1.0, 2.0 e 3.0 na preparação para uso de métodos ágeis",
+			"authors": [
+				{
+					"name": "Junilson Souza",
+					"gravatar_url": "https://gravatar.com/avatar/2b4a182131ae036a34e97f8336af2620.png?s=48&d=mm"
+				},
+				{
+					"name": "Thiago Torres",
+					"gravatar_url": "https://gravatar.com/avatar/fa10c6610a05fc6e2f9f35153d648a31.png?s=48&d=mm"
+				}
+			],
+			"session_type": "Relatos de Experiência",
+			"tags": [
+				"Coaching",
+				"Cultura",
+				"Casos de Fracasso",
+				"Aprendizagem",
+				"Motivação",
+				"Requisitos",
+				"Casos de Sucesso",
+				"Times",
+				"Testes"
+			],
+			"details": "regular",
+			"track": "Coaching, Ensino e Facilitação",
+			"audience_level": "Iniciante avançado"
+		}
+	},
+	{
+		"room": "3",
+		"day": "2",
+		"hour": "12",
+		"minutes": "00",
+		"roomspan": 1,
+		"timespan": 2,
+		"session": {
+			"id": 1395,
+			"title": "Gerente de Projetos – Ter ou Não Ter? Eis a Questão",
+			"authors": [
+				{
+					"name": "Lara Rejane de Jesus",
+					"gravatar_url": "https://gravatar.com/avatar/9e6c26169e3f7a422cb8813dda1c16f4.png?s=48&d=mm"
+				},
+				{
+					"name": "Renato Lossano Macedo",
+					"gravatar_url": "https://gravatar.com/avatar/b79ae65c4066e5d963bef30cf304cb14.png?s=48&d=mm"
+				}
+			],
+			"session_type": "Duelo",
+			"tags": [
+				"Coaching",
+				"Cultura",
+				"Evolução",
+				"Ideias",
+				"Aprendizagem",
+				"Planejamento",
+				"Processos",
+				"Riscos",
+				"Estratégias",
+				"Times"
+			],
+			"details": "regular",
+			"track": "Gestão",
+			"audience_level": "Iniciante avançado"
+		}
+	},
+	{
+		"room": "5",
+		"day": "3",
+		"hour": "15",
+		"minutes": "00",
+		"roomspan": 1,
+		"timespan": 4,
+		"session": {
+			"id": 1396,
+			"title": "No Retreat, No Surrender. Agile Retrospectives in Action!",
+			"authors": [
+				{
+					"name": "David Caicedo",
+					"gravatar_url": "https://gravatar.com/avatar/ee2218ae813e4c685165864fc56e1062.png?s=48&d=mm"
+				}
+			],
+			"session_type": "Mão na Massa",
+			"tags": [
+				"Coaching",
+				"Comprometimento",
+				"Melhoria contínua",
+				"Cultura",
+				"Times"
+			],
+			"details": "regular",
+			"audience_limit": 36,
+			"track": "Interesse Geral",
+			"audience_level": "Iniciante avançado"
+		}
+	},
+	{
+		"room": "1",
+		"day": "3",
+		"hour": "16",
+		"minutes": "00",
+		"roomspan": 1,
+		"timespan": 2,
+		"session": {
+			"id": 1398,
+			"title": "É mais fácil ter sucesso em uma empresa sem gerentes",
+			"authors": [
+				{
+					"name": "Giovanni Bassi",
+					"gravatar_url": "https://gravatar.com/avatar/a494c4460f4a55fffac5cd563c232cb9.png?s=48&d=mm"
+				},
+				{
+					"name": "victor Hugo Germano",
+					"gravatar_url": "https://gravatar.com/avatar/0af60e844d901dd0bb943541b357b192.png?s=48&d=mm"
+				}
+			],
+			"session_type": "Você está certo disso?",
+			"tags": [
+				"Negócios",
+				"Cultura",
+				"Evolução",
+				"Ideias",
+				"Motivação",
+				"Oportunidades",
+				"Processos",
+				"Estratégias"
+			],
+			"details": "regular",
+			"track": "Inovação e Empreendedorismo",
+			"audience_level": "Iniciante avançado"
+		}
+	},
+	{
+		"room": "3",
+		"day": "2",
+		"hour": "13",
+		"minutes": "00",
+		"roomspan": 1,
+		"timespan": 2,
+		"session": {
+			"id": 1400,
+			"title": "Contratação Pública de TI - a visão da contratante, da contratada e a agilidade",
+			"authors": [
+				{
+					"name": "Adriane Paula",
+					"gravatar_url": "https://gravatar.com/avatar/87d8185c30bd620a82076d2dd2da1821.png?s=48&d=mm"
+				},
+				{
+					"name": "Herbert Parente",
+					"gravatar_url": "https://gravatar.com/avatar/d96a1ae2fc20bcce6292101fde07bc9d.png?s=48&d=mm"
+				}
+			],
+			"session_type": "Duelo",
+			"tags": [
+				"Negócios",
+				"Relacionamento com clientes",
+				"Métricas",
+				"Restricões"
+			],
+			"details": "regular",
+			"track": "Interesse Geral",
+			"audience_level": "Iniciante avançado"
+		}
+	},
+	{
+		"room": "5",
+		"day": "2",
+		"hour": "12",
+		"minutes": "00",
+		"roomspan": 1,
+		"timespan": 4,
+		"session": {
+			"id": 1402,
+			"title": "Building Amazing Products! User Story Mapping in Practice.",
+			"authors": [
+				{
+					"name": "David Caicedo",
+					"gravatar_url": "https://gravatar.com/avatar/ee2218ae813e4c685165864fc56e1062.png?s=48&d=mm"
+				},
+				{
+					"name": "Juliano Ribeiro",
+					"gravatar_url": "https://gravatar.com/avatar/2d25be01b038d4a73d97c7f02b7dffe5.png?s=48&d=mm"
+				}
+			],
+			"session_type": "Mão na Massa",
+			"tags": [
+				"Design emergente",
+				"Planejamento",
+				"Processos",
+				"Estratégias"
+			],
+			"details": "regular",
+			"audience_limit": 36,
+			"track": "UX, Análise e Design de Produtos",
+			"audience_level": "Iniciante avançado"
+		}
+	},
+	{
+		"room": "1",
+		"day": "3",
+		"hour": "18",
+		"minutes": "30",
+		"roomspan": 1,
+		"timespan": 2,
+		"session": {
+			"id": 1403,
+			"title": "Agilidade não é para qualquer um.",
+			"authors": [
+				{
+					"name": "Dairton Bassi",
+					"gravatar_url": "https://gravatar.com/avatar/440ebe8af95b7d02dfbb77991c93f94d.png?s=48&d=mm"
+				},
+				{
+					"name": "Rafael Prikladnicki",
+					"gravatar_url": "https://gravatar.com/avatar/98944b0771d95550e4f1a01b71edeeaa.png?s=48&d=mm"
+				}
+			],
+			"session_type": "Duelo",
+			"tags": [
+				"Coaching",
+				"Cultura",
+				"Casos de Fracasso",
+				"Implantação",
+				"Aprendizagem",
+				"Casos de Sucesso"
+			],
+			"details": "regular",
+			"track": "Interesse Geral",
+			"audience_level": "Iniciante avançado"
+		}
+	}
 ]

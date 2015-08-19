@@ -1,0 +1,2106 @@
+{"sessions":
+	[{
+		"id": 1131,
+		"title": "Pare de falar de features e fale de resultados: Metas Ágeis com OKR (Objectives and Key Results)",
+		"authors": [
+			{
+				"name": "Felipe Castro",
+				"gravatar_url": "https://gravatar.com/avatar/e89399e2e0cc89ebdb91c61a32f69bd2.png?s=48&d=mm"
+			}
+		],
+		"prerequisites": "Conhecimento de Agile e Lean Startup/Customer Development",
+		"tags": [
+			"Negócios",
+			"Cultura",
+			"Evolução",
+			"Ideias",
+			"Métricas",
+			"Motivação",
+			"Planejamento",
+			"Processos",
+			"Estratégias",
+			"Times"
+		],
+		"session_type": "Palestra",
+		"audience_level": "Competente",
+		"track": "Gestão",
+		"audience_limit": null,
+		"summary": "Entregar tarefas ou features não é o bastante. Precisamos entregar resultados. \r\n\r\nA comunidade ágil e o próprio Manifesto Ágil precisam evoluir pois entregar software funcionando não é o bastante. Para isto, precisamos de um framework iterativo que permita conectar Agile e Lean com os objetivos da organização.\r\n\r\nAprenda a definir metas ágeis utilizando OKR (Objectives and Key Results), o framework adotado por Google, Twitter, LinkedIn e Dropbox entre outros. \r\n\r\nSaiba como OKR pode complementar Agile, Lean Startup e Customer Development ajudando a dar autonomia para o time, criar critérios de sucesso compartilhados, melhorar o relacionamento com a área de negócios e ampliar a cultura agile/lean nas empresas."
+	},
+	{
+		"id": 1138,
+		"title": "Agile em grandes organizações - Como escalar na prática !",
+		"authors": [
+			{
+				"name": "Ewerton Santos (Ton)",
+				"gravatar_url": "https://gravatar.com/avatar/b4ae62d0876b05818712dd6efc54379b.png?s=48&d=mm"
+			},
+			{
+				"name": "Manoel Pimentel Medeiros",
+				"gravatar_url": "https://gravatar.com/avatar/c9f3722f2b1b1bb215bfbdcb03d3e109.png?s=48&d=mm"
+			}
+		],
+		"prerequisites": "Conhecimento em práticas ágeis; interesse em gestão e planejamento tático e estratégico. Desejo em conhecer sobre gestão de programas e vontade em discutir o futuro do Agile.",
+		"tags": [
+			"Negócios",
+			"Melhoria contínua",
+			"Criação",
+			"Cultura",
+			"Evolução",
+			"Ideias",
+			"Oportunidades",
+			"Processos",
+			"Estratégias",
+			"Casos de Sucesso"
+		],
+		"session_type": "Palestra",
+		"audience_level": "Iniciante avançado",
+		"track": "Interesse Geral",
+		"audience_limit": null,
+		"summary": "O objetivo dessa palestra é socializar estratégias compiladas a partir de experiências de anos ajudando na transição/experimentação ágil em organizações que vão desde  startups com 3 pessoas até empresas com mais de 60 mil funcionários ao redor do mundo.  Tal compilação foi feita com base em dores e alegrias (fracassos e sucessos) inerentes à aventura de fazer o ágil ser vivido em empresas como bancos, telecoms, indústrias e empresas de TI em geral."
+	},
+	{
+		"id": 1139,
+		"title": "Experiencias de DevOps além da automação de infraestrutura",
+		"authors": [
+			{
+				"name": "Diego Pacheco",
+				"gravatar_url": "https://gravatar.com/avatar/fb8b94451149ab5842c8985936821d3f.png?s=48&d=mm"
+			},
+			{
+				"name": "cesar mesquita",
+				"gravatar_url": "https://gravatar.com/avatar/215715a1b559341017ed1c0504a35b10.png?s=48&d=mm"
+			}
+		],
+		"prerequisites": "Ter conhecimento em cultura ágil, trabalhar com desenvolvimento de software e/ou operação.",
+		"tags": [
+			"Automação",
+			"Negócios",
+			"Coaching",
+			"Deploy contínuo",
+			"Melhoria contínua",
+			"Integração contínua",
+			"Cultura",
+			"Aprendizagem",
+			"Código legado",
+			"Casos de Sucesso"
+		],
+		"session_type": "Palestra",
+		"audience_level": "Proficiente",
+		"track": "Desenvolvimento e Testes",
+		"audience_limit": null,
+		"summary": "O DevOps vem ganhando cada vez mais força no mundo de desenvolvimento – mas é bastante comum encontramos situações onde é erroneamente resumido à automação de infraestrutura e ao uso de ferramentas como Puppet. Na verdade, porém, para conseguir vivenciar DevOps e colher seus benefícios é preciso ir muito além de automatizar sua infraestrutura – por mais complexo que isso seja. Nesta palestra você vai ver:\r\n  * Experiencias de evolução da empresa: \r\n  * Experiencias de um projeto distribuido entre 8 paises com mais de 5 anos de projeto:\r\n  * De CMMI e ITIL para cultura de DevOps\r\n  * De gestão isolados para unificados.\r\n  * Práticas e principios de arquitetura para suportar operação e sistemas operados através de Orientação a Serviços.\r\n  * Deploys, incidentes e mudanças e Stress Testing."
+	},
+	{
+		"id": 1153,
+		"title": "Explorando um Mindset ágil para conquistar a alta gestão em ambientes não ágeis",
+		"authors": [
+			{
+				"name": "Fabio Cruz",
+				"gravatar_url": "https://gravatar.com/avatar/6621b6b998674904f5e46f73596ca230.png?s=48&d=mm"
+			}
+		],
+		"prerequisites": "Conhecimento básico sobre ágil e scrum",
+		"tags": [
+			"Coaching",
+			"Melhoria contínua",
+			"Cultura",
+			"Relacionamento com clientes",
+			"Estimativas",
+			"Casos de Fracasso",
+			"Motivação",
+			"Processos",
+			"Estratégias",
+			"Casos de Sucesso"
+		],
+		"session_type": "Palestra",
+		"audience_level": "Iniciante avançado",
+		"track": "Coaching, Ensino e Facilitação",
+		"audience_limit": null,
+		"summary": "Conhecer as técnicas, ferramentas, cerimônias e papéis envolvidos com a agilidade e  frameworks ágeis como o Scrum é fácil e ligeiramente rápido, a grande dificuldade está em compreender os seus valores corretamente e colocá-los em prática em uma organização culturalmente tradicional e não receptiva a mudança.\r\nEsta sessão busca apresentar um processo para explorar um Mindset ágil para conquistar as áreas de negócio e a média e alta gestão em ambientes perceptivelmente não ágeis, através de técnicas de \"reprogramação\" de Mindset. Contribuindo para isso o conteúdo da palestra trará exemplos de experiências anteriores tanto de casos de sucesso quanto em casos de fracasso na implantação do Scrum em organizações tradicionais e com estruturas pesadas e culturalmente contra mudanças."
+	},
+	{
+		"id": 1155,
+		"title": "Entrega Contínua na Infoglobo: gerando valor em 2 horas",
+		"authors": [
+			{
+				"name": "Samanta Souza",
+				"gravatar_url": "https://gravatar.com/avatar/d0e2beb1970140f2b36a8aa334c068a8.png?s=48&d=mm"
+			}
+		],
+		"prerequisites": "teste de software, agilidade, processo de desenvolvimento",
+		"tags": [
+			"Automação",
+			"Deploy contínuo",
+			"Melhoria contínua",
+			"Integração contínua",
+			"Técnicas"
+		],
+		"session_type": "Palestra",
+		"audience_level": "Iniciante avançado",
+		"track": "Desenvolvimento e Testes",
+		"audience_limit": null,
+		"summary": "Os últimos 6 anos na Infoglobo foram dedicados a tornar os projetos mais ágeis através de frameworks e metodologias como Scrum e Kanban. Desses 6 anos, dedicamos o último à  implementação de Entrega Contínua nos projetos de diferentes plataformas e tecnologias (TIBCO, Java, Grails, Escenic, Apache, Sorl, Varnish). Nessa palestra será apresentado o processo de Entrega Contínua implantado na Infoglobo, as ferramentas utilizadas (open source e algumas desenvolvidas por nós), desafios culturais e mudanças de paradigma que enfrentamos todos os dias nessa nova abordagem de entrega de software, onde conseguimos sair de um intervalo de 15 dias para 2 horas para colocar uma mudança em ambiente de produção."
+	},
+	{
+		"id": 1157,
+		"title": "3 ideias radicais para acelerar a sua entrega",
+		"authors": [
+			{
+				"name": "Lourenço Soares",
+				"gravatar_url": "https://gravatar.com/avatar/9fe58edd95506d3d65a6acf9b0b0ff76.png?s=48&d=mm"
+			}
+		],
+		"prerequisites": "Conhecimento e frustração com entrega ágil (provavelmente scrum)",
+		"tags": [
+			"Negócios",
+			"Comprometimento",
+			"Melhoria contínua",
+			"Criação",
+			"Cultura",
+			"Design emergente",
+			"Evolução",
+			"Ideias",
+			"Aprendizagem",
+			"Motivação"
+		],
+		"session_type": "Palestra",
+		"audience_level": "Iniciante avançado",
+		"track": "UX, Análise e Design de Produtos",
+		"audience_limit": null,
+		"summary": "Gerenciar projetos por funcionalidades é inerentemente ineficiente, pois assume que é possível elencar tudo que deve ser feito em um projeto antes de começar. Se errarmos, desperdiçamos. Mas se não fizermos assim, como faremos? Nessa palestra, Lourenço vai falar sobre Épicos (ou a ausência deles), desenvolvimento visando produção primeiro e estórias pequenas que podem ajudar."
+	},
+	{
+		"id": 1160,
+		"title": "Freire vs Wuestefeld: Refatorar ou não? Eis a questão!",
+		"authors": [
+			{
+				"name": "Klaus Wuestefeld",
+				"gravatar_url": "https://gravatar.com/avatar/4ca77433915aad7d20d3eea7d8e9cd5f.png?s=48&d=mm"
+			},
+			{
+				"name": "Alexandre Freire Kawakami",
+				"gravatar_url": "https://gravatar.com/avatar/54b9a028e87738853c0936a0fcc515e7.png?s=48&d=mm"
+			}
+		],
+		"prerequisites": "Dificuldade em trabalhar com sistemas legados. Dor gerindo dívida técnica. Vontade de escrever código limpo.",
+		"tags": [
+			"Melhoria contínua",
+			"Cultura",
+			"Evolução",
+			"Código legado",
+			"Motivação",
+			"Planejamento",
+			"Processos",
+			"Refatoração",
+			"Riscos",
+			"Times"
+		],
+		"session_type": "Duelo",
+		"audience_level": "Iniciante avançado",
+		"track": "Gestão",
+		"audience_limit": null,
+		"summary": "Devido ao acúmulo inevitável de complexidade, à medida que os projetos de software vão sendo desenvolvidos a produtividade da equipe cai e o tempo gasto corrigindo defeitos aumenta constantemente. \r\n\r\nPior ainda, o cliente final acaba ficando insatisfeito.\r\n\r\nDizem que refatorar sem dó é a maneira responsável de gerir dívida técnica, e que código limpo tem menos defeitos, que são corrigidos com maior velocidade, além de facilitar adicionar novas funcionalidades.\r\n\r\nTentar convencer os gestores a autorizar a equipe a refatorar o código, a ativamente trabalhar na simplificação da arquitetura é uma das práticas ágeis para combater o problema.\r\n\r\nAlexandre Freire vai argumentar a favor e Klaus Wuestefeld vai argumentar contra. E você, que lado vai escolher?"
+	},
+	{
+		"id": 1161,
+		"title": "Um guia prático sobre como encontrar bons colegas",
+		"authors": [
+			{
+				"name": "Vinicius Gomes",
+				"gravatar_url": "https://gravatar.com/avatar/1e629ef75f1fdd2cdbc130bc136077fd.png?s=48&d=mm"
+			}
+		],
+		"prerequisites": "Conhecimento sobre métodos ágeis; Experiência com práticas de desenvolvimento ágil.",
+		"tags": [
+			"Coaching",
+			"Processos",
+			"Startup",
+			"Estratégias",
+			"Técnicas"
+		],
+		"session_type": "Palestra",
+		"audience_level": "Iniciante avançado",
+		"track": "Inovação e Empreendedorismo",
+		"audience_limit": null,
+		"summary": "Tão importante quanto escolher um bom lugar para trabalhar, é escolher bons colegas. E para que isso seja possível, é essencial que você saiba como entrevistar efetivamente e descobrir o melhor de cada candidato. Nesta palestra, apresentamos um guia prático sobre como entrevistar com objetividade e evitar erros comuns a fim de extrair o máximo de evidências sobre os conhecimentos, habilidades e capacidades dos seus candidatos a desenvolvedor."
+	},
+	{
+		"id": 1162,
+		"title": "Criando Organizações Pragmáticas que Sobrevivem e Prosperam na Era da Disrupção Continua",
+		"authors": [
+			{
+				"name": "Juan Bernabó",
+				"gravatar_url": "https://gravatar.com/avatar/2be3fc280bd42e8eaf42c946461be40a.png?s=48&d=mm"
+			}
+		],
+		"prerequisites": "[TBD]",
+		"tags": [
+			"Negócios",
+			"Coaching",
+			"Melhoria contínua",
+			"Cultura",
+			"Design emergente",
+			"Evolução",
+			"Implantação",
+			"Aprendizagem",
+			"Processos",
+			"Restricões"
+		],
+		"session_type": "Palestra",
+		"audience_level": "Iniciante avançado",
+		"track": "Interesse Geral",
+		"audience_limit": null,
+		"summary": "Quando acontecem mudanças drásticas e repentinas no meio ambiente, organismos vivos começam a experimentar o estresse, pois, estavam fortemente adaptados ao contexto anterior. Aqueles organismos que tem maior capacidade de adaptação, são aqueles que sobrevivem e prosperam neste novo ambiente.\r\n\r\nO ambiente econômico tem entrado no que chamamos da Era da Disrupção Continua, onde a velocidade e a profundidade das mudanças é alta, e não parece que elas se estabilizem e convergem no curto prazo, onde mudanças geram mais mudanças. \r\n\r\nPragmatic Management é uma abordagem para ajudar organizações a quebrar as restrições que as impedem de se adaptar continuamente para obter mais valor com menos calor."
+	},
+	{
+		"id": 1164,
+		"title": "Growth hacking: como utilizar o review das stores para melhorar seu app.",
+		"authors": [
+			{
+				"name": "Rafael Auday",
+				"gravatar_url": "https://gravatar.com/avatar/343b727941847ba4bc3502dbd7067f36.png?s=48&d=mm"
+			}
+		],
+		"prerequisites": "Conhecimento das App Stores e assuntos relacionados ao marketing mobile.",
+		"tags": [
+			"Negócios",
+			"Coaching",
+			"Comprometimento",
+			"Melhoria contínua",
+			"Cultura",
+			"Relacionamento com clientes",
+			"Ideias",
+			"Métricas",
+			"Estratégias",
+			"Experiência do usuário"
+		],
+		"session_type": "Palestra",
+		"audience_level": "Iniciante avançado",
+		"track": "UX, Análise e Design de Produtos",
+		"audience_limit": null,
+		"summary": "Você sabia que existe uma poderosa ferramenta nas stores que você pode (e deve) utilizar para otimizar o seu app? São as avaliações dos usuários. Nesta palestra, vamos ver como podemos utilizar as avaliações das Stores como ferramenta para melhorar um app e ganhar mais usuários. Se você é empreendedor, PO, gerente de produtos ou desenvolvedor e trabalha com mobile, vale a pena conferir."
+	},
+	{
+		"id": 1172,
+		"title": "Histórias de Usuário - Por que e como escrever requisitos de forma ágil?",
+		"authors": [
+			{
+				"name": "Rafael Helm",
+				"gravatar_url": "https://gravatar.com/avatar/15cf41defe92af8185045329cd934565.png?s=48&d=mm"
+			},
+			{
+				"name": "Daniel Wildt",
+				"gravatar_url": "https://gravatar.com/avatar/cf9ffac42374a74ccde477beccb9009b.png?s=48&d=mm"
+			}
+		],
+		"prerequisites": "Um conhecimento pelo menos em alto nível do Scrum de modo que termos como backlog e sprint não sejam problema.",
+		"tags": [
+			"Melhoria contínua",
+			"Cultura",
+			"Aprendizagem",
+			"Requisitos",
+			"Técnicas",
+			"Experiência do usuário"
+		],
+		"session_type": "Palestra",
+		"audience_level": "Iniciante avançado",
+		"track": "UX, Análise e Design de Produtos",
+		"audience_limit": null,
+		"summary": "Você já percebeu que o desenvolvimento de software começa muito antes da escrita das primeiras linhas de código, e que uma documentação ruim vai gerar um software ruim?\r\n\r\nO objetivo da palestra \"Histórias de Usuário - Por que e como escrever requisitos de forma ágil?\", é demonstrar uma forma mais leve, mas ao mesmo poderosa, de especificar requisitos com toda a informação necessária para que o time possa desenvolver software com qualidade e sem mal entendidos.\r\nDurante a palestra serão demonstradas formas de especificar e estimar requisitos de uma maneira mais produtiva, assertiva e até divertida.\r\n\r\nDaniel e Rafael possuem grande experiência sobre o assunto, e querem compartilhar isto com o público."
+	},
+	{
+		"id": 1177,
+		"title": "Criando funcionalidades que realmente importam",
+		"authors": [
+			{
+				"name": "Marcell Almeida",
+				"gravatar_url": "https://gravatar.com/avatar/6134060ee94d87a72389dd969643c0df.png?s=48&d=mm"
+			}
+		],
+		"prerequisites": "Ter trabalhado com ágil. Conhecimento básico sobre o desenvolvimento iterativo e incremental. Conhecimento básico sobre gestão de produtos. Trabalhar em Startups é um plus mas não requisito.",
+		"tags": [
+			"Negócios",
+			"Criação",
+			"Cultura",
+			"Relacionamento com clientes",
+			"Métricas",
+			"Oportunidades",
+			"Planejamento",
+			"Riscos",
+			"Startup"
+		],
+		"session_type": "Palestra",
+		"audience_level": "Iniciante avançado",
+		"track": "UX, Análise e Design de Produtos",
+		"audience_limit": null,
+		"summary": "Não existe benefício em ter um produto complicado. Por isso é necessário ter princípios antes de sair construindo funcionalidades. Afinal, ninguém quer ter um software Frankenstein.\r\n\r\na) Como dar atenção para as funcionalidades que realmente importam? Como criar algo que as pessoas vão usar todas as horas?\r\n\r\nb) Você tem criado funcionalidades que apenas algumas pessoas vão usar em momentos bem específicos?\r\n\r\nc) O que você tem feito com funcionalidades \"elefantes brancos\"? Aquelas que não são ou nunca foram usadas.\r\n\r\nd) Quanto você desperdiça ao dar manutenção para funcionalidades pouco utilizadas?\r\n\r\ne) Você tem customizado funcionalidades para poucas pessoas usarem toda a hora? Criar isso tem tomado muito tempo da sua equipe?"
+	},
+	{
+		"id": 1181,
+		"title": "Tudo que você sempre quis saber sobre a sua carreira, mas tem vergonha de perguntar",
+		"authors": [
+			{
+				"name": "Fabricio Nogueira Buzeto",
+				"gravatar_url": "https://gravatar.com/avatar/5df91a57f09fdc3a802bf3e062669961.png?s=48&d=mm"
+			},
+			{
+				"name": "Rafael Miranda",
+				"gravatar_url": "https://gravatar.com/avatar/68cf13068c4a7cba861d6c4997cf5794.png?s=48&d=mm"
+			}
+		],
+		"prerequisites": "Estar na área de TI",
+		"tags": [
+			"Comprometimento",
+			"Melhoria contínua",
+			"Criação",
+			"Cultura",
+			"Evolução"
+		],
+		"session_type": "Você está certo disso?",
+		"audience_level": "Novato",
+		"track": "Interesse Geral",
+		"audience_limit": null,
+		"summary": "Está perdido na sua carreira? Quem sabe podemos te ajudar a encontrar um caminho.\r\n\r\nVocê acredita que só existe um caminho a seguir? Venha ver que as possibilidades para você são infinitas.\r\n\r\nTem dúvidas se pode atuar bem em projetos, times ou organizações ágeis? Participe de um fishbowl e descubra se outras pessoas compartilham de suas dúvidas.\r\n\r\nAgora se você acha que isso tudo não faz sentido, venha e engrosse o caldo na nossa discussão"
+	},
+	{
+		"id": 1184,
+		"title": "Você está matando a sua confiança criativa?",
+		"authors": [
+			{
+				"name": "Priscila Machado",
+				"gravatar_url": "https://gravatar.com/avatar/7268aaf1dc317b6c2ef78cac9fca24a3.png?s=48&d=mm"
+			}
+		],
+		"prerequisites": "Nenhum conhecimento prévio é necessário, a conversa apenas fará introdução de tópicos relacionados a design thinking e processo de criação.",
+		"tags": [
+			"Negócios",
+			"Comprometimento",
+			"Criação",
+			"Cultura",
+			"Evolução",
+			"Ideias",
+			"Aprendizagem",
+			"Motivação",
+			"Oportunidades",
+			"Startup"
+		],
+		"session_type": "Relatos de Experiência",
+		"audience_level": "Novato",
+		"track": "Inovação e Empreendedorismo",
+		"audience_limit": null,
+		"summary": "Imagine esta cena: você está começando a dormir e de repente uma idéia lhe vem a mente,e você acha que poderia ser uma daquelas \"não tão ruins\".\r\n\r\nMas você não tem tanta certeza. Afinal, você não é daquele tipo de pessoa criativa.\r\n\r\nE será que as pessoas vão gostar da idéia? \r\nEntão, mais uma vez, você deixa sua mente cheia de dúvidas matar sua motivação.\r\n\r\nVocê já teve esse sentimento?\r\nEstá na hora de acreditar mais em você e tirar as suas idéias da gaveta.\r\n\r\nPor meio desta conversa eu quero contar como eu encontrei a minha confiança criativia com o Design Thinking e agora consigo realizar os meus projetos e espero auxiliar outras pessoas com seus projetos também."
+	},
+	{
+		"id": 1186,
+		"title": "Jenga Play: Um jogo divertido para aprender sobre agilidade",
+		"authors": [
+			{
+				"name": "Alejandro Olchik",
+				"gravatar_url": "https://gravatar.com/avatar/3c08ecf99834afc21177064a395d2e4b.png?s=48&d=mm"
+			}
+		],
+		"prerequisites": "Nenhum pré-requisito se faz necessário para participar desta sessão.",
+		"tags": [
+			"Design emergente",
+			"Aprendizagem",
+			"Motivação"
+		],
+		"session_type": "Mão na Massa",
+		"audience_level": "Novato",
+		"track": "Coaching, Ensino e Facilitação",
+		"audience_limit": 45,
+		"summary": "Faz sentido uma postura prescritiva para educar sobre a importância de fugir das prescrições? Como engajar as pessoas no processo de aprendizado? O Jenga Play é um jogo divertido, simples e ilustrativo, que possibilita uma reflexão sobre o impacto e motivação por trás de diversas práticas ágeis. \r\n\r\nEsta sessão, procura introduzir conceitos básicos de agilidade através do uso de exercício vivencial e imersivo, do aprendizado colaborativo e do engajamento a partir de técnicas de gamificação. Além de servir como um instrumento para a introdução de princípios fundamentais dos métodos ágeis, esta sessão possibilita uma reflexão sobre a adequação deste tipo de exercício e sua aplicabilidade no aprendizado de novos conceitos."
+	},
+	{
+		"id": 1188,
+		"title": "Lean Branding - Gestão Ágil da Marca",
+		"authors": [
+			{
+				"name": "Liz Durman",
+				"gravatar_url": "https://gravatar.com/avatar/4a61da9b88d837d1903bf2ac9832471e.png?s=48&d=mm"
+			}
+		],
+		"prerequisites": "Consciência da importância da marca para os negócios.",
+		"tags": [
+			"Negócios",
+			"Melhoria contínua",
+			"Cultura",
+			"Relacionamento com clientes",
+			"Estratégias",
+			"Experiência do usuário"
+		],
+		"session_type": "Palestra",
+		"audience_level": "Novato",
+		"track": "Inovação e Empreendedorismo",
+		"audience_limit": null,
+		"summary": "O processo “build-measure-learn” do Lean Startup ensina que produtos nunca estão verdadeiramente concluídos e assim, também suas marcas devem evoluir. Isso significa ‘colocar a teste’ as premissas e usar o aprendizado para adaptar-se e atender as constantes mudanças nas necessidades e desejos dos consumidores. Mais fácil dito, que feito, Lean Branding é um guia ‘faça você mesmo’ de gestão da marca para empresas ágeis."
+	},
+	{
+		"id": 1190,
+		"title": "Agilidade de casa: como é fazer home-office e ser ágil",
+		"authors": [
+			{
+				"name": "Luiz Fernando Oliveira Corte Real",
+				"gravatar_url": "https://gravatar.com/avatar/42afac666dba99d938d77b4d865b4e61.png?s=48&d=mm"
+			}
+		],
+		"prerequisites": "Ter alguma experiência com métodos ágeis",
+		"tags": [
+			"Processos",
+			"Times",
+			"Técnicas"
+		],
+		"session_type": "Relatos de Experiência",
+		"audience_level": "Iniciante avançado",
+		"track": "Interesse Geral",
+		"audience_limit": null,
+		"summary": "Trabalhar distante de sua equipe traz benefícios e desafios únicos e ainda pouco explorados. Alguns valores ágeis passam a ser ainda mais importantes nessa forma de trabalho, e algumas práticas precisam ser revistas. Neste relato, vou apresentar alguns aspectos que pude perceber na minha mudança recente para um trabalho deste tipo, como algumas dificuldades são contornadas e como outras ainda precisam ser melhor exploradas, bem como vantagens dessa forma de trabalho."
+	},
+	{
+		"id": 1191,
+		"title": "Como e por que usar micro-serviços no globoesporte.com?",
+		"authors": [
+			{
+				"name": "Rômulo Jales",
+				"gravatar_url": "https://gravatar.com/avatar/37c28a7863f2206941a453d54c45123e.png?s=48&d=mm"
+			}
+		],
+		"prerequisites": "desenvolvimento, noções de arquitetura",
+		"tags": [
+			"Negócios",
+			"Deploy contínuo",
+			"Integração contínua",
+			"Cultura",
+			"Estimativas",
+			"Evolução",
+			"Implantação",
+			"Refatoração",
+			"Estratégias",
+			"Testes"
+		],
+		"session_type": "Palestra",
+		"audience_level": "Iniciante avançado",
+		"track": "Desenvolvimento e Testes",
+		"audience_limit": null,
+		"summary": "Por que decidimos começar a usar micro-serviços no portal globoesporte.com? Quais as preocupações iniciais? Quais foram os desafios enfrentados? Quando usar um micro-serviço? Quais os resultados para o client e para o processo de desenvolvimento em geral?\r\nSão perguntas que serão respondidas na palestra com a experiência do desenvolvimento para o pan-americano 2015."
+	},
+	{
+		"id": 1195,
+		"title": "Liberdade, disciplina e ética. Resgate filosófico aos princípios de agilidade.",
+		"authors": [
+			{
+				"name": "Larissa Pontes Andrade",
+				"gravatar_url": "https://gravatar.com/avatar/c3149948d57675fcd16bc521d6b8f9a9.png?s=48&d=mm"
+			}
+		],
+		"prerequisites": "Experiência com liderança",
+		"tags": [
+			"Negócios",
+			"Coaching",
+			"Comprometimento",
+			"Cultura",
+			"Estimativas",
+			"Implantação",
+			"Aprendizagem",
+			"Estratégias",
+			"Casos de Sucesso",
+			"Times"
+		],
+		"session_type": "Palestra",
+		"audience_level": "Competente",
+		"track": "Gestão",
+		"audience_limit": null,
+		"summary": "Como os códigos de conduta pessoais e sociais, descritos há milênios de anos, podem auxiliar na aplicação de princípios ágeis para gestão. O que grandes Mestres, Filósofos e Sábios de todos os tempos, que dedicaram suas vidas ao ensinamento de valores humanos, tentaram nos transmitir? E o que isso pode refletir em nossos resultados práticos, especialmente na liderança de times? A experiência da cultura ocidental, regada a imediatismo, superficialidade e hipocrisia pode nos ter abdicado de uma profunda e rica experiência de desenvolvimento superior. Muito fala-se em direito, pouco se fala em deveres...Valores da sociedade encontram-se cada vez mais distorcidos. Como equilibrar liberdade e resultados? Proponho uma revisão aos princípios do manifesto ágil sob a ótica de uma filosofia milenar."
+	},
+	{
+		"id": 1198,
+		"title": "Células Ágeis de produto - 1 ano depois",
+		"authors": [
+			{
+				"name": "Alex Chastinet Duarte de Souza",
+				"gravatar_url": "https://gravatar.com/avatar/93a78ea8b6d111ba4904b28c75d902c6.png?s=48&d=mm"
+			},
+			{
+				"name": "Pierre Sandora",
+				"gravatar_url": "https://gravatar.com/avatar/1a553f9efb916956d4014e930d78b42c.png?s=48&d=mm"
+			}
+		],
+		"prerequisites": "Entedimento básico dos conceitos do Scrume e experiência prática trabalhando com Agilidade são suficientes para aproveitar a apresentação",
+		"tags": [
+			"Comprometimento",
+			"Cultura",
+			"Evolução",
+			"Implantação",
+			"Processos",
+			"Estratégias",
+			"Casos de Sucesso",
+			"Times"
+		],
+		"session_type": "Palestra",
+		"audience_level": "Iniciante avançado",
+		"track": "Gestão",
+		"audience_limit": null,
+		"summary": "Um ano atrás a Dafiti deu importante passo que mudaria completamente a forma como TI e as áreas de negócio passariam a se relacionar. Tendo que enfrentar o desafio de manter entregas contínuas, alta qualidade de software e incrementar a geração de valor em um ambiente de crescimento rápido, o time da Dafiti desenvolveu e implementou um modelo de trabalho que pudesse suportar esta realidade, unindo Marketing, TI e representantes das áreas de negócio em um mesma unidade de trabalho. Inspirado pelos valores e práticas dos métodos ágeis, Lean Startup e iniciativas externas, foi criado o que chamamos de \"Células Ágeis de Produto\".\r\n\r\nNesta apresentação, discutiremos os principais desafios enfrentados para implantação, os benefícios, como estamos e onde queremos chegar."
+	},
+	{
+		"id": 1200,
+		"title": "Uma pergunta para melhorar o seu legado",
+		"authors": [
+			{
+				"name": "Fabricio Nogueira Buzeto",
+				"gravatar_url": "https://gravatar.com/avatar/5df91a57f09fdc3a802bf3e062669961.png?s=48&d=mm"
+			}
+		],
+		"prerequisites": "Já ter trabalhado, ou estar trabalhando, em algum software legado",
+		"tags": [
+			"Melhoria contínua",
+			"Cultura",
+			"Relacionamento com clientes",
+			"Design emergente",
+			"Evolução",
+			"Implantação",
+			"Aprendizagem",
+			"Código legado",
+			"Motivação",
+			"Times"
+		],
+		"session_type": "Palestra",
+		"audience_level": "Iniciante avançado",
+		"track": "Desenvolvimento e Testes",
+		"audience_limit": null,
+		"summary": "Trabalhar com tecnologias de ponta, passeando por campinas verdejantes é o desejo de todo desenvolvedor. Porém, nem sempre isto é possível. Na maior parte das vezes nos vemos trabalhando em cima de bases de código deixados por outros, ou mesmo deixando o nosso código para que outros continuem o serviço. Nessa conversa mostro como ler a história de um sistema e entender como o legado (se e de outros) pode ser tanto prazeroso como rentável a seus clientes. E para isso, basta você se fazer apenas uma pergunta."
+	},
+	{
+		"id": 1205,
+		"title": "Desenvolvimento Ágil Dirigido a Funcionalidades",
+		"authors": [
+			{
+				"name": "Jorge Bublitz",
+				"gravatar_url": "https://gravatar.com/avatar/7e849871ba3511cd44dbd0d692f86d44.png?s=48&d=mm"
+			}
+		],
+		"prerequisites": "Não há. Aberta a todos que queiram conhecer um pouco mais da FDD",
+		"tags": [
+			"Coaching",
+			"Cultura",
+			"Aprendizagem",
+			"Oportunidades",
+			"Planejamento",
+			"Processos",
+			"Habilidade",
+			"Estratégias",
+			"Casos de Sucesso",
+			"Técnicas"
+		],
+		"session_type": "Mão na Massa",
+		"audience_level": "Novato",
+		"track": "Interesse Geral",
+		"audience_limit": 25,
+		"summary": "Ensinar o processo e as práticas da metodologia ágil de desenvolvimento de software FDD – Feature-Driven Development (Desenvolvimento Dirigido a Funcionalidades).\r\nA FDD inicia com a criação de um modelo de objetos do domínio do problema, em colaboração com os especialistas no domínio. Usando a informação vinda da atividade de modelagem e de quaisquer outras atividades de coleta de requisitos que já possam ter ocorrido, os desenvolvedores prosseguem para a criação da lista de funcionalidades. A seguir, um plano primordial é elaborado e atribuem-se responsabilidades. Então, equipes pequenas e formadas dinamicamente desenvolvem as funcionalidades, realizando repetidamente iterações de projeto (design) e construção, que duram não mais do que uma ou duas semanas."
+	},
+	{
+		"id": 1207,
+		"title": "Implantando Agile no Governo em projetos de demandas cruzadas e vários demandantes",
+		"authors": [
+			{
+				"name": "Herbert Parente",
+				"gravatar_url": "https://gravatar.com/avatar/d96a1ae2fc20bcce6292101fde07bc9d.png?s=48&d=mm"
+			}
+		],
+		"prerequisites": "Entender bem os conceitos e a filosofia dos métodos ágeis",
+		"tags": [
+			"Negócios",
+			"Coaching",
+			"Melhoria contínua",
+			"Cultura",
+			"Relacionamento com clientes",
+			"Motivação",
+			"Planejamento",
+			"Processos",
+			"Casos de Sucesso",
+			"Técnicas"
+		],
+		"session_type": "Palestra",
+		"audience_level": "Iniciante avançado",
+		"track": "Gestão",
+		"audience_limit": null,
+		"summary": "Implantar métodos ágeis em projeto de grande escala em empresa conservadora é um desafio. Transformar um projeto do Governo - em produção há três anos, instalado em todo o País, baseado no RUP,  apenas de correção de defeitos, com demandas cruzadas e vários demandantes de alta influência política - em Ágil é (ou foi) uma missão árdua, mas motivante.\r\n\r\nComo gerir múltiplas demandas (e cruzadas) atendendo a todos?\r\nComo conseguir tempo, diante de tanto estoque de trabalho, para remover o débito técnico?\r\nQue métricas usar além do WIP e do Leadtime? \r\nPor onde começar?\r\n\r\nEsta palestra visa demostrar como introduzimos a cultura ágil (técnicas,  ferramentas e lições aprendidas) nesse grande projeto governamental do Poder Judiciário."
+	},
+	{
+		"id": 1208,
+		"title": "Plano de carreira, isso funciona ? Me consegue uma bússola por favor.",
+		"authors": [
+			{
+				"name": "Jeferson Machado",
+				"gravatar_url": "https://gravatar.com/avatar/b8575ea52dd067f199a1692e3f74a0b7.png?s=48&d=mm"
+			}
+		],
+		"prerequisites": "Conhecimentos básicos sobre carreira, gestão, coaching",
+		"tags": [
+			"Negócios",
+			"Coaching",
+			"Cultura",
+			"Evolução",
+			"Motivação",
+			"Oportunidades",
+			"Planejamento",
+			"Processos",
+			"Times",
+			"Técnicas"
+		],
+		"session_type": "Palestra",
+		"audience_level": "Iniciante avançado",
+		"track": "Coaching, Ensino e Facilitação",
+		"audience_limit": null,
+		"summary": "Muitas pessoas quando são contratadas nas empresas, entram totalmente motivadas querendo fazer o melhor por aquela empresa, mas muitas vezes, no decorrer do tempo, por não receber o acompanhamento adequado, acabam perdendo toda essa motivação e acabam fazendo um trabalho mediano ou mudando-se para outra empresa. \r\n\r\nNesse palestra, irei falar como o plano de carreira, plano de desenvolvimento, não importa o nome, irei falar como é importante se ter um norte para a carreira das pessoas e como fazer isso com objetividade e clareza."
+	},
+	{
+		"id": 1209,
+		"title": "Agilidade com Pontos de Função é um paradoxo?",
+		"authors": [
+			{
+				"name": "Eduardo Meira Peres",
+				"gravatar_url": "https://gravatar.com/avatar/abfc4c12287717e1de7b407fab2cdeee.png?s=48&d=mm"
+			}
+		],
+		"prerequisites": "Planejamento de releases, estimativas.",
+		"tags": [
+			"Negócios",
+			"Relacionamento com clientes",
+			"Estimativas",
+			"Métricas",
+			"Planejamento",
+			"Processos",
+			"Restricões",
+			"Estratégias",
+			"Casos de Sucesso",
+			"Técnicas"
+		],
+		"session_type": "Você está certo disso?",
+		"audience_level": "Iniciante avançado",
+		"track": "Gestão",
+		"audience_limit": null,
+		"summary": "Existem contextos, como nas contratações do Serviço Público ou de governança restritiva, em que técnicas como Pontos de Função podem garantir a sustentabilidade sem ferir a agilidade?\r\n\r\nReflexão sobre o uso de técnicas paramétricas de estimativa em contratos ágeis a partir da observação de um processo de fábrica de software no qual  já foram realizados mais do que 20 projetos em mais de 100.000 horas de trabalho, em diferentes clientes. \r\n\r\nNo processo apresentado a técnica de Pontos de Função é utilizada para controle do projeto a nível contratual, ficando a cargo de cada time do projeto estabelecer sua forma de trabalho no planejamento das releases e iterações. A sustentabilidade é encontrada pela necessária dissociação entre as métricas em cada um destes níveis."
+	},
+	{
+		"id": 1210,
+		"title": "O que faz um Gerente de Produtos?",
+		"authors": [
+			{
+				"name": "Dov Bigio",
+				"gravatar_url": "https://gravatar.com/avatar/531432a168f2fbbaf11ce7c3f0ecf627.png?s=48&d=mm"
+			}
+		],
+		"prerequisites": "Curiosidade sobre o que leva um PO a priorizar o que ele prioriza",
+		"tags": [
+			"Negócios",
+			"Criação",
+			"Relacionamento com clientes",
+			"Planejamento",
+			"Requisitos",
+			"Startup",
+			"Estratégias",
+			"Times",
+			"Experiência do usuário"
+		],
+		"session_type": "Palestra",
+		"audience_level": "Novato",
+		"track": "UX, Análise e Design de Produtos",
+		"audience_limit": null,
+		"summary": "As metodologias ágeis definem o Product Owner por suas responsabilidade: basicamente, definir o backlog, priorizar, tirar as dúvidas do time sempre que elas surgirem, representar o cliente o time e vice-versa.\r\n\r\nNo desenvolvimento de um produto de software, cujo público-alvo são diversos clientes, não há um cliente de fato que define o que quer. É alguém, de dentro, que define o que deve ser feito. Numa startup, geralmente o CEO faz este papel; numa empresa um pouco maior existe a figura do Gerente de Produtos. \r\n\r\nNesta apresentação vou transmitir dicas e boas práticas de como o Gerente de Produtos deve atuar para priorizar de forma inteligente o que deve ser implementado para seu produto seja um produto de sucesso."
+	},
+	{
+		"id": 1213,
+		"title": "Abraçando a mudança com código",
+		"authors": [
+			{
+				"name": "Marcos Brizeno",
+				"gravatar_url": "https://gravatar.com/avatar/e2cad7c8924667b0c0da2746da3db2e3.png?s=48&d=mm"
+			}
+		],
+		"prerequisites": "programação orientada a objetos; conhecimento básico de ruby;",
+		"tags": [
+			"Design emergente",
+			"Aprendizagem",
+			"Padrões",
+			"Refatoração",
+			"Test Driven Design"
+		],
+		"session_type": "Mão na Massa",
+		"audience_level": "Iniciante avançado",
+		"track": "Desenvolvimento e Testes",
+		"audience_limit": 25,
+		"summary": "Abraçar mudanças está no coração do desenvolvimento ágil, sendo um dos princípios descritos no manifesto: \"Responder a mudanças mais que seguir um plano\". No entanto, apesar de toda a preparação que o projeto pode ter, se o seu código não estiver realmente aberto para mudanças, você está em sérios problemas!\r\nDurante esta sessão vamos utilizar exemplos de código em ruby já construído e vamos propor uma extensão para cada um dos problemas. Como você deve estar imaginando, o código utilizado não vai estar exatamente aberto para mudanças, mas não se preocupe, a gente refatora :D\r\nAo pensar em maneiras de refatorar o código, vamos ter a oportunidade de explorar na prática princípios de orientação a objetos e técnicas de refatoração. Vamos abraçar a mudança com o nosso código!"
+	},
+	{
+		"id": 1214,
+		"title": "Robotium+ Cucumber+ Gradle, misture com Spoon e execute testes em vários dispositivos mobile.",
+		"authors": [
+			{
+				"name": "João Clineu Lima da Silva Junior",
+				"gravatar_url": "https://gravatar.com/avatar/1a51e1938e892b270beb43690ea89fe8.png?s=48&d=mm"
+			}
+		],
+		"prerequisites": "Conhecimento básico em automação de teste e agilidade",
+		"tags": [
+			"Automação",
+			"Ideias",
+			"Estratégias",
+			"Casos de Sucesso",
+			"Testes"
+		],
+		"session_type": "Relatos de Experiência",
+		"audience_level": "Iniciante avançado",
+		"track": "Desenvolvimento e Testes",
+		"audience_limit": null,
+		"summary": "Sabemos que a automação já é algo que está sendo bem procurada, em muitos lugares já está bem evoluída. Mas em um contexto mobile, o desafio ainda permanece, devido a quantidade de dispositivos existentes no mercado, principalmente quando se trata de desenvolvimento Android. Juntando algumas ferramentas como Robotium, Gradle, Cucumber e Spoon, automatizar testes Android está deixando de ser um desafio. Essa experiência foi feita em projetos aqui em Manaus em um instituto de Pesquisa e Desenvolvimento."
+	},
+	{
+		"id": 1215,
+		"title": "Getting the right things done: a design think approach for product development.",
+		"authors": [
+			{
+				"name": "Flavio Alves",
+				"gravatar_url": "https://gravatar.com/avatar/f1dc9a47977c743444748d0135342a2e.png?s=48&d=mm"
+			}
+		],
+		"prerequisites": "Conhecimento sobre processos e metodologias relacionados ao desenvolvimento de software e produtos.",
+		"tags": [
+			"Criação",
+			"Processos",
+			"Startup",
+			"Estratégias",
+			"Técnicas",
+			"Experiência do usuário",
+			"Visualização"
+		],
+		"session_type": "Palestra",
+		"audience_level": "Iniciante avançado",
+		"track": "UX, Análise e Design de Produtos",
+		"audience_limit": null,
+		"summary": "A palestra visa desmistificar o design thinking oferecendo um overview sobre o todo o processo criativo e operacional desse modelo. Vamos apresentar um possível fluxo de trabalho e um conjunto de ferramentas essenciais para auxiliar a equipe a entender ao máximo as necessidades do cliente e chegar a uma solução que seja viável financeiramente, tecnicamente e que realmente atenda o cliente."
+	},
+	{
+		"id": 1218,
+		"title": "Escalando ágil: 50 times e 150% de crescimento usando Lean Product Management, OKRs e Scrum",
+		"authors": [
+			{
+				"name": "Fernando de la Riva",
+				"gravatar_url": "https://gravatar.com/avatar/311e0e158fbc8e5feb27c40c56a18de1.png?s=48&d=mm"
+			}
+		],
+		"prerequisites": "Conhecimento sobre métodos ágeis.",
+		"tags": [
+			"Negócios",
+			"Cultura",
+			"Estimativas",
+			"Aprendizagem",
+			"Métricas",
+			"Estratégias",
+			"Casos de Sucesso",
+			"Times",
+			"Técnicas"
+		],
+		"session_type": "Palestra",
+		"audience_level": "Proficiente",
+		"track": "Inovação e Empreendedorismo",
+		"audience_limit": null,
+		"summary": "O Manifesto Ágil trouxe princípios que ajudaram muito a abordar o problema de desenvolver software de forma correta, mas só nos últimos anos o movimento foi abraçado com interesse pelo Brasil. Hoje, esse movimento encontra desafios mais complexos, como a implantação para mais de 50 times (350 pessoas). Nesta palestra, vamos abordar como tentamos resolver esse problema na Concrete Solutions, que cresceu cerca de 150% no último ano, usando scaling ágil (Nexus + Spotify), Lean Product Management e Objectives and Key Results (OKRs)."
+	},
+	{
+		"id": 1227,
+		"title": "Testando na nuvem a UI e o JavaScript de sua aplicação",
+		"authors": [
+			{
+				"name": "Stefan Teixeira",
+				"gravatar_url": "https://gravatar.com/avatar/4166f9c7981de050a615617a623d19f7.png?s=48&d=mm"
+			}
+		],
+		"prerequisites": "Noções de desenvolvimento de software, noções básicas de testes automatizados",
+		"tags": [
+			"Automação",
+			"Integração contínua",
+			"Testes"
+		],
+		"session_type": "Palestra",
+		"audience_level": "Competente",
+		"track": "Desenvolvimento e Testes",
+		"audience_limit": null,
+		"summary": "Com o aumento do número de diferentes dispositivos, versões de browsers e de sistemas operacionais, testar aplicações web de forma a garantir compatibilidade entre diversos ambientes se torna, cada vez mais, um desafio.\r\nNesta sessão, vamos mostrar como testar a UI e o JavaScript de sua aplicação através de serviços na nuvem, como o SauceLabs e o BrowserStack. \r\nVamos comparar os serviços e mostrar exemplos de testes de UI (com Selenium WebDriver) e testes de unidade de JavaScript com Karma, rodando em múltiplos ambientes."
+	},
+	{
+		"id": 1229,
+		"title": "Em defesa da liberdade como pré-requisito para a agilidade",
+		"authors": [
+			{
+				"name": "Rodrigo Alves",
+				"gravatar_url": "https://gravatar.com/avatar/8459611eaa482806381096adccf1bd4e.png?s=48&d=mm"
+			}
+		],
+		"prerequisites": "Experiência com metodologias ágeis em geral, conhecimento do manifesto ágil.",
+		"tags": [
+			"Comprometimento",
+			"Cultura",
+			"Evolução",
+			"Ideias",
+			"Motivação"
+		],
+		"session_type": "Palestra",
+		"audience_level": "Iniciante avançado",
+		"track": "Interesse Geral",
+		"audience_limit": null,
+		"summary": "Depois de ter engrenado no *Ágil* você tem certeza que resolveu todos os problemas da sua organização. Todos seus problemas estão no passado agora!\r\n\r\n**NOT!!!** As coisas estão somente começando! Mas se tenho o Scrum/Kanban/XP, e ainda tenho problemas, então qual a solução?\r\n\r\nSe você passou por isso, acredito que esteja no caminho certo. As primeiras tentativas de agilidade numa organização tendem a seguir práticas determinadas, mas com um pouco de maturidade ampliamos nossos horizontes e precisamos avançar em outras idéias.\r\n\r\nVamos conversar sobre aquilo que, ao meu ver, é o alicerce de uma organização Ágil (e de uma sociedade feliz): A liberdade."
+	},
+	{
+		"id": 1238,
+		"title": "Resiliência e Agilidade - Irmãs Gêmeas em Metamorfose Contínua.",
+		"authors": [
+			{
+				"name": "Ester Lima de Campos",
+				"gravatar_url": "https://gravatar.com/avatar/922152f9ab9503a27314a403cfa64f72.png?s=48&d=mm"
+			}
+		],
+		"prerequisites": "Nenhum específico",
+		"tags": [
+			"Coaching",
+			"Melhoria contínua",
+			"Cultura",
+			"Ideias",
+			"Aprendizagem",
+			"Motivação",
+			"Oportunidades",
+			"Times"
+		],
+		"session_type": "Palestra",
+		"audience_level": "Novato",
+		"track": "Coaching, Ensino e Facilitação",
+		"audience_limit": null,
+		"summary": "Uma questão que todo Scrum Master se depara, quando avança junto do seu time nos processos ágeis, é: Estamos de fato sendo ágeis? Será que não estamos apenas seguindo processos ágeis, engessando e deixando de reagir às mudanças? Ou melhor, será que não estamos resistindo a nossa própria mudança? \r\n\r\nMudar processos implica também em mudar a si mesmo. Construir um time ÁGIL é construir um time RESILIENTE (e vice-versa). A Resiliência é a base comportamental chave que as pessoas precisam SER para conseguir por em prática a agilidade tão sonhada por todos. \r\n\r\nNessa palestra você verá que a resiliência e a agilidade são irmãs gêmeas em metamorfose contínua, e como é possível apoiar os membros de seu time a desenvolver competências comportamentais que os façam ser resilientes e ágeis."
+	},
+	{
+		"id": 1241,
+		"title": "Customer Success - isso mesmo, ele é seu sucesso!",
+		"authors": [
+			{
+				"name": "Simone Pittner",
+				"gravatar_url": "https://gravatar.com/avatar/9ac1f87ee020a87404cc22a3185966b1.png?s=48&d=mm"
+			},
+			{
+				"name": "Lílian Ertel Silva",
+				"gravatar_url": "https://gravatar.com/avatar/7ec85768ca476048728ce54f18974328.png?s=48&d=mm"
+			}
+		],
+		"prerequisites": "Conhecer o manifesto ágil e seus princípios",
+		"tags": [
+			"Ideias",
+			"Riscos",
+			"Habilidade",
+			"Startup"
+		],
+		"session_type": "Palestra",
+		"audience_level": "Competente",
+		"track": "Inovação e Empreendedorismo",
+		"audience_limit": null,
+		"summary": "Customer Success é a intervenção ininterrupta de um profissional junto ao seu cliente. A ideia é manter o consumidor - usuário final - sempre atualizado sobre como o produto está atuando na empresa, como está a usabilidade, se há engajamento dos usuários.\r\nAcompanhar de perto a evolução do produto junto ao cliente, e assim minimizar o risco e perdas desses usuários por insatisfação, conhecida ou não, com o produto.\r\nEssa estratégia para uma empresa que entrega produto digital é grande fatia do bolo chamado: crescimento de starup."
+	},
+	{
+		"id": 1243,
+		"title": "Do modelo de negócio ao mapa de estórias de um MVP",
+		"authors": [
+			{
+				"name": "Paulo Furtado",
+				"gravatar_url": "https://gravatar.com/avatar/d8573ccb77ac6cf12fa2fee775aed067.png?s=48&d=mm"
+			}
+		],
+		"prerequisites": "Conhecimentos básicos de Business Model Canvas, User Stories e Requisitos de Software",
+		"tags": [
+			"Negócios",
+			"Ideias",
+			"Planejamento",
+			"Requisitos",
+			"Startup"
+		],
+		"session_type": "Mão na Massa",
+		"audience_level": "Iniciante avançado",
+		"track": "UX, Análise e Design de Produtos",
+		"audience_limit": 40,
+		"summary": "Atualmente, o Business Model Canvas é uma das ferramentas de gerenciamento estratégico mais adotadas no mercado para elaboração de modelos de negócio, novos ou existentes.  Nesse workshop, os participantes irão montar um modelo de negócio para um produto e, a partir desse modelo, criar um mapa de requisitos (usando as técnicas de Story Mapping ensinadas por Jeff Patton), que será usado para definir os requisitos considerados indispensáveis para a MVP (Minimum Viable Product) do produto."
+	},
+	{
+		"id": 1244,
+		"title": "TDD and Refactoring with LEGO",
+		"authors": [
+			{
+				"name": "Bryan Beecham",
+				"gravatar_url": "https://gravatar.com/avatar/9679712fbfc85e08fb4499f486b09a59.png?s=48&d=mm"
+			},
+			{
+				"name": "Alexandre Freire Kawakami",
+				"gravatar_url": "https://gravatar.com/avatar/54b9a028e87738853c0936a0fcc515e7.png?s=48&d=mm"
+			}
+		],
+		"prerequisites": "A desire to play and learn",
+		"tags": [
+			"Design emergente",
+			"Programação pareada",
+			"Refatoração",
+			"Test Driven Design",
+			"Times",
+			"Testes"
+		],
+		"session_type": "Mão na Massa",
+		"audience_level": "Novato",
+		"track": "Desenvolvimento e Testes",
+		"audience_limit": 60,
+		"summary": "In this fun and energetic session, we will learn the basics of Test Driven Design/Development (TDD) and Refactoring with the use of LEGO. We will create failing tests, make them pass and then refactor. We won’t be writing software, we will be using LEGO bricks to create programs. By working with our hands, these technical concepts that can be tricky to understand around will be simplified. Come play and learn!"
+	},
+	{
+		"id": 1247,
+		"title": "O Ágil e o Executivo - Uma empresa ágil vista de \"cima\"",
+		"authors": [
+			{
+				"name": "Rafael Cichini",
+				"gravatar_url": "https://gravatar.com/avatar/de856848749f74f2874102e30acf6754.png?s=48&d=mm"
+			}
+		],
+		"prerequisites": "Visão de negócio",
+		"tags": [
+			"Negócios",
+			"Coaching",
+			"Cultura",
+			"Casos de Fracasso",
+			"Planejamento",
+			"Processos",
+			"Riscos",
+			"Estratégias",
+			"Casos de Sucesso"
+		],
+		"session_type": "Palestra",
+		"audience_level": "Competente",
+		"track": "Inovação e Empreendedorismo",
+		"audience_limit": null,
+		"summary": "É lindo ver uma empresa ágil, mas em alguns momentos esta coisa apaixonante, pela qual lutamos constantemente é um pesadelo para quem está a frente da empresa. O processo para transformação ágil, este do qual somos apaixonados, é uma estrada longa, sinuosa e cheia de curvas acentuadas que muitas vezes nem placa de sinalização da curva existe, em outros você passa rápido por uma lombada que não estava pintada. A coragem e a persistência de levar uma transformação total desta para frente é um grande desafio quando os problemas começam a aparecer. A idéia desta palestra é passar a visão de quem compra a idéia, para ajudar quem vende a idéia a pensar diferente e levar argumentos e o apoio que quem compra muitas vezes precisa. Ninguém transforma uma empresa sozinho!"
+	},
+	{
+		"id": 1248,
+		"title": "Visual Thinking: Visual e Verbal trabalhando juntos pelo seu time.",
+		"authors": [
+			{
+				"name": "João Reis",
+				"gravatar_url": "https://gravatar.com/avatar/04818d9f20b0c599fb49648cc177fa73.png?s=48&d=mm"
+			}
+		],
+		"prerequisites": "disposição para experimentar  novas ideias",
+		"tags": [
+			"Criação",
+			"Ideias",
+			"Aprendizagem",
+			"Habilidade",
+			"Técnicas"
+		],
+		"session_type": "Mão na Massa",
+		"audience_level": "Novato",
+		"track": "Coaching, Ensino e Facilitação",
+		"audience_limit": 24,
+		"summary": "Desde os tempos mais remotos, em toda nossa infância, sempre nos expressamos visualmente. Porém, na escola primária fomos estimulados por novos meios de expressão e deixamos de lado essa poderosa ferramenta. Então, como podemos resgatá-la, e com isso melhorar o dia-a-dia do nosso time de desenvolvimento? Visual Thinking! Verbal e Visual, os dois lados do cérebro trabalhando juntos na troca  e simplificação de idéias, no aumento da retenção de informação e no registro de experiências. \r\nEm 110 minutos pretendo fazer com que você experimente 3 técnicas distintas relacionadas ao pensamento visual e obtenha novas ferramentas para o seu time.\r\nE pra nao ficar só no verbal, aqui está o Sketch que originou essa idéia: http://bit.ly/1IdmFyC"
+	},
+	{
+		"id": 1250,
+		"title": "Develop Healthy Relationships at Work Using the Integral Theory and Integral Coaching",
+		"authors": [
+			{
+				"name": "Peter Moreno",
+				"gravatar_url": "https://gravatar.com/avatar/43683d2cbd77ce9fdf13c1df99cd05e9.png?s=48&d=mm"
+			}
+		],
+		"prerequisites": "None",
+		"tags": [
+			"Coaching",
+			"Melhoria contínua",
+			"Cultura",
+			"Relacionamento com clientes",
+			"Evolução",
+			"Ideias",
+			"Aprendizagem",
+			"Motivação",
+			"Requisitos",
+			"Times"
+		],
+		"session_type": "Mão na Massa",
+		"audience_level": "Iniciante avançado",
+		"track": "Coaching, Ensino e Facilitação",
+		"audience_limit": null,
+		"summary": "This session is to discover a new understanding of human relationships and how to sustain them using the Integral Theory and Integral Coaching. This is a key element to archive goals with less stress. It is also to promote efficiency and motivation in individuals and groups. Come to learn new tools and get profound insights about what happens within the mind and hearts of human beings."
+	},
+	{
+		"id": 1252,
+		"title": "Técnicas para encontrar uma ideia de produto de software",
+		"authors": [
+			{
+				"name": "Joaquim Torres",
+				"gravatar_url": "https://gravatar.com/avatar/cff412b8ddb473694416759967e8efed.png?s=48&d=mm"
+			}
+		],
+		"prerequisites": "Estar trabalhando com desenvolvimento de software, quer seja como desenvolvedor, UX, gestor de produtos, gestor de projetos ou qualquer outra função ligada a desenvolvimento de software.",
+		"tags": [
+			"Negócios",
+			"Criação",
+			"Ideias",
+			"Oportunidades",
+			"Startup",
+			"Técnicas"
+		],
+		"session_type": "Mão na Massa",
+		"audience_level": "Novato",
+		"track": "Inovação e Empreendedorismo",
+		"audience_limit": 25,
+		"summary": "Todos os dias aparecem novos softwares bacanas, sejam eles softwares web, aplicativos móveis, soluções mistas ou mesmo utilizando novos meios (iWatch, Google Glass, wearables).\r\n\r\nDe onde vem a ideia para criar esses softwares? Será que é preciso ser um \"iluminado\" para poder vislumbrar essas ideias de novos produtos? Ou será que existem técnicas que podem nos ajudar a encontrar essas ideias?\r\n\r\nNessa sessão mão-na-massa irei mostrar duas técnicas que ajudam a encontrar uma ideia interessante de produto de software. Os participantes irão aplicar essas duas técnicas para poder entender seu potencial para o encontro de novos ideias de produto de software."
+	},
+	{
+		"id": 1254,
+		"title": "Learning Shot: Como fica a arquitetura de software em projetos ágeis?",
+		"authors": [
+			{
+				"name": "Anderson Diniz Hummel",
+				"gravatar_url": "https://gravatar.com/avatar/65e1107ccb7e596e3ef7f955b70b000f.png?s=48&d=mm"
+			},
+			{
+				"name": "Manoel Pimentel Medeiros",
+				"gravatar_url": "https://gravatar.com/avatar/c9f3722f2b1b1bb215bfbdcb03d3e109.png?s=48&d=mm"
+			}
+		],
+		"prerequisites": "Ter participado ou estar participando em um projeto ágil dentro de um time ágil ou em um time de serviço.",
+		"tags": [
+			"Deploy contínuo",
+			"Cultura",
+			"Design emergente",
+			"Implantação",
+			"Padrões",
+			"Processos",
+			"Riscos",
+			"Estratégias",
+			"Casos de Sucesso",
+			"Times"
+		],
+		"session_type": "Mão na Massa",
+		"audience_level": "Iniciante avançado",
+		"track": "Desenvolvimento e Testes",
+		"audience_limit": 80,
+		"summary": "Site que fica fora do ar por excesso de usuários, investimento em ferramentas caras, tecnologias que não fazem sentido juntas... Isso só acontece com seu coleguinha do Waterfall, certo? 3:)\r\nSe você não tiver um bom desenho de solução seu cliente vai enfartar da mesma forma, ou no mínimo nunca mais vocês tomarão uma cerveja juntos. \r\nAprenda neste Learning Shot de forma colaborativa a evitar esses problemas ou pelo menos minimizar a chance de ocorrerem com os seus projetos."
+	},
+	{
+		"id": 1261,
+		"title": "Elaboração de um Scrum Product Backlog Efetivo",
+		"authors": [
+			{
+				"name": "Fábio Aguiar",
+				"gravatar_url": "https://gravatar.com/avatar/84e9aec0243888ee53dd1637c03f798c.png?s=48&d=mm"
+			}
+		],
+		"prerequisites": "Conhecer Métodos Ágeis e Scrum.",
+		"tags": [
+			"Negócios",
+			"Criação",
+			"Relacionamento com clientes",
+			"Planejamento",
+			"Requisitos",
+			"Técnicas"
+		],
+		"session_type": "Palestra",
+		"audience_level": "Iniciante avançado",
+		"track": "UX, Análise e Design de Produtos",
+		"audience_limit": null,
+		"summary": "O Product Backlog bem construído é bastante importante para o cliente compartilhar suas necessidades e prioridades de forma clara e objetiva, assim como também para o Product Owner, ajudando-os a tomar decisões de planejamento e gerenciamento eficaz dos requisitos. A qualidade da construção de um Backlog ajuda a manter um ritmo sustentável de entregas relevantes e constantes de valor.\r\n\r\nEsta palestra fornece técnicas e conceitos para construção de um Backlog facilitando a descoberta e compreensão de produtos, onde seu principal objetivo é a “Elaboração de um Product Backlog Efetivo”, vivenciando na prática a construção de um Backlog através do Product Backlog Building (PBB) um processo de construção do Product Backlog que utiliza o Backlog Canvas como ferramenta."
+	},
+	{
+		"id": 1262,
+		"title": "Laboratório de Negócios - catalisando iniciativas dentro de uma organização",
+		"authors": [
+			{
+				"name": "Mario Bastos",
+				"gravatar_url": "https://gravatar.com/avatar/3415235fca4995b341f8f490343579a8.png?s=48&d=mm"
+			},
+			{
+				"name": "Tatiana Ximenes",
+				"gravatar_url": "https://gravatar.com/avatar/4923de5085e94500602b5f5a138e74e3.png?s=48&d=mm"
+			}
+		],
+		"prerequisites": "Orientação a negócios",
+		"tags": [
+			"Negócios",
+			"Cultura",
+			"Relacionamento com clientes",
+			"Casos de Fracasso",
+			"Ideias",
+			"Aprendizagem",
+			"Oportunidades",
+			"Processos",
+			"Startup",
+			"Casos de Sucesso"
+		],
+		"session_type": "Palestra",
+		"audience_level": "Iniciante avançado",
+		"track": "Inovação e Empreendedorismo",
+		"audience_limit": null,
+		"summary": "Durante a adoção do modelo CustDev na área de Gerência de Produtos da DBServer percebemos a necessidade de uma área própria para condução das novas iniciativas, que provesse a visibilidade dos experimentos dentro de um “pipeline” definido, e também promovesse a liberdade de experimentação e aprendizagem que o modelo pressupõe.\r\nTínhamos que responder também:\r\n•\tComo incluir e selecionar novas ideias dentro da capacidade da organização? \r\n•\tComo garantir que os recursos serão focados nas ideias mais importantes? \r\n•\tComo envolver os principais atores na condução das iniciativas?\r\nNesse contexto criamos o Laboratório de Negócios.  Nesse relato apresentamos o resultado da execução do modelo CustDev no contexto do Laboratório de Negócios, compartilhando nossa experiência e aprendizagem."
+	},
+	{
+		"id": 1268,
+		"title": "Os 10 princípios do movimento DevOps",
+		"authors": [
+			{
+				"name": "Márcio Sete",
+				"gravatar_url": "https://gravatar.com/avatar/5ebbbe0121951d9978621ebbbc7a7e7f.png?s=48&d=mm"
+			}
+		],
+		"prerequisites": "Experiência em projetos de software",
+		"tags": [
+			"Automação",
+			"Negócios",
+			"Coaching",
+			"Melhoria contínua",
+			"Cultura",
+			"Aprendizagem",
+			"Motivação",
+			"Processos",
+			"Estratégias",
+			"Casos de Sucesso"
+		],
+		"session_type": "Palestra",
+		"audience_level": "Iniciante avançado",
+		"track": "Interesse Geral",
+		"audience_limit": null,
+		"summary": "O movimento DevOps parece ter alcançado de fato o mainstream. E como tudo que ganha evidência, deu origem a todo um ecossistema, sendo vinculado a diversas coisas como ferramentas, certificações, eventos, comunidades, portais, empresas de mídia, discursos de marketing, vagas de emprego, discursos de auto promoção nas empresas, dentre outras coisas. Apesar de entender que este é um processo natural, confesso que as vezes dá um pouco de preguiça ouvir tantas coisas nada haver vinculadas ao termo DevOps.\r\n\r\nEsta palestra é sobre quais são, sob a minha ótica, os princípios deste movimento, com base nas minhas experiências de campo, conduzindo empresas no processo de transformação e conversando com dezenas de empresas e profissionais sobre o que andam por ai fazendo relacionado à DevOps."
+	},
+	{
+		"id": 1286,
+		"title": "Creating a Learning Organization:  The Ultimate Competitive Edge",
+		"authors": [
+			{
+				"name": "Pat Reed",
+				"gravatar_url": "https://gravatar.com/avatar/c05c8f611e8da6a7ed8461e7825056d9.png?s=48&d=mm"
+			},
+			{
+				"name": "Walt Wyckoff",
+				"gravatar_url": "https://gravatar.com/avatar/b30507168aeb33bcdbe5c22a57a42aad.png?s=48&d=mm"
+			}
+		],
+		"prerequisites": "None",
+		"tags": [
+			"Melhoria contínua",
+			"Criação",
+			"Cultura",
+			"Processos",
+			"Estratégias",
+			"Times",
+			"Técnicas"
+		],
+		"session_type": "Mão na Massa",
+		"audience_level": "Novato",
+		"track": "Coaching, Ensino e Facilitação",
+		"audience_limit": null,
+		"summary": "Agile is about Learning and this session will invite you to consider some new ways of thinking about learning, how we learn, how we (as leaders) can create a space where our team’s and everyone in our organization can reach their full potential via realtime, continuous, dynamic learning.  We'll start the session with a deep dive into preconditions for creating a learning organization, exploring some new advances in neuroscience and learning to set the stage for some open space-like  group work around deeper dives, clinics or developing practical activities and action plans to take away from this thought provoking session."
+	},
+	{
+		"id": 1287,
+		"title": "Interação e relacionamento PO com equipe de UX e Designers do Instituto de Pesquisas Eldorado",
+		"authors": [
+			{
+				"name": "Alessandra Peguim Rosa",
+				"gravatar_url": "https://gravatar.com/avatar/225847c4aa5374181ccaf17fd6a7cd4d.png?s=48&d=mm"
+			}
+		],
+		"prerequisites": "conhecimento básico de Metodologia Ágil",
+		"tags": [
+			"Comprometimento",
+			"Melhoria contínua",
+			"Criação",
+			"Estimativas",
+			"Aprendizagem",
+			"Habilidade",
+			"Casos de Sucesso",
+			"Times",
+			"Técnicas",
+			"Experiência do usuário"
+		],
+		"session_type": "Relatos de Experiência",
+		"audience_level": "Novato",
+		"track": "UX, Análise e Design de Produtos",
+		"audience_limit": null,
+		"summary": "Os times que rodam Scrum tendem a ser auto gerenciáveis, nas tomadas de decisões e no andamento do projeto, ao introduzir o Time de Designers dentro do Scrum tivemos problemas de entregas e escopos. Após várias tentativas, o Time de Design começou a se planejar antes do time de desenvolvimento, funcionando bem até que os Designers começassem a participar das Soluções e propostas de UX - em parceria com o Product Owner dos projetos. Os conhecimentos dos Designers e a sua compreensão dos usuários com a tecnologia é fundamental para empresas de TI, este estudo analisa a parceria entre POs, Desenvolvedores e Designers para criar e desenvolver produtos que correlacionem o pensamento analíticos dos desenvolvedores com o pensamento sistêmico dos designers em times multi-disciplinares."
+	},
+	{
+		"id": 1292,
+		"title": "Evoluindo aplicações e serviços com testes de contrato",
+		"authors": [
+			{
+				"name": "Rafael Portela",
+				"gravatar_url": "https://gravatar.com/avatar/d5854e7f3cfcb55945def68f31810af7.png?s=48&d=mm"
+			}
+		],
+		"prerequisites": "Entender ou ter curiosidade sobre a importância de práticas de integração contínua e testes, além de estar curioso sobre interseção de responsabilidades entre diferentes times.",
+		"tags": [
+			"Automação",
+			"Deploy contínuo",
+			"Integração contínua",
+			"Design emergente",
+			"Evolução",
+			"Processos",
+			"Test Driven Design",
+			"Times",
+			"Técnicas",
+			"Testes"
+		],
+		"session_type": "Palestra",
+		"audience_level": "Proficiente",
+		"track": "Desenvolvimento e Testes",
+		"audience_limit": null,
+		"summary": "Provavelmente sua app (mobile ou web) consome serviços que estão sendo desenvolvidos por outros times. Neste caso, você tem aplicações instáveis (em desenvolvimento) dependendo de outras aplicações também instáveis e sujeitas a mudanças. E isso não é apenas um desafio de tecnologia, mas também de interação e comunicação de pessoas em diferentes times e com diferentes propósitos.\r\n\r\nTestes automatizados de contrato de serviços (API's) são uma opção para manter o seu projeto atualizado sobre mudanças em suas dependências, tanto as que seu time pediu, quanto as acidentais, como bugs ou quebras de contrato."
+	},
+	{
+		"id": 1295,
+		"title": "Empreendendo em comunidades. SmallActs Manifesto e o case Tá Safo",
+		"authors": [
+			{
+				"name": "Marcelo Andrade",
+				"gravatar_url": "https://gravatar.com/avatar/32c1bda5b57a65cc1c63f312f1fdf8a0.png?s=48&d=mm"
+			}
+		],
+		"prerequisites": "Mente aberta",
+		"tags": [
+			"Comprometimento",
+			"Cultura",
+			"Ideias",
+			"Aprendizagem",
+			"Oportunidades"
+		],
+		"session_type": "Relatos de Experiência",
+		"audience_level": "Iniciante avançado",
+		"track": "Interesse Geral",
+		"audience_limit": 70,
+		"summary": "Relato de lições aprendidas na comunidade Tá Safo de Belém do Pará de como persistência, trabalho duro, um pouco de cara de pau e muito networking podem mudar a realidade de um local e resgatar a autoestima e gerando oportunidades para toda uma comunidade."
+	},
+	{
+		"id": 1297,
+		"title": "Docker e CoreOS: escalando serviços usando o fleet",
+		"authors": [
+			{
+				"name": "Guilherme Nogueira",
+				"gravatar_url": "https://gravatar.com/avatar/4b178f929b750c873b4d2b0c0a682051.png?s=48&d=mm"
+			}
+		],
+		"prerequisites": "Saber o que é docker e saber provisionar servidores",
+		"tags": [
+			"Automação",
+			"Implantação"
+		],
+		"session_type": "Relatos de Experiência",
+		"audience_level": "Competente",
+		"track": "Desenvolvimento e Testes",
+		"audience_limit": null,
+		"summary": "Se você pensa em usar Docker em produção, mas ainda não tem certeza se vale a pena, venha assistir essa palestra! Nela farei um relato de experiência da nossa migração de infra-estrutura para um cluster de CoreOS, rodando todas as nossas aplicações em containers Docker.\r\n\r\nVou mostrar qual foi nossa motivação, quais os problemas pelos quais passamos e como resolvemos."
+	},
+	{
+		"id": 1298,
+		"title": "Continuously serving the developer community with Continuous Integration and Delivery",
+		"authors": [
+			{
+				"name": "Fernando Alves",
+				"gravatar_url": "https://gravatar.com/avatar/48ab986eadec51d0621bc72819267d6f.png?s=48&d=mm"
+			},
+			{
+				"name": "AKSHAY KARLE",
+				"gravatar_url": "https://gravatar.com/avatar/c9828ba7bb8bc4eedeb113dd5b8efebf.png?s=48&d=mm"
+			}
+		],
+		"prerequisites": "understand basic concepts of continuous delivery and integration",
+		"tags": [
+			"Automação",
+			"Deploy contínuo",
+			"Melhoria contínua",
+			"Integração contínua",
+			"Implantação",
+			"Padrões"
+		],
+		"session_type": "Palestra",
+		"audience_level": "Iniciante avançado",
+		"track": "Desenvolvimento e Testes",
+		"audience_limit": null,
+		"summary": "SnapCI enables teams to do Continuous Delivery(CD). When practising CD, the goal is to automate the process of deployment and build software in a way that can be deployed to production anytime.\r\n\r\nFor a system that allows others to deploy their software, downtime was out of question. We had to change SnapCI’s architecture in a way that our own deployments wouldn’t affect our users. To achieve this we chose to do blue-green deployments. In this approach, we had to maintain two instances of our system, one which would be active and the other inactive.\r\n\r\nBased on our experience, we will share some tricks of the trade from the numerous challenges we faced such as making the application aware of whether it was active or inactive, handling data migrations and babysitting the long running jobs."
+	},
+	{
+		"id": 1299,
+		"title": "QA to AQ: Becoming Agile at Quality",
+		"authors": [
+			{
+				"name": "Joseph Yoder",
+				"gravatar_url": "https://gravatar.com/avatar/ca080bf5bba71ae8a2deb1291dad3307.png?s=48&d=mm"
+			}
+		],
+		"prerequisites": "Understanding of Software Development, Quality Code, and Basic Agile Practices. Understanding of Testing and Quality Assurance is useful.",
+		"tags": [
+			"Melhoria contínua",
+			"Padrões",
+			"Testes"
+		],
+		"session_type": "Mão na Massa",
+		"audience_level": "Competente",
+		"track": "Desenvolvimento e Testes",
+		"audience_limit": null,
+		"summary": "As organizations transition to agile processes, Quality Assurance (QA) activities and roles need to evolve. Traditionally, QA activities occur late in the process, after the software is fully functioning. As a consequence, QA departments have been “quality gatekeepers” rather than actively engaged in the ongoing development and delivery of quality software. Agile teams incrementally deliver working software providing an opportunity to engage in QA activities much earlier, ensuring that both functionality and important system qualities are addressed at the most responsible moment. Agile teams embrace a “whole team” approach. Although special skills may be required to perform certain development and Quality Assurance tasks, everyone on the team is focused on the delivery of quality software."
+	},
+	{
+		"id": 1315,
+		"title": "How to Incorporate Security Best Practices into Agile Teams",
+		"authors": [
+			{
+				"name": "Maria Gomez",
+				"gravatar_url": "https://gravatar.com/avatar/e6738eb4a536e090917614becf646c62.png?s=48&d=mm"
+			},
+			{
+				"name": "Chelsea Komlo",
+				"gravatar_url": "https://gravatar.com/avatar/2fbfbf3a0a100e054aa8123ec3ce68e6.png?s=48&d=mm"
+			}
+		],
+		"prerequisites": "Understanding of Agile practices. A prior understanding of security is not required but may be beneficial.",
+		"tags": [
+			"Negócios",
+			"Melhoria contínua",
+			"Integração contínua",
+			"Evolução",
+			"Aprendizagem",
+			"Padrões",
+			"Processos",
+			"Requisitos",
+			"Times",
+			"Técnicas"
+		],
+		"session_type": "Palestra",
+		"audience_level": "Competente",
+		"track": "Desenvolvimento e Testes",
+		"audience_limit": null,
+		"summary": "New security breaches break headlines everyday. Building secure applications is difficult, as vulnerabilities can be hard to predict. But there is more that we can do as software developers to bake security into our everyday practices. \r\n\r\nAgile has been adopted across a range of industries and project sizes, proving successful in helping teams deliver working software faster. We will discuss how to incorporate best security practices into a team’s agile practice. \r\n\r\nWe will explain first the “security sandwich”, in which security is currently treated as a consideration at the beginning and end of feature releases. We will then talk about how to incorporate good security practices, such a threat modeling and penetration testing, into agile practices such as daily standups and iterations."
+	},
+	{
+		"id": 1318,
+		"title": "Lord Vader: A Redenção",
+		"authors": [
+			{
+				"name": "Ricardo Peters",
+				"gravatar_url": "https://gravatar.com/avatar/1e23d53a11835ee8e45acda29d1bcd78.png?s=48&d=mm"
+			}
+		],
+		"prerequisites": "Não confundir Star Wars com Star Trek",
+		"tags": [
+			"Comprometimento",
+			"Melhoria contínua",
+			"Cultura",
+			"Aprendizagem",
+			"Motivação",
+			"Oportunidades",
+			"Processos",
+			"Habilidade",
+			"Estratégias",
+			"Times"
+		],
+		"session_type": "Palestra",
+		"audience_level": "Novato",
+		"track": "Gestão",
+		"audience_limit": null,
+		"summary": "Darth Vader é frequentemente associado com gerentes. A quantidade de gracinhas e memes é enorme. Mas o que poucos parecem lembrar é que Vader, quando confrontado sobre seu papel e seus princípios, alcança a redenção. Acompanhe a história de um gerente tradicional que encontrou seu caminho do \"dark side of the force\" de volta para o \"light side\"."
+	},
+	{
+		"id": 1319,
+		"title": "Os segredos da gestão eficaz para alavancar a performance da sua equipe",
+		"authors": [
+			{
+				"name": "Alisson Vale",
+				"gravatar_url": "https://gravatar.com/avatar/48af343b6b4e4083b63e3b20baea2574.png?s=48&d=mm"
+			}
+		],
+		"prerequisites": "Conhecer o básico sobre os princípios da gestão Ágil ou Lean de forma a mapeá-los com o conteúdo que vai ser exposto nessa palestra.",
+		"tags": [
+			"Negócios",
+			"Melhoria contínua",
+			"Cultura",
+			"Relacionamento com clientes",
+			"Evolução",
+			"Processos",
+			"Times",
+			"Técnicas"
+		],
+		"session_type": "Palestra",
+		"audience_level": "Iniciante avançado",
+		"track": "Gestão",
+		"audience_limit": null,
+		"summary": "Já pensou que, mesmo conhecendo os princípios e métodos Ágeis, você pode estar inconscientemente preso a uma mentalidade que pode atrapalhá-lo na hora de aplicá-los?\r\n\r\nExiste uma chave conceitual que é capaz de abrir as portas do entendimento sobre os modelos de gestão mais modernos e facilitar muito sua transição para esse caminho. Essa chave está na diferença entre eficiência e eficácia e em todo o desdobramento que decorre a partir disso nas decisões que tomamos no dia-a-dia.  \r\n\r\nNa  verdade, esse entendimento pode até libertá-lo de problemas que hoje você pode achar que são insolúveis. Nessa palestra você vai descobrir como uma leve mudança na sua mentalidade pode abrir um imenso horizonte de oportunidades para melhorar o seu processo de trabalho."
+	},
+	{
+		"id": 1322,
+		"title": "How Managers can Nurture Teams to Thrive",
+		"authors": [
+			{
+				"name": "Selena Delesie",
+				"gravatar_url": "https://gravatar.com/avatar/95ea10254ce0a8d1cda6dbae93524fd4.png?s=48&d=mm"
+			}
+		],
+		"prerequisites": "You have had a role in managing people or teams - as a manager, project manager, ScrumMaster, or executive.",
+		"tags": [
+			"Coaching",
+			"Cultura",
+			"Evolução",
+			"Aprendizagem",
+			"Motivação",
+			"Padrões",
+			"Riscos",
+			"Habilidade",
+			"Estratégias",
+			"Times"
+		],
+		"session_type": "Mão na Massa",
+		"audience_level": "Proficiente",
+		"track": "Gestão",
+		"audience_limit": 200,
+		"summary": "Agile transitions often fail to provide adequate guidance on how a manager fits into an Agile organization. Agile is a whole new way of work for most managers; as it requires a particular style of leadership. Your role and responsibilities need to change as the organization does. You must learn to coach, remove obstacles and model new styles of communication. In this interactive session you will learn how to flourish as an Agile Manager as you nurture your teams to thrive."
+	},
+	{
+		"id": 1323,
+		"title": "SCRUM MASTER – Melhore sua liderança e obtenha excelentes resultados em seus times.",
+		"authors": [
+			{
+				"name": "Rubens Sciena",
+				"gravatar_url": "https://gravatar.com/avatar/46d980de9d60664f66db00d5985eec67.png?s=48&d=mm"
+			}
+		],
+		"prerequisites": "Conhecimentos básicos sobre Scrum e o papel do Scrum Master, ou qualquer pessoa que já esteve, está ou pretende estar em uma posição de liderança.",
+		"tags": [
+			"Coaching",
+			"Comprometimento",
+			"Melhoria contínua",
+			"Cultura",
+			"Aprendizagem",
+			"Motivação",
+			"Processos",
+			"Habilidade",
+			"Times"
+		],
+		"session_type": "Palestra",
+		"audience_level": "Competente",
+		"track": "Coaching, Ensino e Facilitação",
+		"audience_limit": null,
+		"summary": "Diversos são os comportamentos exigidos de cada indivíduo dentro de um time ou equipe de projeto, tais como: comprometimento, iniciativa, qualidade, autonomia, responsabilidade, etc... A falta destes comportamentos pode levar o projeto ao fracasso.\r\n\r\nDentro do Scrum, o Scrum Master é o líder que pode, diariamente, apoiar, estimular e motivar os comportamentos positivos dentro de um time, conseguindo aumentar a velocidade e qualidade das entregas e, seguramente, promover a melhoria contínua da qualidade de vida e de trabalho de cada indivíduo liderado.\r\n\r\nCoisas são gerenciadas. Pessoas são lideradas!\r\n\r\nO Scrum Master tem todas as condições para atuar desta forma, basta ele querer e conhecer melhor as ferramentas disponíveis."
+	},
+	{
+		"id": 1331,
+		"title": "Só tem maluco em time Scrum! Entenda de Perfis Psicológicos e acelere seu team building",
+		"authors": [
+			{
+				"name": "Alexandre Amorim",
+				"gravatar_url": "https://gravatar.com/avatar/5bbd1244bf1a14dd166268ac96e18879.png?s=48&d=mm"
+			}
+		],
+		"prerequisites": "Métodos Ágeis, Experiência de Trabalho em Equipe",
+		"tags": [
+			"Coaching",
+			"Melhoria contínua",
+			"Cultura",
+			"Motivação",
+			"Processos",
+			"Técnicas"
+		],
+		"session_type": "Palestra",
+		"audience_level": "Novato",
+		"track": "Gestão",
+		"audience_limit": null,
+		"summary": "As pessoas são diferentes, isso todo mundo sabe. Mas, será que sabemos quais são os tipos de pessoas do nosso time? \r\nAlém disso, o que levamos em consideração para montar novos times? Apenas capacidade técnica e disponibilidade de pessoas? Será que não deveríamos considerar a combinação dos perfis psicológicos envolvidos para obter melhores resultados? Se eu não sou um psicólogo, como fazer isso de forma prática?"
+	},
+	{
+		"id": 1336,
+		"title": "Who really rules?",
+		"authors": [
+			{
+				"name": "Marcelo Luis Walter",
+				"gravatar_url": "https://gravatar.com/avatar/a17a154522ed4cbaa37e0315a1eacd38.png?s=48&d=mm"
+			},
+			{
+				"name": "Ramon Tramontini",
+				"gravatar_url": "https://gravatar.com/avatar/003fcc8ee13d4a9531588e15b5e40b3a.png?s=48&d=mm"
+			}
+		],
+		"prerequisites": "Aceitar discutir o status quo. Se interessar por debater novas abordagens expondo suas opiniões e escutando os demais.",
+		"tags": [
+			"Negócios",
+			"Coaching",
+			"Cultura",
+			"Aprendizagem",
+			"Planejamento",
+			"Processos",
+			"Estratégias"
+		],
+		"session_type": "Palestra",
+		"audience_level": "Competente",
+		"track": "Gestão",
+		"audience_limit": null,
+		"summary": "A valorização do indivíduo é uma das maiores bandeiras da comunidade ágil especialmente nas equipes de desenvolvimento de software: “Indivíduos e interações entre eles mais que processos e ferramentas…” - Agile Manifest\r\nNossos executivos, por sua vez, são peritos em estabelecer planos estratégicos mirabolantemente maravilhosos:  “O planejamento estratégico prevê o futuro de uma empresa… “ - Wikipedia\r\nPor fim, líderes e coaches afirmam veemente que é a cultura quem determina o sucesso dos times: “A cultura come a estratégia no café da manhã” - Peter Drucker\r\nMesmo assim, falhamos na grande maioria das vezes!\r\nQuem realmente governa?"
+	},
+	{
+		"id": 1338,
+		"title": "O que eu aprendi trabalhando na organização do Agile Brazil",
+		"authors": [
+			{
+				"name": "Erica Briones Graciano",
+				"gravatar_url": "https://gravatar.com/avatar/df5cf8e75fa1ae52101ed4d3388920d7.png?s=48&d=mm"
+			}
+		],
+		"prerequisites": "Nenhum.",
+		"tags": [
+			"Comprometimento",
+			"Melhoria contínua",
+			"Criação",
+			"Cultura",
+			"Evolução",
+			"Aprendizagem",
+			"Motivação",
+			"Oportunidades"
+		],
+		"session_type": "Relatos de Experiência",
+		"audience_level": "Iniciante avançado",
+		"track": "Interesse Geral",
+		"audience_limit": null,
+		"summary": "\"This is your last chance. After this, there is no turning back. You take the blue pill -- the story ends, you wake up in your bed and believe whatever you want to believe. You take the red pill -- you stay in Wonderland and I show you how deep the rabbit hole goes.\" - Morpheus\r\n\r\nQuando me fizeram o convite pra participar da organização e eu disse \"sim\", eu com certeza não sabia o que eu estava aceitando.\r\n\r\nO que acontece quando ninguém pode ser demitido? Como funciona organizar o MAIOR evento de agilidade brasileiro, um evento para 1000 pessoas, sem **nenhum** funcionário?"
+	},
+	{
+		"id": 1339,
+		"title": "Voluntários na Agile Brazil: criando um time em seis horas!",
+		"authors": [
+			{
+				"name": "Cecilia Fernandes",
+				"gravatar_url": "https://gravatar.com/avatar/83caf77361748326fe960eeca984e1b3.png?s=48&d=mm"
+			}
+		],
+		"prerequisites": "Não há, todos são bem vindos",
+		"tags": [
+			"Comprometimento",
+			"Melhoria contínua",
+			"Criação",
+			"Evolução",
+			"Aprendizagem",
+			"Motivação",
+			"Casos de Sucesso",
+			"Times",
+			"Técnicas"
+		],
+		"session_type": "Relatos de Experiência",
+		"audience_level": "Iniciante avançado",
+		"track": "Interesse Geral",
+		"audience_limit": null,
+		"summary": "Em 2012, estreamos o programa de Voluntários da Agile Brazil e temos mantido ele desde então.\r\n\r\nNo ano de estréia, no entanto, tivemos uma grande resistência dentro da organização: muitos não acreditavam que ter voluntários que se conheceram no dia anterior à conferência trabalhando como um time: efetiva e eficientemente -- e se divertindo no processo!\r\n\r\nVenha entender como isso é possível e as técnicas que usamos para ter sucesso ano após ano, e manter o programa de voluntários rodando!\r\n\r\nQuem sabe você também descobre algo que pode usar no próximo time que precisar montar. ;-)"
+	},
+	{
+		"id": 1343,
+		"title": "Continuous Discovery",
+		"authors": [
+			{
+				"name": "Victor Lima",
+				"gravatar_url": "https://gravatar.com/avatar/7808413b9fbd2a926e91bcf0159d2736.png?s=48&d=mm"
+			}
+		],
+		"prerequisites": "Ágil, métricas, Lean startup, customer e product Discovery, customer development, build measure learn, validação de hipoteses",
+		"tags": [
+			"Melhoria contínua",
+			"Cultura",
+			"Evolução",
+			"Aprendizagem",
+			"Métricas",
+			"Riscos",
+			"Startup",
+			"Estratégias",
+			"Testes",
+			"Experiência do usuário"
+		],
+		"session_type": "Palestra",
+		"audience_level": "Competente",
+		"track": "Inovação e Empreendedorismo",
+		"audience_limit": null,
+		"summary": "Em muitos times ágeis relativamente maduros é comum que o time entre em um regime de entrega de features sem se preocupar em estabelecer um processo contínuo de validação de hipóteses e feedback continuo com o usuário final. Em casos similares um time simplesmente começa o desenvolvimento a partir de uma ideia e após a implementação e entrega do mesmo não consegue estabelecer uma forma continua de alimentar o backlog de produto com funcionalidades que realmente melhoram a vida do seu cliente.\r\n\r\nA palestra pretende explicar o processo de dual-track scrum ou continuous discovery, aonde um time ágil tem o seu backlog sistematicamente alimentado a partir de um processo contínuo de validação de hipóteses e feedback de clientes antes, durante e após a implantação de novas funcionalidades."
+	},
+	{
+		"id": 1353,
+		"title": "Das mentiras Ágeis e outras desventuras. O que por no seu currículo!",
+		"authors": [
+			{
+				"name": "Rafael Barbosa Camargo",
+				"gravatar_url": "https://gravatar.com/avatar/92289d2888b9097323bd15504a69fe11.png?s=48&d=mm"
+			}
+		],
+		"prerequisites": "Sorrir, estar disposto a abrir os olhos para pegadinhas de profissionais da Agilidade, aproveitar um tempo de descontração no evento",
+		"tags": [
+			"Coaching",
+			"Cultura",
+			"Evolução",
+			"Casos de Fracasso",
+			"Ideias",
+			"Aprendizagem",
+			"Motivação",
+			"Oportunidades",
+			"Habilidade"
+		],
+		"session_type": "Palestra",
+		"audience_level": "Competente",
+		"track": "Interesse Geral",
+		"audience_limit": null,
+		"summary": "É, provavelmente você já leu a Mini Bio ou mesmo o currículo de um profissional e pensou: Ele sabe e faz tudo isso mesmo?\r\n\r\nE talvez você já tenha visto vários profissionais relatarem cases de sucesso ou anos e anos de ação contínua em uma empresa e você pensa: Mas aquela empresa é horrível!\r\n\r\nOu mesmo ouviu falar de enormes transformações ágeis e pensa: Eles nem podem acessar o Facebook no trabalho!\r\n\r\nVocê está preparado para rir da verdade?"
+	},
+	{
+		"id": 1363,
+		"title": "O Que Uma Matryoshka Me Ensinou Sobre Agilidade e Marketing Digital",
+		"authors": [
+			{
+				"name": "Serge Rehem",
+				"gravatar_url": "https://gravatar.com/avatar/149a71e1921d2f9f1d143d784efe6239.png?s=48&d=mm"
+			}
+		],
+		"prerequisites": "Curiosidade, Ceticismo, Vontade de Aprender e Ensinar. Conhecimentos básicos de Agile e Marketing Digital são desejáveis, mas não imprescindíveis.",
+		"tags": [
+			"Cultura",
+			"Ideias",
+			"Aprendizagem",
+			"Motivação",
+			"Oportunidades",
+			"Startup"
+		],
+		"session_type": "Palestra",
+		"audience_level": "Iniciante avançado",
+		"track": "Interesse Geral",
+		"audience_limit": null,
+		"summary": "\"Chegou a nova metodologia ágil Super-Ultra-Mega-Power-Sensacional que vai revolucionar o mercado e vai garantir o sucesso de todos os seus projetos de software!\"\r\n\r\nVocê já viu promessas parecidas como esta? Acredita nelas?\r\n\r\nEu não. Pra mim o sucesso vem de estudos e experimentações.Nesta palestra, eu vou te mostrar as lições que uma boneca russa me ensinou sobre Agilidade e Marketing Digital. Em muitos pontos eles se assemelham e até se complementam. E lá no fundo, as Matryoshkas da Agilidade e do Marketing Digital tem exatamente o mesmo CORAÇÃO."
+	},
+	{
+		"id": 1365,
+		"title": "Como agilidade e práticas 3.0 beneficiam nosso cérebro 1.0",
+		"authors": [
+			{
+				"name": "Elderclei Reami",
+				"gravatar_url": "https://gravatar.com/avatar/75d39cb125c244c6ba14076e99c26dfb.png?s=48&d=mm"
+			}
+		],
+		"prerequisites": "Não há",
+		"tags": [
+			"Coaching",
+			"Melhoria contínua",
+			"Cultura",
+			"Ideias",
+			"Aprendizagem",
+			"Motivação",
+			"Padrões",
+			"Processos",
+			"Habilidade",
+			"Times"
+		],
+		"session_type": "Palestra",
+		"audience_level": "Iniciante avançado",
+		"track": "Coaching, Ensino e Facilitação",
+		"audience_limit": null,
+		"summary": "Vivemos uma época de mudanças aceleradas e uma mudança de época, mas no âmago ainda somos os mesmos de 150.000 anos atrás.\r\n\r\nCiências como neurociência e psicologia evolutiva buscam explicar como o cérebro funciona e como as pessoas se relacionam. Entender um pouco sobre esses assuntos vai ajudá-lo a perceber por que os novos métodos propiciam equipes com melhores resultados, como aprender melhor individualmente, como trabalhar melhor, além de estimulá-lo a ir além dos \"processos e ferramentas\"do dia-a-dia."
+	},
+	{
+		"id": 1366,
+		"title": "Inovando em um dos maiores varejistas americano",
+		"authors": [
+			{
+				"name": "Hugo Corbucci",
+				"gravatar_url": "https://gravatar.com/avatar/44ee3f196b3787b6ac3aa3ca9dd88784.png?s=48&d=mm"
+			}
+		],
+		"prerequisites": "Entendimento do método científico de experimentação",
+		"tags": [
+			"Negócios",
+			"Ideias",
+			"Aprendizagem",
+			"Riscos",
+			"Casos de Sucesso"
+		],
+		"session_type": "Relatos de Experiência",
+		"audience_level": "Iniciante avançado",
+		"track": "Inovação e Empreendedorismo",
+		"audience_limit": null,
+		"summary": "Grandes empresas tem um negócio estabelecido, muita gente, processos e estruturas. Em contra partida, essas empresas tem muita dificuldade em mudar esses processos, estruturas e a repensar seu negócio de forma sustentável.\r\nStartups, por outro lado, tem pouca gente, quase nenhum processo ou estrutura e muitas vezes mal sabem qual é o negócio no qual vão atuar ou como. A vantagem é que elas conseguem e precisam repensar o negócio e os processos diariamente.\r\n\r\nEsse relato conta como uma das grandes redes de varejo americana está aplicando ideias de experimentação e validação de ideias para conseguir redirecionar seu negócio aos poucos com base em ideias validadas por experimentos."
+	},
+	{
+		"id": 1369,
+		"title": "Como Disseminar a Cultura Ágil Em Todas as Áreas de Uma Grande Empresa",
+		"authors": [
+			{
+				"name": "João Paulo Novais",
+				"gravatar_url": "https://gravatar.com/avatar/79c1ebe219a78aabb49ffad4cdaf727f.png?s=48&d=mm"
+			},
+			{
+				"name": "Serge Rehem",
+				"gravatar_url": "https://gravatar.com/avatar/149a71e1921d2f9f1d143d784efe6239.png?s=48&d=mm"
+			}
+		],
+		"prerequisites": "Conhecimentos básicos sobre os principais métodos do mercado como: SCRUM, Kanban, XP",
+		"tags": [
+			"Comprometimento",
+			"Cultura",
+			"Evolução",
+			"Aprendizagem",
+			"Motivação"
+		],
+		"session_type": "Palestra",
+		"audience_level": "Iniciante avançado",
+		"track": "Coaching, Ensino e Facilitação",
+		"audience_limit": null,
+		"summary": "O que você acha do desafio de implantar métodos ágeis em uma empresa pública de 11000 funcionários espalhados pelo país? Como fomentar uma cultura de inovação e colaboração em um local onde todos são concursados e a maioria busca estabilidade?\r\n\r\nHá mais de 1 anos temos respondido a perguntas como: \"Esse negócio de Ágil não é só para software? Como vamos envolver toda a empresa?”\r\n\r\nLogística, Recursos Humanos, Comunicação Social, Jurídico, como tantas áreas/profissionais que NÃO DESENVOLVEM software podem entender o que está acontecendo? Como podem incorporar práticas ágeis em seu dia a dia e adotar na sua cultura?"
+	},
+	{
+		"id": 1372,
+		"title": "3 erros que vão falir o seu projeto ágil",
+		"authors": [
+			{
+				"name": "Raphael Molesim",
+				"gravatar_url": "https://gravatar.com/avatar/e6fec2201ab886acca610502ba7acb73.png?s=48&d=mm"
+			}
+		],
+		"prerequisites": "Conhecimento de métodos ágeis e vivência em desenvolvimento ágil",
+		"tags": [
+			"Casos de Sucesso"
+		],
+		"session_type": "Palestra",
+		"audience_level": "Iniciante avançado",
+		"track": "Gestão",
+		"audience_limit": null,
+		"summary": "Frameworks, processos, métodos e práticas podem ajudar no desenvolvimento de projetos. Porém, existem lições que só serão aprendidas com anos de prática.\r\n\r\nA palestra irá apresentar 3 erros que podem levar a morte do seu projeto. Estes erros foram sintetizados a partir da minha experiência no últimos anos liderando projetos ágeis dentro da Lambda3.\r\n\r\nO objetivo desta sessão é compartilhar as lições aprendidas através dos erros que podemos evitar para desenvolver uma relação comercial saudável entre cliente e fornecedor."
+	},
+	{
+		"id": 1376,
+		"title": "Kanban Experience - O Kaizen Game Light",
+		"authors": [
+			{
+				"name": "Rodrigo Yoshima",
+				"gravatar_url": "https://gravatar.com/avatar/0c6ef2aba144a26e0346b2ba7f18e0bb.png?s=48&d=mm"
+			}
+		],
+		"prerequisites": "Soma de números naturais, capacidade de tomar decisões rápidas, Gerentes são bem-vindos.",
+		"tags": [
+			"Melhoria contínua",
+			"Cultura",
+			"Aprendizagem",
+			"Processos",
+			"Riscos",
+			"Estratégias",
+			"Técnicas",
+			"Visualização"
+		],
+		"session_type": "Mão na Massa",
+		"audience_level": "Competente",
+		"track": "Gestão",
+		"audience_limit": 30,
+		"summary": "Nessa sessão mão na massa vamos jogar o Kaizen Game Light: um jogo de tabuleiro onde os participantes estão no comando de uma equipe e são responsáveis por entregar suas demandas encarando gargalos, falta de colaboração, custos financeiros, problemas e riscos.\r\n\r\nUsando práticas Agile e Lean como colaboração, planejamentos, fluxo, tamanho de lotes, custo do atraso, melhoria contínua e outras, o Kaizen Game é uma experiência rica de imersão focada em aumentar o entendimento dos jogadores em práticas modernas de gestão."
+	},
+	{
+		"id": 1377,
+		"title": "Desafios da consultoria ágil em um time de tamanho médio 100% distribuído",
+		"authors": [
+			{
+				"name": "Rafael Sales",
+				"gravatar_url": "https://gravatar.com/avatar/5bf3516f3e265565ff0146a8796fb300.png?s=48&d=mm"
+			}
+		],
+		"prerequisites": "Conhecimento básico de Scrum e Kanban",
+		"tags": [
+			"Coaching",
+			"Comprometimento",
+			"Melhoria contínua",
+			"Relacionamento com clientes",
+			"Programação pareada",
+			"Processos",
+			"Riscos",
+			"Times"
+		],
+		"session_type": "Relatos de Experiência",
+		"audience_level": "Iniciante avançado",
+		"track": "Interesse Geral",
+		"audience_limit": null,
+		"summary": "Oportunidades para se trabalhar remoto tem crescido bastante nos últimos anos. A rotina e a expectativa dos colaboradores e clientes de um time completamente distribuído tem mostrado novos desafios cujas soluções ainda estão sendo lentamente moldadas.\r\n\r\nMétodos ágeis oferecem bastante flexibilidade para experimentar novas idéias e ajustes de processos, porém essa abertura exige grande sincronia do time para garantir que boas idéias não sejam descartadas.\r\n\r\nNeste relato irei apresentar padrões de problemas e conflitos, assim como soluções bem sucedidas e formas de evitar extinção de boas idéias por falta de sincronia e empenho do time."
+	},
+	{
+		"id": 1379,
+		"title": "ポジティブ -  A Cultura do Positivo !",
+		"authors": [
+			{
+				"name": "Ari do Amaral Torres Filho",
+				"gravatar_url": "https://gravatar.com/avatar/61c08287959a4fbbe6287b0f62b1ca04.png?s=48&d=mm"
+			}
+		],
+		"prerequisites": "Está aberto a se livrar de todos os pensamentos negativos e a parar de buscar culpados para tudo",
+		"tags": [
+			"Cultura",
+			"Evolução",
+			"Ideias",
+			"Aprendizagem",
+			"Motivação",
+			"Oportunidades",
+			"Recuperação",
+			"Habilidade",
+			"Estratégias",
+			"Casos de Sucesso"
+		],
+		"session_type": "Você está certo disso?",
+		"audience_level": "Competente",
+		"track": "Coaching, Ensino e Facilitação",
+		"audience_limit": 250,
+		"summary": "Até que ponto aplicar Scrum ,Kanban , melhorar a engenharia de software dos projetos  é eficaz ?  Já vi empresas fracassarem fortemente na implantação de Agile por simplesmente terem uma  cultura negativa, buscarem sempre culpados e se preocuparem principalmente com que não funciona ao invés de reforçar os comportamentos positivos !\r\n\r\nQuem já participou de uma retrospectiva que os pontos positivos que deveriam serem reforçados acabam sendo esquecidos e semanas depois acabam voltando para o quadro mais agora como algo negativo ? \r\n\r\nTentarei questionar a maioria das implantações de Agile que se focam em processos e métodos mas esquecem que somos seres humanos que para  produzirmos bem, estarmos felizes é essencial!"
+	},
+	{
+		"id": 1383,
+		"title": "Design Centrado no Usuário como um driver da melhoria do processo de desenvolvimento ágil",
+		"authors": [
+			{
+				"name": "Victor Ximenes",
+				"gravatar_url": "https://gravatar.com/avatar/ff29dc896ac5c7e2a2307487b16000e9.png?s=48&d=mm"
+			},
+			{
+				"name": "Rodrigo Cursino",
+				"gravatar_url": "https://gravatar.com/avatar/e9269f41a408d9d81c3b408808b0a592.png?s=48&d=mm"
+			}
+		],
+		"prerequisites": "Além do domínio do processo de desenvolvimento num contexto ágil (especialmente o Scrum), é desejável que os participantes tenham um entendimento inicial sobre práticas de Design Centrado no Usuário.",
+		"tags": [
+			"Negócios",
+			"Relacionamento com clientes",
+			"Planejamento",
+			"Processos",
+			"Requisitos",
+			"Casos de Sucesso",
+			"Experiência do usuário"
+		],
+		"session_type": "Relatos de Experiência",
+		"audience_level": "Iniciante avançado",
+		"track": "UX, Análise e Design de Produtos",
+		"audience_limit": null,
+		"summary": "No contexto atual da indústria há uma adoção crescente tanto das metodologias ágeis quanto do design centrado no usuário (DCU). Contudo, percebe-se uma falta de sinergia entre essas duas disciplinas. Este também era o contexto de um dos projetos do CESAR com uma grande multinacional. Além disso, foi constatado que os processos de UX e desenvolvimento eram desestruturados, onde as duas equipes estavam desconectadas e não adotavam-se métodos de DCU nem de Requisitos Ágeis. Como resultado, os requisitos não eram estabilizados em tempo hábil, ocasionando mudanças dos mesmos durante a fase de desenvolvimento ou até mesmo em produção. Para tentar mudar este contexto, buscou-se a adoção de boas práticas de Requisitos ágeis e DCU a partir do uso de um processo de 3 ciclos."
+	},
+	{
+		"id": 1386,
+		"title": "Beyond Product Management - Aplicando gestão de produtos em desenvolvimento de software",
+		"authors": [
+			{
+				"name": "Julio Gejer",
+				"gravatar_url": "https://gravatar.com/avatar/a4f397a683e5c8b4ee698b9989475f56.png?s=48&d=mm"
+			}
+		],
+		"prerequisites": "Conhecer, mesmo que teoricamente, algum modelo ágil de desenvolvimento de software como scrum, kanban, XP.",
+		"tags": [
+			"Comprometimento",
+			"Relacionamento com clientes",
+			"Processos",
+			"Requisitos",
+			"Startup",
+			"Estratégias",
+			"Times"
+		],
+		"session_type": "Palestra",
+		"audience_level": "Novato",
+		"track": "UX, Análise e Design de Produtos",
+		"audience_limit": null,
+		"summary": "A gestão de produtos tem sido cada vez mais utilizada nas empresas que \"pensam ágil\", mas quando o assunto é desenvolvimento de software em geral nem sempre adota-se este modelo organizacional.\r\n\r\nNesta palestra vou comparar um modelo mais tradicional de times de desenvolvimento de software com o modelo de gestão de produtos e propor uma nova perspectiva para abordar o tema.\r\n\r\nCom exemplos práticos será mostrada uma alternativa fácil e rápida para melhorar a entrega de software mudando a forma que comunicamos, organizamos e decidimos o que fazer."
+	},
+	{
+		"id": 1393,
+		"title": "Tropeiro mineiro: como misturar Learning 1.0, 2.0 e 3.0 na preparação para uso de métodos ágeis",
+		"authors": [
+			{
+				"name": "Junilson Souza",
+				"gravatar_url": "https://gravatar.com/avatar/2b4a182131ae036a34e97f8336af2620.png?s=48&d=mm"
+			},
+			{
+				"name": "Thiago Torres",
+				"gravatar_url": "https://gravatar.com/avatar/fa10c6610a05fc6e2f9f35153d648a31.png?s=48&d=mm"
+			}
+		],
+		"prerequisites": "Conhecimentos básicos de abordagens ágeis.",
+		"tags": [
+			"Coaching",
+			"Cultura",
+			"Casos de Fracasso",
+			"Aprendizagem",
+			"Motivação",
+			"Requisitos",
+			"Casos de Sucesso",
+			"Times",
+			"Testes"
+		],
+		"session_type": "Relatos de Experiência",
+		"audience_level": "Iniciante avançado",
+		"track": "Coaching, Ensino e Facilitação",
+		"audience_limit": null,
+		"summary": "Como possibilitar a adoção da abordagem ágil em um departamento com mais de 220 funcionários?\r\n\r\nSão apresentados os resultados obtidos com o plano de capacitação em práticas ágeis do SERPRO, regional Belo Horizonte.\r\n\r\nO plano traz elementos-chave como alinhamento de conceitos, reflexão sobre valores e princípios,  compartilhamento de conhecimento e experiências no uso de práticas. Os trabalhos estão estruturados nos temas fundamentos, gerenciamento, requisitos, engenharia e testes. \r\n\r\nForam previstas modalidades distintas com ênfase no aprendizado colaborativo incluindo cursos presenciais, uso de facilitadores, mentores e coaches, instituição de comunidades de práticas, workshops, palestras e learning shots."
+	},
+	{
+		"id": 1395,
+		"title": "Gerente de Projetos – Ter ou Não Ter? Eis a Questão",
+		"authors": [
+			{
+				"name": "Lara Rejane de Jesus",
+				"gravatar_url": "https://gravatar.com/avatar/9e6c26169e3f7a422cb8813dda1c16f4.png?s=48&d=mm"
+			},
+			{
+				"name": "Renato Lossano Macedo",
+				"gravatar_url": "https://gravatar.com/avatar/b79ae65c4066e5d963bef30cf304cb14.png?s=48&d=mm"
+			}
+		],
+		"prerequisites": "Vivência com gestão de projetos. Vivência com práticas ágeis. Conhecimento do PMBOK e práticas de gestão de projetos. Conhecimento do Manifesto Ágil.",
+		"tags": [
+			"Coaching",
+			"Cultura",
+			"Evolução",
+			"Ideias",
+			"Aprendizagem",
+			"Planejamento",
+			"Processos",
+			"Riscos",
+			"Estratégias",
+			"Times"
+		],
+		"session_type": "Duelo",
+		"audience_level": "Iniciante avançado",
+		"track": "Gestão",
+		"audience_limit": null,
+		"summary": "Tendo em vista as grandes polêmicas existentes, principalmente na comunidade \r\nagilista, causadas pela eventual inclusão do Gerente de Projetos no contexto ágil, \r\neste duelo pretende provocar uma reflexão sobre as premissas da agilidade e \r\nvalores da gestão de projetos tradicional."
+	},
+	{
+		"id": 1396,
+		"title": "No Retreat, No Surrender. Agile Retrospectives in Action!",
+		"authors": [
+			{
+				"name": "David Caicedo",
+				"gravatar_url": "https://gravatar.com/avatar/ee2218ae813e4c685165864fc56e1062.png?s=48&d=mm"
+			}
+		],
+		"prerequisites": "Knowledge about Sprint Retrospectives.",
+		"tags": [
+			"Coaching",
+			"Comprometimento",
+			"Melhoria contínua",
+			"Cultura",
+			"Times"
+		],
+		"session_type": "Mão na Massa",
+		"audience_level": "Iniciante avançado",
+		"track": "Interesse Geral",
+		"audience_limit": 36,
+		"summary": "This is a workshop to practice and to improve Agile Retrospectives Techniques.\r\nWe will create some scenarios and contexts to figure out  what it's the best way to facilitate an Agile Retrospective.\r\nRetrospective is the most powerful meeting to promote continuous improvement in the workflows  processes and also in your team!. Little changes could be part of a Big change, learn how to raise a real Agile Kaizen by your own."
+	},
+	{
+		"id": 1398,
+		"title": "É mais fácil ter sucesso em uma empresa sem gerentes",
+		"authors": [
+			{
+				"name": "Giovanni Bassi",
+				"gravatar_url": "https://gravatar.com/avatar/a494c4460f4a55fffac5cd563c232cb9.png?s=48&d=mm"
+			},
+			{
+				"name": "victor Hugo Germano",
+				"gravatar_url": "https://gravatar.com/avatar/0af60e844d901dd0bb943541b357b192.png?s=48&d=mm"
+			}
+		],
+		"prerequisites": "Conhecimento sobre autoorganização e autogestão",
+		"tags": [
+			"Negócios",
+			"Cultura",
+			"Evolução",
+			"Ideias",
+			"Motivação",
+			"Oportunidades",
+			"Processos",
+			"Estratégias"
+		],
+		"session_type": "Você está certo disso?",
+		"audience_level": "Iniciante avançado",
+		"track": "Inovação e Empreendedorismo",
+		"audience_limit": null,
+		"summary": "Quando pensamos em empreender as primeiras coisas que pensamos são como conceber um produto inovador, como construí-lo, vendê-lo e ganhar espaço no mercado. Investimos pouco tempo pensando em como estruturar a empresa, como a comunicação se dará, e qual a melhor forma da empresa funcionar. Não pensar nesses pontos é mais um motivo que pode levar uma empresa que está começando ao fracasso. Por outro lado, um investimento cuidadoso nessa frente pode ser o diferencial que a empresa pode ter em relação aos concorrentes.\r\nA estruturação padrão nas empresas é baseada em uma hierarquia. Nós vamos te mostrar como essa estruturação está errada, principalmente para startups. Venha entender como e porque uma empresa sem gerentes é capaz de entregar mais do que um concorrente em mesmas condições."
+	},
+	{
+		"id": 1400,
+		"title": "Contratação Pública de TI - a visão da contratante, da contratada e a agilidade",
+		"authors": [
+			{
+				"name": "Adriane Paula",
+				"gravatar_url": "https://gravatar.com/avatar/87d8185c30bd620a82076d2dd2da1821.png?s=48&d=mm"
+			},
+			{
+				"name": "Herbert Parente",
+				"gravatar_url": "https://gravatar.com/avatar/d96a1ae2fc20bcce6292101fde07bc9d.png?s=48&d=mm"
+			}
+		],
+		"prerequisites": "Conhecimentos básicos em agilidade e conttatação pública",
+		"tags": [
+			"Negócios",
+			"Relacionamento com clientes",
+			"Métricas",
+			"Restricões"
+		],
+		"session_type": "Duelo",
+		"audience_level": "Iniciante avançado",
+		"track": "Interesse Geral",
+		"audience_limit": null,
+		"summary": "O governo é um dos maiores contratantes de software do Brasil e busca as melhores soluções e a segurança do dinheiro público. Para isso se ampara em um conjunto de leis, normativos, em uma métrica objetiva e outros aspectos que estão diretamente relacionados aos valores e princípios ágeis.\r\nAí vem a pergunta: precisa ser assim? Será que contratantes e contratados não conversam?\r\nA proposta deste duelo é mostrar os pontos de vista destes dois envolvidos na contratação e com eles podem colaborar para a construção ágil de software relevante para a sociedade brasileira.\r\nFormalização da demanda, gestão (planejamento, comunicação, custos, pessoas), documentação, escopo, entregáveis e fluxo de caixa são alguns pontos que estão sendo melhorados e que queremos debater."
+	},
+	{
+		"id": 1402,
+		"title": "Building Amazing Products! User Story Mapping in Practice.",
+		"authors": [
+			{
+				"name": "David Caicedo",
+				"gravatar_url": "https://gravatar.com/avatar/ee2218ae813e4c685165864fc56e1062.png?s=48&d=mm"
+			},
+			{
+				"name": "Juliano Ribeiro",
+				"gravatar_url": "https://gravatar.com/avatar/2d25be01b038d4a73d97c7f02b7dffe5.png?s=48&d=mm"
+			}
+		],
+		"prerequisites": "No prerequisites",
+		"tags": [
+			"Design emergente",
+			"Planejamento",
+			"Processos",
+			"Estratégias"
+		],
+		"session_type": "Mão na Massa",
+		"audience_level": "Iniciante avançado",
+		"track": "UX, Análise e Design de Produtos",
+		"audience_limit": 36,
+		"summary": "User Story Mapping is a tool  created by Jeff Patton. Its goal is to discover  a valuable software features. This tool is simple, fast and clear. In a few minutes you will see amazing results discovering prioritized features in a product. \r\n\r\nUS Mapping is a visual tool which improves communication  through better conversations to share point of views, knowledge and ideas in a real team.\r\n\r\nOnce you understand why and how to use it. You will never develop a non valuable features. Don't waste your time, learn User Story Mapping and be an Agile member in your team."
+	},
+	{
+		"id": 1403,
+		"title": "Agilidade não é para qualquer um.",
+		"authors": [
+			{
+				"name": "Dairton Bassi",
+				"gravatar_url": "https://gravatar.com/avatar/440ebe8af95b7d02dfbb77991c93f94d.png?s=48&d=mm"
+			},
+			{
+				"name": "Rafael Prikladnicki",
+				"gravatar_url": "https://gravatar.com/avatar/98944b0771d95550e4f1a01b71edeeaa.png?s=48&d=mm"
+			}
+		],
+		"prerequisites": "Conhecimento dos valores e princípios ágeis.",
+		"tags": [
+			"Coaching",
+			"Cultura",
+			"Casos de Fracasso",
+			"Implantação",
+			"Aprendizagem",
+			"Casos de Sucesso"
+		],
+		"session_type": "Duelo",
+		"audience_level": "Iniciante avançado",
+		"track": "Interesse Geral",
+		"audience_limit": null,
+		"summary": "Será que os princípios ágeis podem ser adotados com sucesso por qualquer indivíduo? Talvez a agilidade não seja a melhor abordagem para todas as equipes/pessoas. \r\n\r\nNesta sessão, refletiremos sobre a influência dos indivíduos no sucesso da adoção de agilidade. Dairton mostrará como qualquer indivíduo pode ser bem sucedido na adoção de agilidade. Por outro lado, Rafael  mostrará que a agilidade é incompatível com determinados perfis profissionais."
+	}]
+}
