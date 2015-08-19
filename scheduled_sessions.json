@@ -149,7 +149,7 @@
 		"hour": "13",
 		"minutes": "00",
 		"roomspan": 1,
-		"timespan": 2,
+		"timespan": 1,
 		"session": {
 			"id": 1155,
 			"title": "Entrega Contínua na Infoglobo: gerando valor em 2 horas",
@@ -178,7 +178,7 @@
 		"hour": "20",
 		"minutes": "00",
 		"roomspan": 1,
-		"timespan": 2,
+		"timespan": 1,
 		"session": {
 			"id": 1157,
 			"title": "3 ideias radicais para acelerar a sua entrega",
@@ -250,7 +250,7 @@
 		"hour": "14",
 		"minutes": "30",
 		"roomspan": 1,
-		"timespan": 2,
+		"timespan": 1,
 		"session": {
 			"id": 1161,
 			"title": "Um guia prático sobre como encontrar bons colegas",
@@ -313,7 +313,7 @@
 		"hour": "19",
 		"minutes": "00",
 		"roomspan": 1,
-		"timespan": 2,
+		"timespan": 1,
 		"session": {
 			"id": 1164,
 			"title": "Growth hacking: como utilizar o review das stores para melhorar seu app.",
@@ -670,7 +670,7 @@
 		"hour": "20",
 		"minutes": "00",
 		"roomspan": 1,
-		"timespan": 2,
+		"timespan": 1,
 		"session": {
 			"id": 1200,
 			"title": "Uma pergunta para melhorar o seu legado",
@@ -933,7 +933,7 @@
 		"hour": "19",
 		"minutes": "30",
 		"roomspan": 1,
-		"timespan": 2,
+		"timespan": 1,
 		"session": {
 			"id": 1215,
 			"title": "Getting the right things done: a design think approach for product development.",
@@ -1085,7 +1085,7 @@
 		"hour": "15",
 		"minutes": "30",
 		"roomspan": 1,
-		"timespan": 2,
+		"timespan": 1,
 		"session": {
 			"id": 1241,
 			"title": "Customer Success - isso mesmo, ele é seu sucesso!",
@@ -2070,7 +2070,7 @@
 		"hour": "20",
 		"minutes": "00",
 		"roomspan": 1,
-		"timespan": 2,
+		"timespan": 1,
 		"session": {
 			"id": 1365,
 			"title": "Como agilidade e práticas 3.0 beneficiam nosso cérebro 1.0",
@@ -2166,7 +2166,7 @@
 		"hour": "20",
 		"minutes": "00",
 		"roomspan": 1,
-		"timespan": 2,
+		"timespan": 1,
 		"session": {
 			"id": 1372,
 			"title": "3 erros que vão falir o seu projeto ágil",
