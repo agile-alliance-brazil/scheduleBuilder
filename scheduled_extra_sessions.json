@@ -8,10 +8,10 @@
 		"timespan": 2,
 		"session": {
 			"id": 1,
-			"title": "TBD",
+			"title": "Linda Rising",
 			"authors": [
 				{
-					"name": "Linda Rising"
+					"name": "Keynote de abertura"
 				}
 			],
 			"session_type": "Keynote",
@@ -53,7 +53,7 @@
 				}
 			],
 			"session_type": "Palestra",
-			"details": "invited"
+			"details": "sponsor"
 		}
 	},
 	{
@@ -65,10 +65,10 @@
 		"timespan": 2,
 		"session": {
 			"id": 4,
-			"title": "TBD",
+			"title": "Silvio Meira",
 			"authors": [
 				{
-					"name": "Silvio Meira"
+					"name": "Convidado Especial"
 				}
 			],
 			"session_type": "Palestra",
@@ -84,10 +84,10 @@
 		"timespan": 2,
 		"session": {
 			"id": 5,
-			"title": "TBD",
+			"title": "Michael Feathers",
 			"authors": [
 				{
-					"name": "Michael Feathers"
+					"name": "Keynote Internacional"
 				}
 			],
 			"session_type": "Keynote",
@@ -122,10 +122,10 @@
 		"timespan": 2,
 		"session": {
 			"id": 7,
-			"title": "Keynote Fora da Caixa",
+			"title": "Murillo Novaes",
 			"authors": [
 				{
-					"name": "Murillo Novaes"
+					"name": "Keynote Fora da Caixa"
 				}
 			],
 			"session_type": "Keynote",
@@ -141,10 +141,10 @@
 		"timespan": 2,
 		"session": {
 			"id": 8,
-			"title": "TBD",
+			"title": "Alexandre Magno",
 			"authors": [
 				{
-					"name": "Alexandre Magno"
+					"name": "Keynote Nacional"
 				}
 			],
 			"session_type": "Keynote",
@@ -157,13 +157,32 @@
 		"hour": "17",
 		"minutes": "30",
 		"roomspan": 1,
-		"timespan": 3,
+		"timespan": 2,
 		"session": {
 			"id": 9,
 			"title": "Nenhum Cabra Sabe Nada",
 			"authors": [
 				{
 					"name": "Convidado Especial"
+				}
+			],
+			"session_type": "Palestra",
+			"details": "interactive"
+		}
+	},
+	{
+		"room": "2",
+		"day": "2",
+		"hour": "13",
+		"minutes": "00",
+		"roomspan": 1,
+		"timespan": 2,
+		"session": {
+			"id": 10,
+			"title": "Mesa Redonda sobre Agilidade",
+			"authors": [
+				{
+					"name": "Especialistas da Comunidade"
 				}
 			],
 			"session_type": "Palestra",
@@ -178,7 +197,7 @@
 		"roomspan": 1,
 		"timespan": 4,
 		"session": {
-			"id": 10,
+			"id": 11,
 			"title": "WBMA",
 			"authors": [
 				{
@@ -197,7 +216,7 @@
 		"roomspan": 1,
 		"timespan": 6,
 		"session": {
-			"id": 11,
+			"id": 12,
 			"title": "WBMA",
 			"authors": [
 				{
