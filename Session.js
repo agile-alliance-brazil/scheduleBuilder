@@ -9,6 +9,7 @@ function Session(session) {
 	this.track = session.track;
 	this.audience_level = session.audience_level;
 	this.slides = session.slides || undefined;
+	this.summary = session.summary;
 
 	this.authorsDisplayName = function(){
 		return this.authors[0].name + (this.authors.length == 2 ? " e " + this.authors[1].name : "")
@@ -24,7 +25,7 @@ function Session(session) {
 		var level = $("<div>").addClass("level")
 							.text(this.audience_level)
 							.appendTo(cell);
-		var title = $("<a>").attr("href", "session.html#" + this.id)
+		var title = $("<a>").attr("href", "#" + this.id)
 							.attr("target", "_parent")
 							.attr("data-id", this.id)
 							.text(this.title)
