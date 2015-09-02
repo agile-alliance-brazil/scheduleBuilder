@@ -734,9 +734,9 @@
 		}
 	},
 	{
-		"room": "2",
-		"day": "3",
-		"hour": "18",
+		"room": "3",
+		"day": "1",
+		"hour": "16",
 		"minutes": "30",
 		"roomspan": 1,
 		"timespan": 2,
@@ -1704,9 +1704,9 @@
 		}
 	},
 	{
-		"room": "3",
-		"day": "1",
-		"hour": "16",
+		"room": "2",
+		"day": "3",
+		"hour": "18",
 		"minutes": "30",
 		"roomspan": 1,
 		"timespan": 2,
