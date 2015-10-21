@@ -3,6 +3,7 @@ var Table = (function () {
 		var thead = $("<thead>");
 		var dayTr = $("<tr>");
 		$("<th>").attr("colspan", Config.numberOfRooms + 1)
+				 .addClass('day')
 				 .text(Config.days[day])
 				 .appendTo(dayTr);
 		dayTr.appendTo(thead);

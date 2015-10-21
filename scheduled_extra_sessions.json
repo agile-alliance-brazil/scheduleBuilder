@@ -8,10 +8,10 @@
 		"timespan": 2,
 		"session": {
 			"id": 1,
-			"title": "Linda Rising",
+			"title": "Keynote: The Power of an Agile Mindset",
 			"authors": [
 				{
-					"name": "Keynote de abertura"
+					"name": "Linda Rising"
 				}
 			],
 			"session_type": "Keynote",
@@ -38,37 +38,18 @@
 		}
 	},
 	{
-		"room": "3",
+		"room": "2",
 		"day": "1",
-		"hour": "17",
-		"minutes": "30",
-		"roomspan": 1,
-		"timespan": 2,
-		"session": {
-			"id": 3,
-			"title": "TBD",
-			"authors": [
-				{
-					"name": ""
-				}
-			],
-			"session_type": "Palestra",
-			"details": "sponsor"
-		}
-	},
-	{
-		"room": "1",
-		"day": "1",
-		"hour": "19",
+		"hour": "15",
 		"minutes": "00",
 		"roomspan": 1,
 		"timespan": 2,
 		"session": {
 			"id": 4,
-			"title": "Silvio Meira",
+			"title": "AgilInovação: como preparar economias, sociedades e times pra Evoluir nas Crises",
 			"authors": [
 				{
-					"name": "Convidado Especial"
+					"name": "Silvio Meira"
 				}
 			],
 			"session_type": "Palestra",
@@ -99,7 +80,7 @@
 		"day": "2",
 		"hour": "18",
 		"minutes": "30",
-		"roomspan": 3,
+		"roomspan": 5,
 		"timespan": 2,
 		"session": {
 			"id": 6,
@@ -118,14 +99,14 @@
 		"day": "2",
 		"hour": "19",
 		"minutes": "30",
-		"roomspan": 3,
+		"roomspan": 5,
 		"timespan": 2,
 		"session": {
 			"id": 7,
-			"title": "Murillo Novaes",
+			"title": "Keynote fora da caixa: Já imaginou como seria afundar um barco de verdade?",
 			"authors": [
 				{
-					"name": "Keynote Fora da Caixa"
+					"name": "Murillo Novaes"
 				}
 			],
 			"session_type": "Keynote",
@@ -141,10 +122,10 @@
 		"timespan": 2,
 		"session": {
 			"id": 8,
-			"title": "Alexandre Magno",
+			"title": "Keynote: Compartilhar é o novo ensinar!",
 			"authors": [
 				{
-					"name": "Keynote Nacional"
+					"name": "Alexandre Magno"
 				}
 			],
 			"session_type": "Keynote",
@@ -152,10 +133,10 @@
 		}
 	},
 	{
-		"room": "3",
+		"room": "4",
 		"day": "3",
-		"hour": "17",
-		"minutes": "30",
+		"hour": "15",
+		"minutes": "00",
 		"roomspan": 1,
 		"timespan": 2,
 		"session": {
@@ -171,37 +152,37 @@
 		}
 	},
 	{
-		"room": "2",
+		"room": "4",
+		"day": "2",
+		"hour": "12",
+		"minutes": "00",
+		"roomspan": 1,
+		"timespan": 2,
+		"session": {
+			"id": 20,
+			"title": "Abertura do WBMA & Keynote: The joys and challenges of research projects with industry partners",
+			"authors": [
+				{
+					"name": "Celio Junior & Frank Maurer"
+				}
+			],
+			"session_type": "Palestra",
+			"details": "wbma"
+		}
+	},
+	{
+		"room": "4",
 		"day": "2",
 		"hour": "13",
 		"minutes": "00",
 		"roomspan": 1,
 		"timespan": 2,
 		"session": {
-			"id": 10,
-			"title": "Mesa Redonda sobre Agilidade",
+			"id": 21,
+			"title": "Critical factors in agile software projects according to people, process and technology perspective & Technical Debt Management in the Brazilian Federal Administration",
 			"authors": [
 				{
-					"name": "Especialistas da Comunidade"
-				}
-			],
-			"session_type": "Palestra",
-			"details": "interactive"
-		}
-	},
-	{
-		"room": "4",
-		"day": "2",
-		"hour": "12",
-		"minutes": "00",
-		"roomspan": 1,
-		"timespan": 4,
-		"session": {
-			"id": 11,
-			"title": "WBMA",
-			"authors": [
-				{
-					"name": ""
+					"name": "Karla Silva et al & Tiago Assunção et al"
 				}
 			],
 			"session_type": "Palestra",
@@ -214,17 +195,97 @@
 		"hour": "15",
 		"minutes": "00",
 		"roomspan": 1,
-		"timespan": 6,
+		"timespan": 2,
 		"session": {
 			"id": 12,
-			"title": "WBMA",
+			"title": "What is Agile, Which Practices are Used, and Which Skills are Necessary According to Brazilian Professionals: Findings of an Initial Survey & Guide to the Support for the Enhancement of Security Measures in Agile Projects",
 			"authors": [
 				{
-					"name": ""
+					"name": "Elisa Diel et al & Dayanne Barbosa et al"
 				}
 			],
 			"session_type": "Palestra",
 			"details": "wbma"
+		}
+	},
+	{
+		"room": "4",
+		"day": "2",
+		"hour": "16",
+		"minutes": "00",
+		"roomspan": 1,
+		"timespan": 2,
+		"session": {
+			"id": 12,
+			"title": "On the Agile Transformation in a Large-Complex Globally Distributed Company: Why Boarding this Journey, Steps Taken, and Main Foreseen Concerns & O Ensino de Métodos Ágeis através de projeto com Arduino",
+			"authors": [
+				{
+					"name": "Greice Roman et al & Avelino Filho et al"
+				}
+			],
+			"session_type": "Palestra",
+			"details": "wbma"
+		}
+	},
+	{
+		"room": "4",
+		"day": "2",
+		"hour": "17",
+		"minutes": "00",
+		"roomspan": 1,
+		"timespan": 2,
+		"session": {
+			"id": 12,
+			"title": "Adaptação do Scrum aderente ao nível G do MPS.BR baseada na experiência dos Implementadores, Avaliadores e Empresas Avaliadas & Como a adoção do método ágil SCRUM se relaciona com a produtividade de equipes de desenvolvimento de software?\nPremiação de Best Paper e Encerramento",
+			"authors": [
+				{
+					"name": "Jeferson Vieira et al & Marina Bellenzier et al"
+				}
+			],
+			"session_type": "Palestra",
+			"details": "wbma"
+		}
+	},
+	{
+		"room": "2",
+		"day": "1",
+		"hour": "14",
+		"minutes": "00",
+		"roomspan": 1,
+		"timespan": 2,
+		"session": {
+			"id": 13,
+			"title": "Next Level Agile",
+			"authors": [
+				{
+					"name": "Ben Carey"
+				}
+			],
+			"session_type": "Palestra",
+			"details": "sponsor",
+      "summary": "Over the past several years, many large-scale software development organizations have embraced agile. In this time, we’ve also been privileged to study several large organizations, some with more than 10 years of agile history. The prognosis for many of these companies is not good: some of the largest and most agile companies are evolving to the easiest solutions, not the best ones.\nAgile was first adopted at the team level: groups of 7 plus or minus 2 people embracing agile practices. But in reality, this is not how most enterprise software is delivered. Enterprise software depends on multiple teams working toward common objectives. Most enterprise companies are just beginning to harness agile at this level.\nWith this next level comes a new focus on agile adoption patterns and a back-to-basics approach. Companies adopting agile must come to grips with the reality that successful agile at scale requires hard organizational choices. Companies willing to go “all-in” are reaping immense rewards, including the ones who have been agile for many years."
+		}
+	},
+	{
+		"room": "2",
+		"day": "1",
+		"hour": "17",
+		"minutes": "30",
+		"roomspan": 1,
+		"timespan": 2,
+		"session": {
+			"id": 14,
+			"title": "A Transformação Ágil da Dell",
+			"authors": [
+				{
+					"name": "Rafa Nascimento"
+				},{
+					"name": "Giovani Salvador"
+				}
+			],
+			"session_type": "Palestra",
+      "details": "sponsor",
+			"summary": "Como uma das maiores empresas de tecnologia do mundo está se organizando para migrar de um modelo Waterfall de desenvolvimento de produtos para o modelo Agile?\nQuais seus desafios, o que é possível ser aplicado atualmente e como tem quebrado seus paradigmas? Detalharemos as motivações, o dia-a-dia, as expectativas, estruturas de equipes e o processo de conscientização e transformação que está mobilizando milhares de profissionais ao redor do mundo para agregar mais velocidade e qualidade aos resultados desta empresa-ícone da computação, almejando abrir espaço para um grau mais alto de inovação, satisfação e orgulho."
 		}
 	}
 ]

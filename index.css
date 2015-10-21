@@ -154,6 +154,9 @@ td div {
 	th {
 		background-color: #666;
 	}
+	th.day {
+		display: none;
+	}
 	body table {
 		page-break-after: always;
 	}
@@ -164,10 +167,16 @@ td div {
 		font-size: 0.2cm;
 	}
 	body table td.wbma {
-		font-size: 0.2cm;
+		font-size: 0.25cm;
 	}
 	body table td.wbma .authors {
-		font-size: 0.2cm;
+		font-size: 0.20cm;
+	}
+	body table td.wbma .level {
+		display: none;
+	}
+	body table td.wbma .track {
+		display: none;
 	}
 	body table td div {
 		padding: 0.25em;

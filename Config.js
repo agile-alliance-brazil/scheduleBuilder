@@ -7,11 +7,11 @@ var Config = (function () {
 
 	var numberOfRooms = 5;
 	var rooms = {};
-	rooms[1] = "Sala 1";
-	rooms[2] = "Sala 2";
-	rooms[3] = "Sala 3";
-	rooms[4] = "Sala 4";
-	rooms[5] = "Sala 5";
+	rooms[1] = "Frevo";
+	rooms[2] = "Maracatu";
+	rooms[3] = "Forró DigithoBrasil";
+	rooms[4] = "Baião";
+	rooms[5] = "Mangue Beat";
 
 	var slots = {};
 	slots[1] = ["10:00", "10:30", "11:00", "11:30", "12:00", "12:30", "13:00", 
@@ -24,26 +24,26 @@ var Config = (function () {
 
 	slots[3] = ["10:00", "10:30", "11:00", "11:30", "12:00", "12:30", "13:00", 
 				"13:30", "14:00",  "15:00", "15:30", "16:00", "16:30","17:00", 
-				"17:30", "18:00", "18:30", "19:00", "19:30", "20:00"];
+				"17:30", "18:00", "18:30", "19:00", "19:30"];
 
 	var foodStops = [];
 	foodStops[1] = {"10:00": "Abertura",
 					"13:00": "Brunch",
 					"16:00": "Coffee",
-					"18:30": "Kits de lanche",
+					"18:30": "Break",
 					"20:30": "Fim do Dia"};
 
 	foodStops[2] = {"10:00": "Abertura",
-					"11:30": "Kits de lanche",
+					"11:30": "Break",
 					"14:00": "Brunch",
 					"18:00": "Coffee",
 					"20:30": "Fim do Dia"};
 
 	foodStops[3] = {"10:00": "Abertura",
-					"11:30": "Kits de lanche",
+					"11:30": "Break",
 					"14:00": "Brunch",
 					"17:00": "Coffee",
-					"20:00": "Fim do Dia"};
+					"19:30": "Fim do Dia"};
 
 	var tags = ["Testes", "Refatoração", "Restricões", "Planejamento", "Oportunidades", 
 			"Motivação", "Melhoria contínua", "Ideias", "Cultura", "Comprometimento", 

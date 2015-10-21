@@ -32,7 +32,7 @@
 				console.log("Successfully loaded " + address);
 			})
 			.fail(function() {
-				console.log("error retrieving accepted_sessions");
+				console.log("error retrieving accepted_sessions from " + address);
 			});
 		}
 
@@ -79,8 +79,8 @@
 		buildBaseTable(2);
 		buildBaseTable(3);
 
-		retrieveSessions("scheduled_sessions.json");
 		retrieveSessions("scheduled_extra_sessions.json");
+		retrieveSessions("scheduled_sessions.json");
 	</script>
 </body>
 </html>
