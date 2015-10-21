@@ -8,8 +8,8 @@ var Config = (function () {
 	var numberOfRooms = 5;
 	var rooms = {};
 	rooms[1] = "Frevo";
-	rooms[2] = "Maracatu";
-	rooms[3] = "Forró DigithoBrasil";
+	rooms[2] = "Forró DigithoBrasil";
+	rooms[3] = "Maracatu";
 	rooms[4] = "Baião";
 	rooms[5] = "Mangue Beat";
 
